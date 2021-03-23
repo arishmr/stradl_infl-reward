@@ -1,0 +1,1189 @@
+﻿ID,CurrentOcc,FatherOcc,Handedness,Education,MaritalStatus,AlcUnitsWeek,AlcUnitsYest,Cigarettes,Illness,IllnessDiagnosis,Hypertension,CurrentsMeds,JawPain,Infections,Loneliness,Fatigue
+ST1AAB0001,Office Administrator,Factory Worker,1,1,5,2,0,0,0,,0,"Atenolol, Simvastim",,,2,
+ST1AAB0002,Driver/semi retired,Draughtsman,1,3,4,17,0,0,1,"Prolapsed Disc, Arthritic Knee",0,Ibufrofen as required,,,2,
+ST1AAB0003,Accounts Assistant,Fisherman,1,1,2,2,0,20,0,,0,Citalopram,,,1,
+ST1AAB0005,Retired,Accountant,1,1,2,1,1,0,1,Under Active Thyroid,0,Thyroxin,,,1,
+ST1AAB0006,Retired Teacher,Meter Inspector,1,3,1,7,2,0,1,"Severe depression & Anxiety, Severe genetic Osteoarthritis & Hypertension",1,Candersartan and sleeping tablet,,,3,
+ST1AAB0007,Lorry Driver,Deceased,1,3,4,3,1,0,0,,0,Paracetamol as required,,,1,
+ST1AAB0008,BT Telephone Engineer,Building Contractor,1,1,2,4,0,0,1,Hypertension,1,"Atenolol, Statin, Aspirin & another two (unknown name)",,,1,
+ST1AAB0009,School Administrator,Retired Carpenter,1,1,2,0,0,0,0,,0,None,,,1,
+ST1AAB0010,Retired,Engineer,1,3,2,27,0,0,0,,0,None,,,1,
+ST1AAB0011,Staff Nurse,Retired Wireman,1,1,2,0,0,,0,,0,"Glucosamin/Chondroiton, Multi Vitamin",,,1,
+ST1AAB0012,,,1,1,2,,,20,0,,0,None,,,1,
+ST1AAB0013,Unemployed,Green Grocer,1,1,2,2,0,0,0,,0,None,,,1,
+ST1AAB0014,Full Time Carer,Grain Labourer,1,1,2,,,0,1,High Blood Pressure,1,"Doxazosin 4mg, Emeprazole 40mg, Atenolol 25mg, Tolterdine 4mg",,,1,
+ST1AAB0015,Retired Teacher,Quantity Surveyor,1,3,2,8,0,0,0,,0,None,,,1,
+ST1AAB0016,Retired Fire Fighter,Lorry Driver,1,1,2,8,0,,1,Depression,0,None,,,1,
+ST1AAB0017,Office Manager,Engineer,1,2,2,2,0,0,0,,0,"Naramig, Ganapentin, Propranalol",,,1,
+ST1AAB0018,Accountant,Accountant,1,3,5,3,0,0,1,Diabetes,0,"Metformin, Simvastatin",,,1,
+ST1AAB0019,Offshore Installation Manager,Trawl Skipper,1,3,2,18,0,0,1,Hypertension,1,Lorsartan,,,1,
+ST1AAB0020,Construction Foreman,Shunter,3,1,2,10,0,0,0,,0,None,,,1,
+ST1AAB0021,Community Nurse,Typewriter Mechanic,1,3,4,3,1,0,0,,1,"Methotrexate, Atenolol, Amlopedine, Foliv Acid, Co-Codamol, Omeprazole",,,1,
+ST1AAB0022,Civil Engineer,Meter Reader,1,3,2,21,2,0,0,,0,"Atenolol 25mg, Eplerenone 25mg, Ranipril 1.25mg, Atorvastatin 80mg, Omeprazole 20mg, Clopidogrel 75mg",,,1,
+ST1AAB0023,Legal Secretary,Plumber and Electrician,1,3,2,0,0,0,0,,1,Cyclosporn,,,1,
+ST1AAB0024,Company Director,Plumber,2,3,2,10,0,0,0,,0,None,,,1,
+ST1AAB0025,Retired,Fish Filleter,1,1,4,4,0,25,1,"Asthma, Emphysema",0,"Omeprazole 20mg, Seritide Inhaler, Slabutamol Inhaler, Simvistatin 40mg, Clopidegrel 75mg, Slo-Phyllin 125mg, Ventolin Inhaler",,,1,
+ST1AAB0026,Project Manager,Maintenance Engineer,1,3,2,14,0,0,0,,0,None,,,1,
+ST1AAB0027,Relief Recovery Worker,Builder,1,1,1,1,0,0,1,Hypertension,1,"Ramipril, Atenolol, HRT, Amitripiline, Levoceritide",,,1,
+ST1AAB0028,Cashier,Painter & Decorator,1,2,4,6,1,0,0,,0,None,,,1,
+ST1AAB0029,Retired,Taxation Auditor,1,3,2,6,0,0,0,,0,Thyroxine,,,1,
+ST1AAB0030,Rig Manager,Fish Market Porter,1,1,2,10,0,0,0,,0,None,,,1,
+ST1AAB0031,Superintendent radiographer,Management,1,3,2,3,1,0,1,Benign Adenoma,0,Thyroxine,,,1,
+ST1AAB0032,Retired Civil Servant,Publican,1,3,1,35,5,0,1,Depression/Anxiety,0,Citalopram,,,1,
+ST1AAB0033,Accountant,Labouror,1,1,2,9,0,0,1,"Crones Disease, Ileostomy, Protectomy",1,"Ramapril, Amlodipine, Simvistatin",,,1,
+ST1AAB0034,Retired Secretary,Building mason,1,2,2,20,3,0,1,Anxiety & panic Attacks,0,None,0,0,1,
+ST1AAB0035,Cleaning Operative,Ironmongers Assistant,1,1,1,0,0,0,1,Paranoid Schizophrenia,0,"Olanzapine, Simvastatin",,,1,
+ST1AAB0036,Book Binder,Painter & Decorator,1,2,2,0,0,0,1,Work induced stress,0,None,,,1,
+ST1AAB0037,Unpaid Carer,Taxi Driver,1,3,2,0,0,0,0,,0,None,,,1,
+ST1AAB0038,Part Time Driver,Petrol Tanker Driver,1,2,2,0,0,20,1,"Dupuytren'shands contracture, Sciatica, Arthritic Knees",1,"Aspirin, Losec, Atenolol, Enalipril, Simvastatin",,,1,
+ST1AAB0039,Retired Senior Support Worker,Heating Engineer,1,3,2,10,0,0,0,,0,None,,,1,
+ST1AAB0040,Retired Aircraft Technician,Rigger,3,1,2,20,0,0,1,Hernia,1,Valsartan,,,1,
+ST1AAB0041,Pharmacy Dispenser,Fish Merchant,1,3,3,4,0,0,1,"Multiple Sclerosis, Depression",1,"Bendroflumethiazide, Irbestartin, Citalopram, Esomeprazole, Atornavastatin",0,0,2,
+ST1AAB0042,Retired Secretary,Butcher,1,2,2,10,2,0,1,Clinical Depression,0,None,0,0,1,
+ST1AAB0043,Customer Service Assistant,Bus Driver,1,1,2,0,0,0,1,"Asthma, Arthritis",0,"Salabutomol Inhalor, Celexocib",,,1,
+ST1AAB0044,"Self-employed, Plastering Business",Ariel Rigger,1,1,2,0,0,0,0,,0,Dihydrocodeine,0,0,1,
+ST1AAB0045,Retired Restaurant manager,Fish Merchant,1,1,2,4,0,0,0,,0,None,0,0,1,
+ST1AAB0046,Retired Teacher,Labourer,1,3,2,12,1,0,0,,0,None,0,1,2,
+ST1AAB0047,"Housewife, Draughtswoman",Ships Rigger,1,2,4,0,0,0,1,Rheumatoid Arthritis,0,"Furosemide, Tramadol, Celbrex, Methotrexate, Cetrizine, Dihydrocodiene, Certomizulabpergol",0,0,1,
+ST1AAB0048,Swimming Coach,Engineer,1,3,4,5,0,0,0,,0,"HRT Cream, Hydrocortizone",0,1,1,
+ST1AAB0049,Retired teacher,Assistand Administrator,1,3,1,2,0,0,1,"Colonoscopy following bowel screening, diverticulitos, Hyperplastic polup, Blephiritus",0,None,0,0,1,
+ST1AAB0050,Retired Care Assistant,Aberdeen Cleansing Department,1,2,1,0,0,0,1,"Diabetes, High Blood Pressure and high cholesterol",1,"Furosemide, Fexofenadine hydrochloride, Ramipril, Metformin, Sitagliptin,Chlomiperide, Rovastatin, Omeprazole",0,0,1,
+ST1AAB0051,Teacher,Office Worker,1,3,2,2,0,0,1,"Spinal Arthritis, Multiple Sclerosis, Under Active Thyroid",0,Levothyroxine,0,0,1,
+ST1AAB0052,Biologist,Casheir/Book Keeper,1,3,2,14,2,0,1,Depression,0,None,0,0,1,
+ST1AAB0053,Offshore Steward,Barman,1,2,1,12,0,4,0,,0,None,0,0,2,
+ST1AAB0054,Teacher,Joiner,1,3,2,5,1,0,1,Anxiety,0,Mebeverine,0,0,1,
+ST1AAB0055,Retired Research Technician,Heating Engineer,1,3,2,1,0,0,1,"Depression, Polymyalgia Rheumatica",0,Bethnhistine Dihydrochloride,0,0,1,
+ST1AAB0057,Retired Health and Safelty Officer,Engineer,1,3,2,28,6,0,1,Prone to Chest Infections,0,"Ramipril, Salabutamol Inhaler",0,1,1,
+ST1AAB0058,Admin Assistant,Railway Goods Checker,1,1,2,1,0,0,0,,0,None,0,0,1,
+ST1AAB0059,Rigger Offshore,Crane Operator Harbour,1,2,2,15,2,0,0,None,0,None,0,0,1,1
+ST1AAB0060,Retired Driver,Shipyard Worker,2,2,2,0,0,0,1,"High BP, High Cholesterol, Atrial Fibrillation",1,"Clopidegrel, Tramadol, Atovarstatin, Gabapentin, Ramipril, Meloxicam, Lansoprazole, Paracetamol",0,0,1,
+ST1AAB0061,Retired Practice Nurse,Trawlerman,1,2,5,6,0,0,0,,0,None,0,0,1,
+ST1AAB0062,Retired Teacher,Journalist & Director for Tourism,1,3,2,1,0,0,1,"Diverticular Disease, Mild Asthma, Osteoathritis",0,"Montelukast, Budesonide, Glucosamine & Chondroitism, Buscopan",0,0,1,
+ST1AAB0063,Till Operator,Blacksmith,1,1,2,2,0,0,1,Depression,0,None,0,0,1,
+ST1AAB0064,Foster Carer,Gas Pipe Fitter,1,2,2,1,0,0,1,"Arthritis, High Blood pressure, Hodgkins Lymphoma(1989)",1,"Penicillin, Perindopril, Flouexitine, Amplopodine, Hydrochloride, HRT, Ranitidine",0,0,1,
+ST1AAB0065,Part time Development Engineer,Engineer,1,2,2,16,0,0,1,Colitis,0,Asacol,0,0,1,
+ST1AAB0066,Driver,Engineer,1,2,2,0,0,0,1,"Depression, Fibromyalgia, Back Operation, Bleeding Ulcer, Chronic Fatigue Syndrome",1,"Amitriptyline, Athrotec, Folic Acied, Gliclazide, Ramapril, Metformin, Lansoprazol, Atorvastatin",1,0,1,
+ST1AAB0067,Retired banker,Lab Technichian,1,1,2,10,2,0,1,Atrial Fibrillation,1,"Ramapril, Bisoprolol, Dibagatran, Atorvastatin",0,0,1,
+ST1AAB0068,Telesales person,Factory Supervisor,1,2,5,20,0,0,0,,0,None,0,0,1,
+ST1AAB0069,Operations Manager,Storeman,1,3,5,0,0,25,1,Type 1 Diabetic,1,Ramipril,0,0,1,
+ST1AAB0070,Financial Planning Administrator,Road Worker,1,3,2,4,0,0,0,,0,None,0,0,1,
+ST1AAB0071,Retired sales Executive,Safety Officer,1,1,2,10,0,0,0,,0,None,0,0,1,
+ST1AAB0072,Director (Office Duties),Fish Market Porter,1,1,2,0,0,0,1,Arthritis,0,None,0,0,1,
+ST1AAB0073,"Retired Telecommunication Engineer, current messenger for solicitors",Master Printer,1,1,2,2,0,0,0,,1,"Ramapril, Bendrofluazide",0,0,1,
+ST1AAB0074,Retired Administrator,Technician,1,2,2,4,0,0,1,Uveitis,0,None,0,0,1,
+ST1AAB0075,Nurse/Teacher,GPO Engineer,1,3,2,2,0,0,1,"Depression, Primary Biliary Cirrhosis",1,Ursodeoxycholic Acid,0,1,1,
+ST1AAB0076,Company Director,Construction manager,1,2,2,6,0,0,1,Crohns Disease,0,"Nitrofuratoin, Omeprazole, Metronidazole, Loperamide",0,0,1,
+ST1AAB0077,Crew Leader Virgin Trains,Loader,1,1,2,0,0,0,1,High Blood Pressure,1,"Simvastatin, Clopidogel, Ropinirole",0,0,1,
+ST1AAB0078,Sole Trader/Former Teacher,Farm Manager,1,3,1,36,0,0,1,Irregular Heart beat (palpatations),0,"Beta Bisoprolol, Tamuslin, Finasteride",0,0,1,
+ST1AAB0079,Kit Man/Ex Police,Berthing Master,1,2,2,20,3,0,1,"Diabetes, narrowing of arteries",0,"Glimepride, Competact, Bisoprosol, simvestatin, Omeprazole, aspirin",0,0,1,
+ST1AAB0080,Publican,Hotel Porter,1,2,2,20,0,0,0,,0,None,0,0,1,
+ST1AAB0081,Full time carer,Purchase manager,1,2,1,4,0,0,0,,0,None,0,0,1,
+ST1AAB0082,Receptionist,Publican,1,1,2,0,0,0,1,Hiatus Hernia,0,Omeprazole,0,0,1,
+ST1AAB0083,Clerical/Care Worker,Slaughterman,1,2,4,0,0,0,1,"Depression, Raynauds Disease, Osteoporosis, Arthritis, COPD",0,"Citalopram, Tramadol, Steroid Inhaler, Ventolin",1,0,2,
+ST1AAB0084,Handyman/Gardener,Baker/Postman,1,2,2,0,0,0,1,"Stress, Knee problems, Lymphodema",0,"Chlorithromycin, Omeprazole (a gout table too)",0,1,1,
+ST1AAB0085,Retired Medical Receptionist,Welder,1,1,2,9,1,0,1,"Primary Bilary Cirrhosis, Osteoperosis",0,"Omeparazole, Calcium D3 Forte, Allendronic Acid, Urecholine Acid",0,0,1,
+ST1AAB0086,Research Assistant,Teacher,1,3,2,18,0,0,1,Arthritis,0,Clonidine,0,1,1,
+ST1AAB0087,Dog Walker,Dispatch Clerk,1,2,2,9,0,0,1,Under and over active Thyroid,0,Thyroxin,0,1,1,
+ST1AAB0088,Secretary,Sales Representative,1,2,2,9,0,0,0,,0,None,0,0,1,
+ST1AAB0089,Assistant Administrator,Transport Manager,2,3,4,14,0,15,1,"Depression, Underactive Thyroid",0,"Thyroxine, Fluoxetine",0,0,1,
+ST1AAB0090,Retired School Secretary,Royal Navy,1,2,5,0,0,20,1,Contant pain in both feet following abotched operation to them both,0,"Co-codamol, Diazapam, Voltarol",1,0,1,
+ST1AAB0091,Retired Company Director,Insurance Inspector,1,1,2,4,0,0,1,"Chronic left sided back, neck and shoulder pain",0,None,0,0,1,
+ST1AAB0092,Retired General accounts administrator,Street Orderly,1,2,2,5,0,0,1,High Blood Pressure,1,"Bendroflumethiazide, Losartan, Lansoprazole",0,0,1,
+ST1AAB0093,Choose Life Co-ordinator,Police Officer,1,3,2,18,0,0,1,"Cancer, Collapsed Lung, Veins removed from leg",1,"Benzofluazide, Felodopine, Lisinorpil, aspirin",0,1,1,
+ST1AAB0094,IT Support,Paper Merchant and Business Owner,1,3,4,1,0,0,1,Depression,0,None,0,0,1,
+ST1AAB0095,Voluntary Worker,Sales Executive,1,2,2,9,0,0,1,"Depression, Diverticular Disease, Hernia, Eczema, Arthritis, Athsma",1,"Double Base Gel, Dermovate, Fostair, Clobetasone Cream, Ramipril, Salabutamol, Certrizine, Neutragena, Lanzoprazole, Ibuprofen, Sertraline, Calcichew, D3 Forte",0,0,1,
+ST1AAB0096,Retired Glazing Business Owner,Marine Engineer,1,2,2,9,0,0,0,,0,None,0,0,1,
+ST1AAB0097,Lecturer,Postal Clerk,1,3,2,20,0,0,1,Asthma,0,SalabutamolInhaler,0,0,1,
+ST1AAB0098,Bus Driver,Mechanical Engineer,3,1,2,12,0,0,1,"High blood pressure,prostrate problems, diet controlled diabetes",1,"Tamsulosin, Atenolol, Bendroflumethiazide",0,0,1,0
+ST1AAB0099,Admin Assistant,Steel Fixer,1,1,2,4,0,0,1,High Blood Pressure,1,"Bendroflumethiazide, Ramipril",0,0,1,
+ST1AAB0101,Retired Transport Manager,Bus Driver,1,2,2,0,0,20,1,"Depression, COPD, Type 2 Diabetes, Asthma, L1,L2 & T12 discs worn, Emphysema, Angina, Chronic Back pain, LSS1 on spine",0,"Simvastatin, Lansoprazole, Ramipril, Tramadol, Aspirin, Amlodipine, Citalopram, BuTrans Patch, Metoprolol, Solpadol, Symbacort Inhaler",0,0,1,
+ST1AAB0102,Local Government Officer,Bus Inspector,1,3,3,13,0,0,1,"Depression, Anorexia",0,Escitalopram,0,0,1,
+ST1AAB0103,Retired Paediatric Doctor,Doctor,1,3,2,14,1,0,0,,0,None,0,0,1,0
+ST1AAB0104,Admin Assistant,Welder,1,1,2,0,0,0,1,"Depression, High BP",1,Losatran,0,0,1,
+ST1AAB0105,Retired Book Keeper,Teacher,1,2,2,1,0,0,1,High Blood Pressure,1,Amlopodine,0,1,1,
+ST1AAB0106,Public Affairs Advisor,Company Manager,1,3,2,18,0,0,1,High Blood Cholesterol,0,None,0,0,1,
+ST1AAB0107,Retired Occupational Therapist Assistant,Insurance Agent,1,1,2,4,1,0,1,"Fybromyalgia, Arthritec Knees",0,None,1,0,1,
+ST1AAB0108,Personal Carer,Unknown,1,2,2,0,0,0,1,High Cholesterol,0,Simvistatin 40mg,0,0,1,
+ST1AAB0109,Retired Factor/School Teacher,Sales Rep,1,3,2,12,3,0,1,Stroke,1,None,0,0,1,
+ST1AAB0110,Internation HR Manager,Bus Conductor,1,3,5,0,0,0,1,"Fibromyalgia, tinitus, IBS, Frozen Shoulder, Pernicious Anaemia",0,"B12 Injections, HRT",0,0,1,
+ST1AAB0111,IT Servies Manager,Baker,1,3,2,10,0,0,1,"Stress related disorder, High cholesterol",0,None,0,0,1,
+ST1AAB0112,Retired health Promotoin Practioner,Fish market Porter,1,3,2,14,1,0,1,"Anxiety and Depression, Osteoarthritis, Arthritis",0,None,0,0,1,
+ST1AAB0113,Retired Teacher/Occupational Therapist,Electrician,1,3,2,1,0,0,1,"Hiatus Hernia, Irritable Bowel Syndrome, Chronic Blephiritis",0,"Lansoprazole, Dermovate",1,1,1,
+ST1AAB0114,Retired Primary Teacher,Printing Overseer,1,3,2,2,0,0,1,"Hypertension, High Blood Cholesterol, Dieulafoy Legion",1,"Ramipril, Simvastatin, Omeprazole",0,0,1,
+ST1AAB0115,Cash Control Officer,Fire Fighter,1,3,2,14,0,0,1,"Depression, Irritable Bowel Syndrome",0,"Cetraline, Glucosamine, Omeprazole, Paracetamol, Optibac, Naproxin",0,0,1,1
+ST1AAB0116,Maths Teacher,Architect,1,3,2,9,0,0,1,"Post Natal Depression, High BP, Bad Back, Reumatoid Arthritis",1,"Candesartan, Bendofluathamizide, Simvistatin",0,0,1,
+ST1AAB0117,Retired,Lawyer,1,3,2,9,0,0,0,,0,None,0,0,1,
+ST1AAB0118,Company Director,Fish Market Porter,1,3,4,17,4,0,1,"Oesophageal Achalasia, Arthritis",0,None,0,0,1,
+ST1AAB0119,Retired Charge Hand Cleaner,Company Director,1,1,2,10,1,0,1,"Aortic Bi-Lateral Graft, Hernia Operation",1,"Domperidone, Omeprazole, Soluble Disprin, Rampril, Metformin, Amlopedine",0,0,1,
+ST1AAB0120,Retired Pharmacy Store Keeper,Labourer,1,2,2,6,0,0,1,"Depression, Leukemia",0,"Co-Trimoxazole, Aciclover",0,0,1,
+ST1AAB0121,Retired Deputy Head Teacher,Box Maker,1,3,2,10,2,0,1,"Depression, Under Active Thyroid, Mild Crest Syndrome, Meniere's  Disease",0,"Thyroxine, Bethahistine, Cod Live Oil",0,0,1,
+ST1AAB0122,Retired Accountant,GP,1,2,1,10,0,0,1,Cerebral Palsy,1,"Benaroflumthlagine, Atorvastatin, Ramipril, Atenelol, Omepragole",0,0,1,
+ST1AAB0123,Post Woman,Shipyard Plater,1,1,2,0,0,0,1,Spinal Stinosis,0,None,0,0,1,
+ST1AAB0124,Baggage Handler,Labourer,1,1,4,20,0,12,0,,0,heart tablet' Generation Scotland Study,0,0,1,
+ST1AAB0125,Ritered Control Room Assistant,Lorry Driver,1,2,2,1,0,0,0,,0,None,0,0,1,
+ST1AAB0126,Retired Guidance Teacher,Milk Man,1,3,2,24,2,0,0,,0,None,0,0,1,
+ST1AAB0127,Vessel Traffic Services,Civil Servant,1,2,4,5,0,0,1,Childhood Asthma,0,None,0,0,1,0
+ST1AAB0128,Subsea Designer,Ship Yard Worker,1,3,4,9,0,0,1,"Psoriasis, Left Knee problems",0,None,0,0,1,
+ST1AAB0129,Retired Hotelier,Publican,1,2,2,0,0,0,0,,0,None,0,0,1,
+ST1AAB0130,Managing Director,Clerk,1,3,2,0,0,0,0,,0,None,0,0,1,
+ST1AAB0131,Fix Cars,Lawyer,1,2,2,14,9,0,1,Grover's Disease,0,Hydrocotizone cream,0,0,1,
+ST1AAB0132,Clinical Director/Quality Manager NHS,Licence Cruiser,2,3,2,0,0,0,1,"Osteoperosis, Long QT Syndrome, High Blood Cholesterol",0,"Zoledronic Acid, Atenelol, Calcitrol, Simvistatin",0,0,1,
+ST1AAB0133,Retired Sales Administrator,Scaffolder,2,1,5,0,0,30,0,,0,None,0,0,1,0
+ST1AAB0134,Unemployed Accountant,Technical Assistant,1,3,2,10,0,0,1,Hypertension,1,Ramipril,0,0,1,
+ST1AAB0135,Retired Domestic Assistant at ARI,Baker,1,2,2,0,0,0,1,Restless legs,0,Ropinerole,0,0,1,
+ST1AAB0136,Retired Teacher,Chief Administrator Dental Officer,1,3,2,0,0,0,1,"Rhematoid arthritis, hyperthyroidism",0,"Thyroxine, Methotrexate, leflunomide, Meloxicam",0,0,1,
+ST1AAB0137,Retired Director of Finance,Publican,1,3,4,2,0,0,1,"Triple Heart Bypass, High BP, Diabetes Type 2",1,"Amlodepine, Candesartin, Bendrofluthogide, Glumiprenide, Bisoprotol, Aspirin, Simvastatin, Metformin",0,0,1,
+ST1AAB0138,Retired Office Work,Postman,1,2,2,3,0,0,1,"Depression, Bad chest infection",0,Citalopram,1,1,2,
+ST1AAB0139,Community care co-ordinator,Formal Mason,1,2,2,6,1,0,0,,0,None,0,0,1,
+ST1AAB0140,Authorised Trading Standards Officer - ACC,Iron Moulder,2,1,2,0,0,0,0,,0,None,0,0,1,
+ST1AAB0141,Retired Registrar,Bus Driver,1,2,5,0,0,20,1,"Depression, Breast Cancer, Stroke, Leaky Heart Valve",1,"Atorvastatin, Bendroflumethiagide, Letrozole, Ramipril, Tramadol, Venlafaxine",0,0,2,
+ST1AAB0142,Retired IT Consultant,Maintenance Engineer,1,3,2,20,0,30,1,"Depression, Arthritis knee",1,"Co-amlodide, simvastatin, amlodipine",0,0,1,1
+ST1AAB0143,Retired Telecoms,Labourer BT,1,2,2,12,0,0,0,,0,None,0,0,1,
+ST1AAB0144,Retired,Engineer,1,2,2,20,0,0,0,,0,None,0,0,1,
+ST1AAB0145,Retired Complimentary Therapist,Joiner,1,2,2,7,1,0,1,"Asthma, Digestive problems",0,"Clynol Modulate, Ventolin, Gaviscon",0,0,1,
+ST1AAB0146,Retired Canteen Supervisor,Company Director,1,3,2,20,0,0,1,"Hip Replacement, Mini Stroke",0,"Aspirin, Ibuprofen",1,0,1,0
+ST1AAB0147,Fish Filleter,Taxi Driver,1,1,2,0,0,0,1,Heart Attack,0,"Ramapril, Allopurinol, Bisoprolol, Simvistatin, aspirin, GTN spray",0,0,1,
+ST1AAB0148,Retired Teacher,Paper Mill Worker,1,3,2,0,0,0,1,"Hole in the Heart, High BP, Thickening of Left Ventricle",1,"Atenolol, Ramapril",0,1,0,
+ST1AAB0149,Teacher,Teacher,1,3,2,4,0,0,1,Acid Reflux,0,Omeprazole,0,0,1,1
+ST1AAB0150,Housewife,Tool Fitter,1,2,2,6,0,0,1,Hypertension,1,Ramipril,0,0,1,
+ST1AAB0151,Selp employed copy writer/publisher,Clerk of Works,1,3,2,15,2,0,1,Mild COPD,0,"Asacol, Inhaler",0,0,1,0
+ST1AAB0152,Housewife,Royal Mail Inspector,1,1,2,0,0,0,1,"Depression, Hypothyroidism, Polymyalgia",0,"Priadel, Levothyroxine, Citalopram, Prednisolone",0,0,3,
+ST1AAB0153,Retired Global Training Manager,Watch maker,1,2,2,9,3,0,0,,0,None,0,0,1,
+ST1AAB0155,LGV Driver,Auctioneer,1,3,2,0,0,0,0,,0,None,0,0,1,
+ST1AAB0156,"Part time Police Messenger, Retired Warehouse Manager",Drainer,1,1,2,1,0,15,1,"Arthritis, titanium hip replacement",0,Simvistatin,0,1,1,
+ST1AAB0159,Plumber,Civil Engineer,1,2,2,0,0,0,1,"Depression, High Blood Pressure",1,"Amlodipine, Mirtazapine",0,0,1,
+ST1AAB0160,Milkman,Cash Clerk,1,1,2,24,0,0,1,Bronchitus,1,"Salabutamol, Seretide, Spiriva",0,0,1,
+ST1AAB0161,Operations Manager,Electrician,1,1,2,10,0,0,1,Asthma,0,Ventolin Inhaler,0,0,1,
+ST1AAB0162,Receptionist,Milkman,1,1,2,1,0,0,1,Breast Cancer,0,Frusemide,0,1,1,
+ST1AAB0163,Senior personal Carer,Warden,1,1,2,4,1,0,1,"Depression, Asthma, Under Active Thyroid, Vertigo, Excema, Sciatica",0,"Thyroxine, Flouxetine, Betahistamine, Salabutamol, Setetide",0,0,2,
+ST1AAB0164,General Assistant,Meter Fixer,1,1,2,0,0,0,1,"Arthritis, Underactive Thyroid, Thrombosis",0,"Thyroxine, Nifedipine, Omeprazole",0,0,1,
+ST1AAB0165,Retired Computer Project Manager,Architect,1,1,2,18,0,0,0,,0,None,0,0,1,
+ST1AAB0166,Design Engineer,Marine Engineer (Deceased),1,3,2,23,0,0,1,"Kidney Cancer, Arthritis of left hand",1,Candestartin,0,0,1,0
+ST1AAB0167,Retired Estate Officer - (Engineer),Engineer,3,1,2,9,0,0,1,"Prostrate Cancer- montoring/biopsy, shadow on lung (3/2/16)",0,Cough Mixtures,0,1,1,
+ST1AAB0168,GP,Chartered Accountant,1,3,2,12,3,0,1,Gastro Osophageal Reflux,0,Omeprazole,0,0,1,
+ST1AAB0169,Facilities manager,Policeman,3,2,2,6,0,0,1,Hypertension,1,"Amlopidine, Bendroflumizide",0,0,1,
+ST1AAB0170,School Cleaner and retired support worker,Handyman,1,3,4,0,0,20,1,COPD,0,"Totripium, Sabutamol, Inhaler",0,0,1,
+ST1AAB0173,Engineer/Facilities manager,Engineer,1,3,2,9,0,0,0,,0,None,0,0,1,
+ST1AAB0174,Retired Frame maker,Handy Man,2,1,2,12,0,10,1,"Dystonia, Angina, Twisted Optic Nerve, Diet Controlled Diabetic",1,"Amlodipine, Indapimide, Simvastatin, Aspirin, dihydrocodeine, Pregablin, Paracetamol",0,0,3,0
+ST1AAB0175,Auxiliary Nurse,Ship Builder,1,1,2,1,0,0,0,,0,None,0,1,2,0
+ST1AAB0176,Housewife,Builder,1,2,2,0,0,0,1,Angina,1,"Felopidine, Levothyroxine, Ranitidine, Aspirin, GTN Spray",0,0,1,0
+ST1AAB0177,Fork Lift Driver,Joiner,1,1,5,4,0,0,1,Diabetes,0,None,0,0,1,0
+ST1AAB0178,Self Employed hairdresser,Haulage Contractor,1,2,1,0,0,0,0,,0,None,0,0,1,0
+ST1AAB0180,Lawyer,Driving Instructor,1,3,2,3,0,0,1,Type 2 diabetics/high blood pressure/high cholesterol,1,"Amlodepine, Atorvastatin",0,0,1,0
+ST1AAB0181,Retired Teacher,Coal merchant (passed),1,3,2,7,1,0,0,none,0,none,0,0,1,0
+ST1AAB0182,Retired Driver/Labourer,Machine Operator,1,1,1,12,0,0,1,"Arthritis, Glaucoma, Type 2 diabetes, Blood clots to easily",1,"Co-codamol, Simvastatin, Clopidogrel, Ramipril, Ferrous Sulphate",0,0,1,
+ST1AAB0183,Retired Bank Officer,Bank Officer,1,2,2,4,0,0,0,,0,"Bendrofluazide, Omeprazole",0,0,1,0
+ST1AAB0184,Retired Payroll Officer,Painter & Decorator,1,2,2,6,2,0,1,Double Heart Bypass and Valve replacement 2006,0,"Aspirin, Atenolol, Ramipril, Simvistatin, Warfarin, Nitrolingual",0,0,1,
+ST1AAB0185,Retired Teacher,Tyre Technician,1,3,2,23,0,0,1,"Blocked Tear Ducts, Conjunctavitis, High Blood Cholesterol",0,None,,0,1,0
+ST1AAB0186,Retired Team Manager,Council Zoo Keeper,1,1,4,4,0,0,1,"Asthma, Bowel Surgery, Hysterectomy, Gall bladder out",0,"Omeprazole,Thyroxine, Fostair Inhaler",0,0,1,0
+ST1AAB0187,Project Manager,Builder,1,3,2,4,0,0,0,,0,None,0,0,1,
+ST1AAB0188,Womans Refuge Support Worker,Printer,1,3,2,4,0,0,1,"High Blood Pressure, High Blood Cholesterol",1,None,0,0,1,0
+ST1AAB0189,Retired Electrician,Engineer,1,2,2,5,0,0,0,,0,None,1,0,1,1
+ST1AAB0190,Office Manager (Sales),Debt Collector,1,2,4,6,0,0,1,Asthma,0,"Flutoform, Fluoxetine",0,0,2,0
+ST1AAB0191,"Retired Teacher, Currently still working as a supply teacher",School Janitor,1,3,1,0,0,0,0,,0,None,0,0,1,0
+ST1AAB0192,Retired HR Officer,Butcher,1,3,4,0,0,0,1,"Depression, Osteoperosis, ?MS",0,"Citalopram, Fibogel",0,0,1,1
+ST1AAB0193,Warehouse Facilities Operator,Teacher,1,1,2,8,0,0,1,Mild late onset Asthma,0,Seritide Inhaler and Nasal Spray,0,0,1,0
+ST1AAB0194,Retired Post Office Counter Clerck,Lorry Driver,1,2,2,7,0,0,0,,0,None,0,1,1,0
+ST1AAB0195,Retired Supply Chain Specialist,Interpreter,1,3,2,21,0,0,1,Enlarged prostrate,1,"Finasteride, Cough Mixture, Gaviscon, Ibuprofen, Paracetamol",0,1,1,0
+ST1AAB0196,Retired Legal Secretary,Lorry Driver,1,2,5,0,0,0,1,"Previous lung cancer, primary biliary cirrhosis, type 2 diabtes, Hypertension, Asthma`",1,"Ramipril,Bendroflumethiazide, Simvastatin, Ursodeoxycholic acid, clopidogrel, omeprazole, Spiriva, Serentide Inhaler, Ventolin Inhaler, Ursodeoxycholic Acid, Dulcolax, Tildiem LA, Gliclazide",0,0,2,0
+ST1AAB0197,Stone Mason,Ballast Control Operator,1,1,2,0,0,0,1,Carpal Tunnel Syndrome,0,None,0,0,1,0
+ST1AAB0198,Law Accountant,Paper Mill Worker,1,2,4,9,0,0,1,"Depression, cancer, asthma",0,"Sertaline, beconase inhaler",0,1,1,0
+ST1AAB0199,Trade Union Convener,Postman/ship write,1,3,2,21,0,0,1,"Atrial fibrillation, High blood pressure, Quatriceps rupture on left knee",1,"Digoxin, doxazosin, warfarin, furosemide, omeprazole, bisoprolol",0,1,2,1
+ST1AAB0200,Retired Print Estimator,Engineer,1,3,2,8,0,0,0,None,0,None,0,0,1,0
+ST1AAB0201,Project Engineer,Trawl Fisherman,1,1,2,7,0,5,1,Guillain Barre,0,None,0,0,1,1
+ST1AAB0202,Overhaul Engineer,Labourer,1,3,2,16,0,0,1,"Diverticulitis, High Blood Pressure",1,"Amlodepine, Co-Codamol",0,0,1,0
+ST1AAB0203,"Unpaid carer, RGU Casual Worker, Company Director of own online business",Joiner,1,3,4,0,0,0,1,Anxiety,0,None,0,0,1,0
+ST1AAB0204,"Retired Local Government Employee, now part time bus driver",Train Driver,1,3,2,6,0,0,0,,0,None,0,0,1,0
+ST1AAB0205,Retired Accountant,Lorry Driver,1,2,2,22,0,0,1,High Blood Pressure,1,"Pendopril, Benzoflourothiamaside, statins",0,0,1,0
+ST1AAB0208,Semi Retired Architect,Bus Driver/driving instructor,1,3,2,15,0,0,1,High blood pressure,1,Flelodipine,0,0,1,0
+ST1AAB0210,Electrician,Joiner,1,3,2,9,0,0,1,Depression,0,None,0,1,1,1
+ST1AAB0211,Teacher,Electrican,1,3,2,2,0,0,0,,0,None,0,0,1,0
+ST1AAB0212,Retired,Fish Worker,1,2,2,1,0,0,1,"Breast Cancer, Tonsillitis, Polyps",0,"Exemastine, Tolterodine",0,1,1,1
+ST1AAB0213,Customer care assistant,Merchant Navy; Stepfather Gardner,2,2,2,0,0,0,1,Diverticolitis,0,Omerprosol-B12,0,0,1,1
+ST1AAB0214,Retired Primary School Head Teacher,Scientific Officer,1,3,1,0,0,0,1,"Bilateral Hip Dysplasia, Stress",0,None,0,0,1,0
+ST1AAB0215,Clerical Officer/swimming instructor,Baker/Journeyman,1,3,2,1,0,0,1,"High Blood Cholesterol, Irratable Bowel Syndrome, Under Actice Thyroid",0,"Symvistatin, Thyroxin, Viscotear, allery tablet",0,0,1,1
+ST1AAB0216,Retired Lecturer/Artist,Scrap Merchant,1,3,2,0,0,0,1,"Crohns, Dyslexia",0,Azothioprene,0,0,1,1
+ST1AAB0217,Retired H&S Consultant,Post Office Manager,1,3,2,30,0,0,1,"Asthma, Type 2 Diabetes, High BP, High Blood Cholesterol",1,"Amlopedine, Atorvastatin, Bendrofluomethiazide, Ramipril, Ventolin inhaler",0,0,1,0
+ST1AAB0218,"Taxi Driver, Retired Facility Supervisor",Coach painter,1,2,2,4,0,0,1,"Rheumatoid Arthritis, Ulceritive Colitis, Diabetes",1,"Lefunomide, Amlodipine, Meloxicam, Glimepride, Amytriptiline, Loperamide, Ciproflxacin, Simvistatin, Omeprazole, Codeine Phosphate, Loratidine, Solpadol, Piroxicam Cream",0,0,1,1
+ST1AAB0219,Retired NHS Behaviour Charge Trainer,Telephone Engineer,1,3,2,0,0,0,1,"Type 1 Diabetes, Prostate Cancer, Artial Fibrilation",0,"Xarelto, Insulin",0,0,1,1
+ST1AAB0220,Retired Engineer,Lorry Driver,1,2,2,21,7,0,1,High Blood Cholesterol,0,Fibric Acid,0,1,1,1
+ST1AAB0221,Retired Solicitor,Solicitor,1,3,2,10,4,0,0,,0,None,0,1,1,0
+ST1AAB0222,Marketing Director,Surgeon,1,3,2,25,0,0,1,"Dermatitis, High Blood Pressure, Restless Legs",0,"Azathioprine, Losartan Ptassium, Neupro Transdermal Patch",0,0,1,0
+ST1AAB0224,Retired 25years ago worked as a joiner,Power House,1,3,4,0,0,0,1,Osteoarthritis,0,"Beclomethasone nasal spray, Betnovate Cream, Amitriptyline, Thiamine, Deprobase cream",0,0,1,0
+ST1AAB0225,Semi-retired maintenance manager,Salmon Fisherman,1,2,2,12,0,0,0,Short course antiobiotics for nasal infection (erythromycin),0,,0,1,1,0
+ST1AAB0226,Full-time Student(Previously worked in business management),Managing Director,1,3,2,3,0,0,1,Underactive Thyroid,1,Thyroxin,0,1,2,1
+ST1AAB0227,Retired Carer/Domestic,Baker,1,1,2,0,0,0,1,"Arthritis, Angina",0,"Bisoprolol, Atorvastatin, Aspirin, Setraline, Amatriptyline, Tramadol",0,0,1,0
+ST1AAB0228,Retired Social Worker,Electrician,1,3,2,2,0,0,0,,0,None,0,0,1,0
+ST1AAB0229,Retired Property Company Director,Gardner,2,3,4,4,0,0,0,,0,None,0,1,1,0
+ST1AAB0230,"Shop Assistant, previously worked as Engineer",Armed Forces,1,2,2,30,0,0,1,Arthritis,0,Cocodamol,0,0,1,0
+ST1AAB0231,"Donor Carer/Driver, Former Policeman and Physical Chemist",Water Pump Attendant,1,3,4,20,1,0,1,"Leukemia 2004&2007, Prostectomy",0,Tadafli,0,1,1,0
+ST1AAB0232,General Manager,Trawl Fisherman,1,2,2,25,4,0,1,"High Blood Cholesterol, Diet Controlled",0,None,0,0,1,0
+ST1AAB0233,Lecturer,Retired Child Psychiatrist,2,3,2,8,0,0,0,,0,None,0,0,1,0
+ST1AAB0234,Operations Manager (NHS),Buyer (Oil Indutry),1,2,2,2,0,0,1,"High Blood Pressure, Reflux",1,"Ranitidine, Ramipril",0,1,1,0
+ST1AAB0235,Library Assistant,School Teacher,1,2,2,0,0,0,1,"Depression, Epilepsy, Ulcer",0,"Pentasa, Tegretol",0,0,1,0
+ST1AAB0236,Retired Operations Manager,Salesman,1,3,2,6,0,0,1,Throat Cancer,0,Mistletoe,1,0,1,0
+ST1AAB0237,Part-time Resources Assistant (NHS) and Retired Fire service,Previously train driver and was a School Teacher,1,2,2,14,0,0,1,"High Cholesterol, Hypertension, Type two diabetes, enlarged prostrate",1,"Ramipril, Amlodipine, Tamusolin, Atorvastatin",0,0,1,0
+ST1AAB0238,Personal carer,Fish Smoker,1,2,1,0,0,15,1,"Asthma, Breast Cancer",0,Anastrozole,0,0,1,0
+ST1AAB0239,Medical Secretary,Civil Servant,1,3,4,2,0,0,1,"Type 1 Diabetes, Thyroidectomy",0,"Insulin Pump, Thyroxin",0,0,1,0
+ST1AAB0240,Retired English Teacher,Trawl Owner and Skipper,1,3,5,4,0,0,1,"Depression due to family deaths, Asthmatic (allergy), Reflux",0,Omeprazole,0,0,3,1
+ST1AAB0241,Care assistant,Taxi driver,2,2,2,4,0,0,0,,0,None,0,1,1,0
+ST1AAB0242,Security Guard,Airforce/Head Porter at Hospital,1,3,1,2,0,0,0,,0,None,0,0,1,0
+ST1AAB0243,Retired Night Support Worker now doing Respite for Disabled Children,Mill Worker,1,2,5,0,0,0,0,,0,None,0,0,1,0
+ST1AAB0244,Solicitor,Chartered Accountant,1,3,2,2,0,0,1,High Blood Cholesterol,0,None,0,0,1,0
+ST1AAB0245,Retired Banker,Plumber,1,3,2,14,0,0,1,"High BP, Angina, Cogenital Heart Disease, High Cholesterol, Diabetes in Preganancy",1,"Diltiazem Hydrochloride, Frusamide, Dispersible Aspirin, Simvastatin, Bendroflumethiazide",0,0,1,0
+ST1AAB0246,Senior Chief Bio-Science Engineer,Engineer,1,3,4,6,2,0,1,Resless Leg Syndrome,0,None,0,0,1,0
+ST1AAB0247,Finance Manager,Lyno Type Operator,1,3,2,30,4,0,1,"Mood Anxiety Disorder, High Blood Pressure, Type 1 Diabetes, Sleep Apnoea, Low Hb (stomach Lining)",1,"BIPAP Machine, Venlaflaxine, Atenolol, Metformin, Ferrous Sulphate, Lansoprazole, Irbesarten, Atovarstatin",0,1,1,0
+ST1AAB0248,Part-time Receptionist,Saw Mill Worker,1,3,2,0,0,0,1,Eczema,0,"Protopic oil, Elocon Ointment, Antihistamine tablets, nasal spray",0,1,1,0
+ST1AAB0249,Sales Assistant,Engineer,2,2,5,3,0,0,1,"High Blood Pressure, High Cholesterol",1,"Bendroflumethiazide, Ramipril, Rosuvastatin, Omeprazole",0,0,1,0
+ST1AAB0250,Medically Retired Labourer,Labourer,1,2,5,25,0,30,1,"Diabetes Type II, Chronic back Pain, Asthma, High Blood Pressure",1,"Metformin, Gliclozide, Actos, Dihynrocodeine, Simvistatin, High Blood pressure",0,0,1,1
+ST1AAB0251,Retired Operations Manager,Hospital Engineer,1,3,2,5,0,0,1,"High Cholesterol, occasional panic attacks",0,None,0,0,1,0
+ST1AAB0252,Business Devlopment Manager,Shipyard Engineer,1,2,4,20,3,0,0,,0,None,0,0,1,0
+ST1AAB0253,Youth Worker,Handy Man/ Merchant Navy,1,2,2,14,0,0,1,Allergy,0,"Antihistamine, Omeprazole",0,0,1,0
+ST1AAB0254,Retired Chartered Accountant,Stationer,1,3,2,10,0,0,1,Depression,0,None,0,0,1,0
+ST1AAB0255,Retired Audiology Practice Manager,Scaffolder,1,2,4,5,0,0,1,"Hayfever, Migraine",0,None,0,0,1,0
+ST1AAB0256,Primary Head Teacher,English Student (died young),1,3,2,0,0,0,1,Overactive Bladder,0,Solifenacin,0,0,1,1
+ST1AAB0257,Plasterer Self-Employed,Shoe Maker,1,1,2,9,0,0,1,High Blood Pressure and High Cholesterol,1,"Ramipril, Atorvastatin",0,0,1,1
+ST1AAB0258,Sales Advisor,Agricultural Salesman,1,1,2,1,0,0,0,,0,None,0,0,1,0
+ST1AAB0259,Retired PA,Clerical Officer,1,2,4,3,3,0,0,,0,None,0,0,1,0
+ST1AAB0261,Engineer,Haulage Business,1,3,1,40,6,15,0,,0,None,0,0,1,0
+ST1AAB0262,Retired Teacher/Part-time teacher,Painter and Decorator,1,3,5,3,0,0,1,"Arthritis, Chest infections, pneumonia",1,"Felodepine, Ventolin Inhaler, Seretide Inhaler",0,0,1,0
+ST1AAB0263,Retired Public Rlations Worker,Welder,1,3,2,10,1,0,0,,0,None,0,0,1,0
+ST1AAB0264,Medically Retired Display Co-ordinator,Paver/Stone Mason,1,2,4,0,0,0,1,"Irregular heartbeat, Cellulitis, Bi Polar, Asthmatic, Type 2 Diabetes, DVT Cardiac Implant, pain in hips and knees, osteoarthritis",1,"Dihydrocodiene, Glimepride, Pravastatin, Budesonide, Terbutaline, Warfarin,Diazapam, Venlafaxine, Beatica Capsules, Metformin, Gabapentin, Omeprazole, Mebeverine, Bendroflumethiazide, Paracetamol",0,0,2,1
+ST1AAB0265,Travel Shop Worker,Stone Mason,1,2,2,16,6,0,1,"Depression, Diabetes",0,"Metformin, Gapapentin, Lipitor, Candestatin, Aspirin, Glimepride, Bendrofumehtizide, Verizac, Setraline",0,0,2,1
+ST1AAB0266,Cleaner,Taxi Driver,1,2,2,0,1,0,1,High Blood Pressure,1,"Folic Acid, Losartan, Bendofumethieside, Sertraline",0,1,1,1
+ST1AAB0267,Retired Administrator,Railway Fitter,1,2,2,54,0,0,1,"Depression, Brochiectasis, Over Active Bladder, Atrial Flutter",1,"Apixaban, Toltordine, Setraline, Bisporol",0,0,2,0
+ST1AAB0268,CCTV Operator Police,Engineer,1,3,4,1,0,0,1,"Depression, High BP",1,Amlodipine,0,0,1,1
+ST1AAB0269,Retired Costs Accountant,Shop Keeper,1,3,2,0,0,0,1,"Acid Reflux, Benign Vertigo",0,"Omeprazole,Betahistine",0,0,1,0
+ST1AAB0270,Airport Security Officer,Clerk,2,2,2,2,1,0,1,"High Blood Pressure, High Cholesterol",1,"Bendrofumazide, Simvistatin",0,1,1,1
+ST1AAB0271,Paid Carer,Royal Navy Engineer,1,1,4,4,0,0,1,"Depression, High BP, OsteoArthritis",1,"Atenalol, Doxasizon, Ramipril, cocodamol",0,0,1,0
+ST1AAB0272,Media Consultant,Chiropodist,1,3,2,5,0,0,1,"Pilonidal Sinus, Oesophagitis,Osteoarthritis",0,"Omeprazole, Co-codamol",0,0,1,0
+ST1AAB0273,Retired Security Officer,Coach Builder,1,1,2,1,0,0,1,Depression,1,"Bendroflumethiazide, Ramipril, Venlapaxine, Paracetamol",0,0,1,0
+ST1AAB0274,Retired Project Worker,Labourer in Paper Mils,1,2,5,0,0,0,1,"Thyroid, Past Major Depressive Disorder, High blood pressure",1,"Fluoxetine, amitriptyline, Furosemide, Atenelol, Amlodipine, levothyroxine, Soluble Aspirin",0,1,2,1
+ST1AAB0275,Retired University Librarian,Paper Mill Worker,1,3,2,23,0,0,0,,0,None,0,0,1,0
+ST1AAB0276,Part-time Account Assistant (currently not working but has not retired),Retired Store man,2,2,2,0,0,0,0,,0,None,0,0,1,0
+ST1AAB0277,Sorter for Royal Mail,Retired Troller Engineer,1,1,2,11,0,0,1,"Menias, ear problems",0,"Betahistine Hydrochloride, Citalopram",0,0,1,0
+ST1AAB0278,Events Manager,Mill Worker,1,2,2,5,0,0,0,,0,None,0,0,1,0
+ST1AAB0279,Retired Ship Metal Work,Engineer,1,1,2,0,0,20,1,"Hypertension, Back problems, Prostrate problems - spinal cord stimulator, High blood cholesterol",1,"Tamsulosin Hydrochloride MR, Tovaz MR, Bendroflumethiazide, Sildenafil Citrate, Bisoprolol Fumerate, Doxazosin Mesilate MR, Felodipine, Finasteride, Ramipril and Simvastatin",0,0,1,0
+ST1AAB0280,Retired Police Officer,General Manager-Building,1,3,2,3,0,0,1,Suspected epilepsy-However turned out to be a viral infection,1,Ramipril- Phenegram,0,0,1,0
+ST1AAB0281,Health Visitor Bank NHS,Barman,1,3,4,4,0,0,1,"Left Ventricular Hyperthrophy, Cold Urticaria, Hypothyroid",1,"Bisoprolol, Omeprazole, Neoclarytin, Thyroxine",0,0,1,1
+ST1AAB0282,Retried Telephone Engineer,Labourer,1,1,2,25,2,0,1,Heart attack,1,"Ramipril, Simvastatin, Aspirin,Visoprolol, Lanzoprazole",0,0,1,0
+ST1AAB0283,Civil Engineer,Storeman,1,3,2,23,0,0,0,,0,None,0,0,1,0
+ST1AAB0284,Physio/Disability Tribunal Member,Sales Executive,1,2,1,0,0,0,1,Tongue Cancer,0,None,0,0,1,1
+ST1AAB0285,Retired Nurse,Bricklayer,1,2,2,0,0,0,1,"Gallstones, meningioma, right arm arthritis, short-term memory loss and weak right leg",0,"Maxalon, Dihydrocodeine",0,0,1,0
+ST1AAB0286,Retired Commercial Negotiator,Optical Manager,1,3,4,12,1,0,0,,0,None,0,0,2,0
+ST1AAB0287,Retired Salesman,Grocer,1,3,2,9,2,0,1,"High Blood pressure, Reflux acid",1,"Losartan, Omeprazole",0,0,1,0
+ST1AAB0347,Retired Civil Servant + postman,Box maker,2,1,2,14,7,0,1,High Cholesterol,0,Simvastatin,0,0,1,0
+ST1AAB0353,Swimming Teacher,Engineer,1,3,4,2,0,0,1,Gall bladder operation,0,none,0,0,1,0
+ST1AAB0356,Housewife,Engineer,1,1,4,0,0,0,1,"Depression, Under-active Thyroid",0,"Venlafaxine, Thyroxine",0,0,2,1
+ST1AAB0357,Support Analyst,Ship Worker,1,1,2,6,1,0,1,"Hypothyroidism, Narcolepsy",0,Levothyroxine,0,0,1,1
+ST1AAB0359,Unemployed redunadant April 2016 - Electrician,Ship Building Labourer,1,3,2,20,10,0,1,"Hernia, Stomach Ulcers, Varicose Veins, Body doesn’t retain B12",0,Vitamin B12 Quarterly,0,0,1,0
+ST1AAB0401,Domestic Assistant,Engineer,1,1,2,0,0,0,1,High Blood Pressure,1,"Amlodipine, Atenolol",0,0,1,0
+ST1AAB0444,Health and Safety Adviser,Oil Field Engineer,1,3,2,18,2,0,1,"Prostate Cancer, Operation on piles, Pilonidal abcess",0,"Tamsulosin, Decapetyl",0,0,1,1
+ST1AAB0466,Retired Civil Engineer,Insurance Agent,1,2,1,18,0,10,0,None,0,None,0,0,1,0
+ST1AAB0474,Car Salesman,Upholsterer,1,2,4,10,0,0,1,"High Blood Pressure, High Blood Cholesterol",1,Amlodipine,0,0,1,0
+ST1AAB0507,Retired Teacher,Building Inspector,1,3,2,2,0,0,1,Rheumatoid Arthritis,1,"Amlodipine, Candestartan, methotrexate, naproxin",0,0,1,0
+ST1AAB0509,Retired Fireman,Motor Mechanic,1,1,3,10,3,0,1,"Arthritis, Asthma, Hernia, Psoriasis, Gout",0,"Cetirizine, Omeprazole, Allopurinol, Simvastatin",0,0,1,0
+ST1AAB0520,Reitred HSE Manager,Electrician,1,3,2,10,4,0,1,"TIA stroke, Hernia Operations (both sides), Appenix removal",0,"Asprin, Simvastatin, Coversy, Dipyridamole",0,0,1,0
+ST1AAB0528,Solicitor,Solicitor,1,3,2,30,0,0,1,"Hip replacements, urological and cartilage operation",1,"Lanzoprazole, Tamusolin",0,0,1,0
+ST1AAB0553,House Wife,Shop Keeper,1,2,4,1,0,0,1,"Depression, High blood pressure",1,"Ecitalopram, Ramipril, Nexium (recently)",0,0,1,0
+ST1AAB0554,Guidance Tutor,Stevedor Habour,1,2,2,9,0,0,1,Lichen planis,0,None,0,1,1,0
+ST1AAB0563,Manager - GP Practice,Ship yard - Plater,1,2,2,27,0,0,1,Heartburn; Reflux; Anemia,0,"Lanxoprazole, B12 Injections",0,0,1,0
+ST1AAB0567,Retired Occupational Therapist,Bus Driver,1,3,2,9,2,0,1,Asthma,0,Pulmicort Inhaler,0,0,1,0
+ST1ADU2471,Engineer,Not known,1,2,1,7,0,0,1,Anxiety,0,None,0,0,1,0
+ST1GAB0288,House wife,Telephone Engineer,1,3,2,0,0,0,0,,0,None,0,0,1,0
+ST1GAB0289,"Office Worker- Admin , reports",Teacher,1,3,2,10,5,0,1,Slipped disc,0,None,0,0,1,0
+ST1GAB0290,Retired,Farm Worker,1,1,1,9,0,0,0,,0,None,0,0,1,0
+ST1GAB0291,University Lecturer,Church of Scotland Minister,1,3,4,2,0,0,1,Sleep Disorder,0,Mirtazipine,0,0,1,0
+ST1GAB0292,"Retired Health and Safety Inspector (Offshore Safety Division, HSE)",Factory Worker,2,3,2,14,4,0,1,High Blood Pressure,1,"Ramipril, Atenolol, Doxazosin",0,0,1,0
+ST1GAB0293,Supervisor (Admin),CNC Machinist,1,3,2,6,1,15,1,"Depression, Primary biliary Cirrhosis",0,"Fluoxtine, Cetrizine , ursodeoxy choilic acid, Estradot, Lymecycline",0,0,3,1
+ST1GAB0294,Retired Valve Technician (Fitter),Electrician,1,3,2,0,0,0,0,,0,None,0,1,1,0
+ST1GAB0295,Police Sargeant,Engineer,1,2,2,5,2,0,0,,0,None,0,0,1,0
+ST1GAB0296,Retired Librarian,Van Driver,2,3,2,0,0,0,1,Depression,0,"Fluanxol, Ciatalopram, Mirtizapine",0,0,1,0
+ST1GAB0297,Retired- Underground Cable Jointer,Underground Cable Jointer,1,1,2,10,0,0,1,Gout,0,None,0,1,1,1
+ST1GAB0298,Retired Lecturer of Arts,Trawler Skipper,1,3,2,0,0,0,1,"Hiatus Hernia, High blood pressure, Hip replacements, Atrial Fibrillation, polyp removed from lip",1,"Bendroflumethiazide, co codamol, esomeprazole, mizolastine, Candesartan, Domperidone",0,0,1,1
+ST1GAB0299,Retired,Stone Polisher,1,1,4,0,0,10,1,"Hip replacement, Heart Attack, right swelling on right that affects grip strength",1,"Asprin, Bisoprolol Amlodipie, Co-codamol, Ramipril",0,1,2,1
+ST1GAB0300,Support and Development Worker,Trawlerman,1,3,2,60,0,15,1,"Asthma (Childhood) - Bronchitis, Depression/anxiety, Prostate problems",0,"Paroxetine (seroxat), Tamsulosin",0,0,1,0
+ST1GAB0301,Approved Driving Instructor,Telephone Engineer,1,1,2,0,0,0,1,Giant Cell Hepatitis,0,"Budsonide, Azithripine, Omeprazole",0,0,1,0
+ST1GAB0302,Civil Engineer,Chattered Accountant,1,3,2,6,0,0,0,None,0,None,0,1,1,0
+ST1GAB0303,Note Taker,Retired Mechanic,1,3,2,20,0,0,0,None,0,None,0,1,1,1
+ST1GAB0304,Admin,Educational Officer,1,2,2,9,0,0,1,Depression,0,Flouxetine,0,0,1,0
+ST1GAB0305,Librarian,Boiler Maker (Shipyards),1,3,2,9,2,0,1,None,0,Nil,0,0,1,0
+ST1GAB0306,"Retired Precognition Officer,Part-time Audiotypist for plastic Surgery",Store man,1,3,4,0,0,0,1,"Glaucoma on left eye , Eczema/Psoriasis",0,Latanoprost,0,0,1,0
+ST1GAB0307,Midwife,Clerk of works,1,3,1,5,0,0,1,Hypothyroidism,0,Thyroxin,0,0,1,0
+ST1GAB0308,Retired Nurse,Car park attendant,3,3,1,0,0,0,1,"Osteoarthiritis, High Cholesterol, Spondylitis, hypertensive, athmatic, Hip replacement, chronic lymphodema, underactive thyroid, black out and falls",1,"Diclomax, Kalcipos-D, levothyroxine sodium, salbutamol, paracetomol, Diazepam, Dihydrocodeine, Omeprazole, Rosuvastatin, clenil Modulite, glyceryl trinitrate, atenolol",0,0,1,0
+ST1GAB0309,House Wife,Engineer,1,1,2,18,0,0,1,"Arthritis, Depression, Thyroid operation, metal hip replacement on right leg, gall bladder out, coccyx removal",0,"Anafranil, Diclofenac",0,0,1,0
+ST1GAB0311,Retired Accountant,Aircraft Engineer,1,2,2,16,0,0,0,None,0,None,0,0,1,0
+ST1GAB0312,Post person,Mechanical Engineer,1,1,2,6,0,0,1,Postnatal Depression; Just diagnosed with Reynolds disease,0,None,0,0,1,0
+ST1GAB0313,Administrator,Retired Bakery Sales Manager,1,1,2,9,3,0,1,Shadow in pancreas (operation) (stomach bag) heart murmur (born with this),0,Vitamin D,0,0,1,0
+ST1GAB0314,Retired Dental Receptionist,School Janitor,1,1,2,9,0,0,1,"Reynolds Disease, Worn disc in the back, Transient osteoporosis in ankles",0,None,0,0,1,0
+ST1GAB0315,Senior Design Engineer,Retired Head Master,1,3,1,6,0,0,1,Depression,0,None,0,0,1,0
+ST1GAB0316,Company Director,Research Chemist,1,3,2,25,8,0,1,Asthma,0,Beclametasone Inhaler,0,0,1,0
+ST1GAB0317,Retired Local Government Officer,Storeman,1,3,2,8,0,0,1,"past kidney stones removed, epididymal cyst",0,None,0,0,1,0
+ST1GAB0318,Retired Police man,Building Labourer,1,1,2,9,2,0,1,"Lower bowl polyp, double hernia",0,Simvastatin,0,0,1,1
+ST1GAB0319,Retried Play Group Organiser,Railway signal man,1,1,2,2,0,0,1,"Depression, Hypertention , Vertigo",1,"Irbersartan, Bendroflumethiazide",0,0,1,0
+ST1GAB0320,Retired Bank Officer,Railway Guard,1,1,2,12,0,0,1,"Arthritis, Chronic Rhinitis and Tranchea Stenosis",0,"Naproxen, Hydroxychloroquine and cetirizine",0,0,1,0
+ST1GAB0321,Retired Administraion Manager,Police Superinterdant,1,2,2,2,5,0,1,Osteoporosis,0,"Allerdronic acid, Calceos",0,0,1,0
+ST1GAB0322,Retired Teacher,Farmer,2,3,2,9,0,0,1,High blood Cholesterol,0,None,0,0,1,0
+ST1GAB0323,Retired Office Administrator,Carpenter,1,2,5,0,0,0,1,"Severe Restless Syndrome, Depression, Athma, COPD, Perenial Rhinitis, High Blood Pressure, Osteoarthiritis, Fibromyalgia",1,"Gabapentin, Pramipexole, Felodopine MR, Simvastatin, monetasone, Fluoxetin, Mirapexin, omeprazole, paracetamol, dihydrocodeine, fostair, inhaler nasal spray",0,0,1,1
+ST1GAB0324,Retired Master Man,Build Manager,1,3,2,12,0,0,1,"Coronary artery bypass operation(3vessel disease), Hernia, Appendix removal and investigation, Atrial Fibrillation",0,"Ramipril, Aspirin, Warfarin, Bisoprolol, Atorvastatin",0,0,1,0
+ST1GAB0325,Retired Pharmacy Assistant,Engineer,1,1,2,3,0,0,1,"Breast Cancer, Irratable Bowel Syndrome",0,Mebeverine,0,0,1,0
+ST1GAB0327,Retired Victim Support Co-ordinator,Bus Driver/Gardener,1,1,2,6,0,0,0,,0,None,0,0,1,0
+ST1GAB0328,Teacher and learning officer,Farmer,1,2,1,21,0,0,1,"Depression, anxiety, psoriasis, pulled tendon on right thumb",0,None,0,1,1,0
+ST1GAB0330,Electronic Engineer,Foreman (welder mechanical),1,3,2,2,0,0,1,"Asthma, eczema, Hayfever",0,"Ventolin, Antihistamines",0,0,1,0
+ST1GAB0331,Retired Lawyer,Lawyer,2,3,2,0,0,0,1,"Damaged Cartillage(lumbar area), Bursitis (Left elbow), Asthma, Viral Cochlea Labyrinthitis, tinnitus, smashed collar on top of humerus (left), osteoarthritis",0,Asthma inhaler - ventolin,0,0,1,0
+ST1GAB0332,Rietired Secretary,Mart Foreman,1,2,2,1,0,0,1,Deression and Anxiety,1,Enalapril,1,0,1,1
+ST1GAB0333,Retired Teacher,Journalist,1,3,2,15,2,0,0,None,0,None,0,0,1,0
+ST1GAB0334,Retired Material Controller,Tram Driver,1,1,2,10,0,0,1,"Leg Cramps, Prostate Problems, Heartburn, Throat cancer, Right Knww replacement, Spinal Fusion, High Blood Cholesterol",1,"Quinine Sulphate, Mirabergron, Tamsulosin, Co-codamol, Atovarstatin, Lansoprazole, Lyrica, Finasteride",0,0,1,0
+ST1GAB0335,Part time Invigilator,Compositor,3,3,1,0,0,0,0,None,0,None,0,0,1,1
+ST1GAB0336,Ambulance Technician,Shepherd,1,3,1,4,0,0,0,,0,None,0,0,1,0
+ST1GAB0337,Information Research Analyst,University Professor,1,3,2,14,0,0,1,"Hiatus Hernia, Hayfever, Bulimia",0,"Omeprazole, Antihistamine, Buscopan, Steroid Cream",1,0,2,0
+ST1GAB0338,Retired Prinicipal Facilities Officer,Baker,1,3,2,14,2,0,1,"Knee Replacement, Hernia Operation",1,None,0,0,1,1
+ST1GAB0339,Surveyor,Teacher,1,3,2,4,2,0,0,,0,Antihistamine table and nasal spray,0,0,1,1
+ST1GAB0340,Project Manager,Regional Insurance Manager,1,3,2,5,0,0,1,Rotator Cuff pain,0,None,0,0,1,0
+ST1GAB0341,Retired Buyer(Oil&Gas),Brick Layer,1,1,2,9,2,15,0,,0,None,0,0,1,0
+ST1GAB0342,Teacher,Accountant (retired),1,3,1,2,0,0,0,none,0,Rigevidon,0,0,1,1
+ST1GAB0343,Retired Water treatment technician,Steel Moulder,1,2,2,4,0,0,1,Low BI2- slight iron deficiency Anaemia,0,B12 injection,0,0,1,0
+ST1GAB0344,"Retired Gereatrician, part time Tribunal Rep",Doctor,1,3,2,15,2,0,1,High Blood Cholesterol,0,Simvistatin,0,0,1,0
+ST1GAB0345,GP,Accountant,1,3,2,4,0,0,0,None,0,None,0,0,1,0
+ST1GAB0346,Estate Administrator,Police Officer,1,3,5,2,0,0,1,"High blood cholesterol, left & right catatract,  prolapse repair, High BP, right knee arthritis , benign cyst on left breast",1,"Losartan, Atorvastatin, omeprazole, meloxicam",0,1,2,0
+ST1GAB0348,Retired Civil Servant,Builder,2,2,2,1,9,0,0,,0,None,0,0,1,0
+ST1GAB0349,Retired Book Keeper/receptionist,unknown,1,1,2,2,0,0,1,"Osteoarthritis, angina, HBP, high blood cholesterol",1,"Atenolol, Asprin, hydroxocobalmin, omeprazole, simvastatin",0,0,1,1
+ST1GAB0350,Teacher (secondary business studies),Farmer and Health and safety inspector,1,3,2,30,6,0,1,"Seasonal Affective Disorder, High BP, possible heart murmur due ECG next week",1,Felodipine,0,0,1,0
+ST1GAB0351,Data Analyst,Retired P.E Teacher,1,3,2,3,0,0,1,"Anxiety, Depression, OCD, Cramps in Calf Muscles",0,None,0,0,1,0
+ST1GAB0352,Retired Sheriff,Medical Practitioner,1,3,2,15,2,0,1,"Overactive Bladder, pressure behind eyes",0,"Bitmega (overactive bladder), Travatan eye drops",0,0,1,0
+ST1GAB0354,Retired book keeping,Farm Worker,1,3,2,0,0,2,1,"Breast Cancer (2013), Depression (24 years ago)",0,Anastrosal (anti-oestrogen),0,0,1,0
+ST1GAB0355,Physiotherapist,Dentist,1,3,2,0,0,0,1,"Anaemia, Hemithyroidectomy, awaiting drainage of vaginal  cyst",0,Ferrous Sulphate,0,0,1,1
+ST1GAB0358,Retired Stock Controller,Welder,2,1,4,0,0,0,1,"High Blood Cholesterol (diet control), Hysterectomy",0,None,0,0,1,0
+ST1GAB0360,Retired Tourist information officer,Engineer,1,2,4,1,1,0,1,"Asthma, Borderline vitamin E deficiency, Folic acid deficiency",0,"ventolin, Fostair (Inhalers for Asthma)",0,0,1,1
+ST1GAB0361,Director,Project Manager,1,2,2,9,0,0,0,,0,None,0,0,1,0
+ST1GAB0362,Bank Officer,Wood Machinist,1,2,2,9,0,0,1,"Clinical Depression and anxiety, Atrial Fibrillation",0,"Atenolol, Aspirin",0,0,1,1
+ST1GAB0363,Retired Primary School Teacher,Engineer,1,2,5,2,0,0,1,"Bowel Cancer, Lamanectomy",0,"Atarax, Volterol",0,0,1,0
+ST1GAB0364,Civil Servant,Engineer,1,3,2,15,0,0,1,Irregular Heartbeat,0,Omeprazole,0,0,1,0
+ST1GAB0365,Retired Commercial Manager,Commercial Traveller,1,3,2,27,2,0,0,,0,None,0,0,1,1
+ST1GAB0366,Wine Salesman,Radiographer,1,2,2,18,2,0,1,"Sebacious Cysts, Straightened Spine, Hiatus Hernia",0,Omeprazole PRN,0,0,1,0
+ST1GAB0367,Retired Chartered Physiotherapist,Master Butcher,1,3,2,7,2,0,1,"Osteoarthritis, Hypothyroidism, Tonsillitus",0,"Thyroxine, Arthrotec",0,0,1,0
+ST1GAB0368,Retired Chemist,Coal Miner,1,3,5,21,0,0,1,"High BP, Oseophagitis, Balinitis, type 2 diabetes",1,"Omeprazole, Ramipril, Bendroflumethiazide, Simvastatin",0,0,1,1
+ST1GAB0369,Senior carer,Trawl Fisherman,2,1,1,0,0,15,0,,0,None,0,0,1,0
+ST1GAB0370,"Team Leader, Personnel",Fitter & Turner,1,1,4,1,0,10,1,Migraines,0,Beta Blocker,0,0,1,0
+ST1GAB0372,Retired Accounts Supervisor,Post Office Clerk,1,3,2,5,0,0,1,"Borderline high blood pressure, indigestion",1,"Candersatan, Bendroflumethiazide, Omeprazole",0,0,1,0
+ST1GAB0373,Electrical Supervisor,Engineer,1,2,2,0,0,0,1,"High Cholesterol, Colitis",0,Rosuvastatin,0,0,1,1
+ST1GAB0374,Retired Nurse,Engineer,1,2,2,5,0,0,1,"Polymyalgia, Irritable Bowel Syndrome, Angina",0,"GTN, paracetamol, Tolerodine, Loperamide, Naproxen, Lanzoprazole, Meberverine",0,0,1,1
+ST1GAB0375,Retired Storeman,Fish Merchant,1,2,2,6,0,0,1,"Parkinson's, Sarcoidosis, Prostate Cancer, 2 metal hips",0,"Lansoprazole, Diclofenac, Levothyroxine, Paracetamol, Gaviscon, Madopar, Prednisolone, Duloxetine, Ibandronic",0,0,1,0
+ST1GAB0376,Secretary for Charity,Shop Chandler,1,2,1,0,0,0,1,"Chronic Fatigue, Spondolitis, Myofacial Pain, Depression, Fibromyalgia, Restless Legs, Back Pain, Disc Bulge on Spine, High Blood pressure, Chondromalacia, Underactive Thyroid, Irritable Bowel Syndrome, Degenerative Disc Disease",1,"Prozac, Candesartan, Docusate, Fluxetine, Levothyroxine, Leratidine, Mintec",1,0,2,1
+ST1GAB0377,Retired Accountant,Boat Builder,1,3,2,0,0,0,1,"Hiatus Hernia, Stomach Ployps, Low blood Cholesterol, Enlarged prostrate, Episode of Transient Global Amnesia",0,"Lansoprazole, Finasteride, Uniroid HC Ointment",0,0,1,0
+ST1GAB0378,Travel Agent,Director Company,1,2,2,5,0,0,0,None,0,None,0,0,1,0
+ST1GAB0379,Retired Hotelier and restaurant owner,Paper Mill,1,1,2,36,0,0,1,"Sleep difficulties, irritable bowel syndrome, high blood pressure, high blood cholesterol",1,"Bendrofluemethiazide, Bisoprolol Fumarate, Atorvastatin, Zopiclone, Candersatan and Cilexetil",1,0,1,0
+ST1GAB0381,Retired Clerical Worker,Insurance Agent,2,2,2,3,0,0,1,"Depression, anxiety, underactive thyroid and high blood cholesterol",0,"Levothyroxine, Simvastatin",0,0,1,0
+ST1GAB0382,Admin Assistant,Self employed publican,1,3,2,45,9,0,1,"Depression, anxiety and vitamin B12 deficiency (perinious anaemia)",0,"Venlafaxine, Vitamin B12 injection",0,0,1,1
+ST1GAB0383,Self employed cleaner,Registrar,1,2,2,1,0,0,1,Depression,0,Contraceptive pill,0,0,1,0
+ST1GAB0384,Retired Housekeeper (Ill Health),Trawler Fisherman,1,3,4,0,0,0,1,"Chronic Obstructive Pulmonary Disease, Stroke",0,"Simvistatin, Clopidogrel, Salabutamol Inhaler, Speedicath, Metformin, Finasteride, Glimeperide, Aspirin",0,0,1,1
+ST1GAB0386,Library Assistant,Attendant at Art School,1,1,2,2,0,0,0,,0,None,0,0,1,0
+ST1GAB0387,"Mum, was accountant",Policeman,2,3,2,2,0,0,0,,0,None,0,0,1,0
+ST1GAB0388,Retired Architect,Pharmacist (Chemist),1,2,2,0,0,10,1,"Reflux, Arthritis (knees), High Blood pressure, englarged Prostate",1,"Amlodipine, Ramipril, Ezomeprazole, Tamsulosin, Doxycyline",0,1,1,1
+ST1GAB0389,Retired Speech and Language Therapist,Lorry Driver,1,3,2,0,0,10,0,,1,"Amlopidine, Loratidine, Beconase",0,0,1,1
+ST1GAB0390,Customer Services Team Leader,Scaffolding Foreman,1,2,2,12,8,0,1,Diabetes Type II,0,"Glicazide, Metformin, Simvistatin",0,0,1,0
+ST1GAB0391,Spare part coordinator,CNC Machinist,1,1,2,9,0,0,1,"Cyst removed on left arm, gastric problems",0,Omeprazole,0,0,1,0
+ST1GAB0392,Finance Analyst,Director of Engineering,1,3,1,2,0,0,0,None,0,microgynon,0,0,1,1
+ST1GAB0393,Retired Fishing tools supervisor,Lorry Driver,1,1,2,0,0,0,1,"Meniers Syndrome (Bilateral), Prostate, Cirrosis  (liver), Diabetes Type II, Oesophageal varices",0,"Omeprazole, Metformin, Simvastatin, Betahistine, Tanulosin, Carvedilol, Ferrous Fumerate, Microlet Lancets, Bendrofumethiazide, Senna",0,0,1,0
+ST1GAB0394,senior Property manager,Bus Driver,1,1,1,0,0,0,0,,0,None,0,0,1,0
+ST1GAB0395,Retired Joiner,Dispatch Clerk,2,2,2,18,1,0,1,Nocturnal Epilepsy,0,"Tegretol, Keppra",0,0,1,1
+ST1GAB0396,House wife,Transport manager,1,1,2,9,1,0,1,"Generalised Anxiety Disorder, Depression, Epilepsy, Celiac Disease, Fibromyalgia, underactive thyroid, Heart Murmur",0,"Amitriptyline, Levothyroxine, Oxytetracycline",0,0,3,1
+ST1GAB0397,Duct Fitter,Taxi Driver,2,2,1,0,0,0,1,Coeliac Disease causing Mild Depression,0,"Calcihews, Mirtazapine",0,0,1,0
+ST1GAB0398,Postman,Engineer,1,1,2,20,0,0,1,Depression,0,Setraline,0,0,1,0
+ST1GAB0399,Semi-Retired International Taxation Consultant,Bus Conductor,1,3,2,15,0,0,1,"Arthritis in big toe, under current investigation for prosstate problems",1,"Atenelol, Bendroflumethiazide, Amlodipine, Ramapril, Simvistatin",0,0,1,0
+ST1GAB0400,Sheet Metal Worker,Retired Telephone Engineer,1,1,2,2,0,0,0,none,0,none,0,0,1,0
+ST1GAB0402,Retired Dental Nurse,Butcher,1,2,2,7,0,0,1,"Surgery Hysterectomy, Bowel Obstruction, Appendix removed, Underactive thyroid",0,Thyroxine,0,0,1,1
+ST1GAB0403,Fire Service,Fire Service,1,2,2,27,0,0,1,"Kidney Infection, Broken Legs, Tonsilectomy, prostate",0,Tamulosin,0,0,1,0
+ST1GAB0405,Freight Co-ordinator,Agricultural Contractor,1,1,1,0,0,0,1,Depression,0,None,0,0,2,0
+ST1GAB0406,Catering Assistant,Retired Porter,2,1,2,9,2,8,0,None,0,None,0,0,1,0
+ST1GAB0407,Retired Procurement Supply Chain Specialist,Labourer,1,2,2,4,0,0,1,"Osteoporosis, Fibrocystic disease in breasts, Bursitis",0,None,0,0,1,0
+ST1GAB0408,Accountant,Retired Ships Plater,2,3,1,0,0,0,1,Post Viral Fatigue Syndrome,0,None,0,1,1,0
+ST1GAB0409,Pupil Support Assistant,Painter and Decorator,1,2,2,4,0,0,1,Tinitus and Migraine,0,None,0,0,1,0
+ST1GAB0410,Retired Nurse,Docker and Labourer,1,2,2,0,0,0,1,"Mild emphesma, right mastectomy, right muringoplasty, right breast reconstruction, angiogram, angioplasty two stents, Bilateral Carpal Tunnel, Diabetes, Iron Deficiency Anaemia, Ulcerative Colitis, Angina, Decompression, Breast Implant replaced due to rupture, Depression, Coronary Artery Disease",1,"Nitromin Free spray as required, Nicorandil, Simvastatin, Humalog mix 25, Lansoprazole, Ferrous Fumarate, Aspirin Dispersible, Atenolol, Metformin Hydrochloride, Tiotropium, Pentasa MR, Salbutamol inhaler, Kwikpen suspension",0,0,1,1
+ST1GAB0411,Station Services,Crew Leader,3,2,1,0,0,5,1,"Allergies (foods, drinks), Irritable Bowel Syndrome, Hypeer Mobility Syndrome, Depression",0,Fenofexadine,0,0,1,0
+ST1GAB0412,Operations Manager (maintenance company),"Station master, railway); stepfather (council driver)",2,1,1,1,0,0,1,"Nervous breakdown - stress related, low blood pressure, post concussional whip lash",0,None,0,0,2,0
+ST1GAB0413,Retired Sales Marketer Manager,Mechanic,1,2,2,20,0,0,1,"Cardiomyopathy, Gout, fallen arches in feet",0,"Digoxin, Warfarin, Spironolactone, Frusemide, Ramipril, Carvedilol, Allopurinol",0,0,1,0
+ST1GAB0414,Retired House Keeper,Engineer,1,1,2,9,0,0,1,Heartburn (gastric),0,Omeprazole,0,0,1,0
+ST1GAB0415,Civil Servant Department of Working Pensions,Costing Clark,1,1,2,5,1,0,1,"Arthritis, C5/C6 (bad back)",0,"Diclophenac, MST (morphine tablets)",0,0,1,0
+ST1GAB0416,Retired Shop Assistant,Heavy Goods Driver,1,1,1,9,1,0,1,"High blood pressure, high blood cholesterol, Hypothyroidism",1,"Thyroxine, Amlodipine",0,0,1,0
+ST1GAB0417,Retired Biochemical Scientist - Senior Chief,Powerhouse Engineer,2,3,2,4,7,0,1,Raised blood pressure and raised cholesterol,1,Lisinopril,0,1,1,0
+ST1GAB0418,Retired Joiner,Bar trade,1,2,2,0,0,0,1,Stomach issues years ago,1,None,0,0,1,0
+ST1GAB0419,Commercial Manager,Retired Principal Teacher of Physics,1,3,2,4,0,0,0,None,0,None,0,1,1,0
+ST1GAB0421,Psychiatric Nurse,Taxi Driver,1,3,2,0,0,0,1,"Depression, Endometriosis",0,Co-codamol PRN,0,0,1,0
+ST1GAB0422,Local Government Officer,Architect,1,3,2,3,0,0,1,Ante/post-natal depression,0,None,0,0,1,0
+ST1GAB0423,"Retired Secretary, current Costco demonstrator",Coal miner,1,2,2,1,0,0,0,None,0,None,0,0,1,1
+ST1GAB0424,Administrator,Retired Store Manager,1,3,3,6,0,0,1,"Mild asthma, Depression history",0,Inhaler - only with exercise,0,0,1,0
+ST1GAB0425,Childcare Assistant,Gas fitters,1,2,1,0,0,0,1,"Depression, Asthma, Irritable Bowel Syndrome",0,"Sertraline, Symbicort, Seretide, Buscopan",0,0,1,0
+ST1GAB0426,Assessor Trainer - Search and Rescue,Seaman/fisherman,1,2,2,0,0,0,0,None,0,None,0,0,1,0
+ST1GAB0427,Retired Receptionist,Turbine Driver,1,1,2,0,0,0,1,"Breast Cancer, High BP, Gastric issues",1,"Bendroflumethiazide,Atoravstatin, Omeprazole, Tamoxifen, Beclometasone",0,0,1,0
+ST1GAB0429,Retired Civil Servant,Aberdeen City Council Worker,1,1,4,0,0,0,1,High Blood Pressure,1,"Enaparil, Benzoflumethiazide",0,0,1,0
+ST1GAB0430,Retired Bricklayer,Labourer,1,1,2,6,0,0,1,"Prostate problems, cirhosis, high blood pressure, high blood cholesterol, long-standing hayfever",1,"Losartan, Aspirin, Cetirizine, Amlodipine, Simvastatin, Tamsulosin",0,0,1,0
+ST1GAB0431,Senior Staff Nurse Emergency Care Centre,Steel Erector,1,3,2,0,0,0,1,"Hysterectomy, Spinal Fusion, Growth removed from spine (spinal decompression)",0,"Omeprazole, paracetamol, Ibrupofen",0,0,1,0
+ST1GAB0432,Retired Negotiator,Trawal Skipper,3,3,2,18,1,0,1,"Pulmonary Embolism, High blood cholesterol",0,"Warfarin, Simvastatin",0,0,1,0
+ST1GAB0433,Engineer,Lorry Driver,1,2,2,16,8,0,1,"High Blood Pressure, borderline High Blood Cholesterol",1,Ramipril,0,0,1,0
+ST1GAB0434,Retired Administrator,Engineer,1,2,2,8,1,0,1,Asthma,0,Seretide Inhaler,0,0,1,1
+ST1GAB0435,Bar Attender,Retired Joiner,1,3,1,9,0,1,1,"Low Blood Pressure, Chron's Disease",0,Mercaptopurine,0,0,1,0
+ST1GAB0436,Logistic Procurement Manager,Drainer (passed),1,1,2,20,0,0,1,Cellulite in leg,0,None,0,0,1,0
+ST1GAB0437,Team Manager Co-op Group,Tile Fixer,1,1,2,2,0,15,1,"Angina (hereditary), High Blood Pressure, Asthma, High Blood Cholesterol",1,"Aspirin, Omeprazole, Securon, Ramipris, Bendroflumethiazide, Rovustatin, Monomaz, Symicort (inhaler), Salamol (inhaler)",0,0,1,1
+ST1GAB0438,Lecturer (Engineering Math),Company Director,1,3,2,1,0,0,1,Enlarged Prostate,0,Tamulosin,0,0,1,0
+ST1GAB0439,Global Director,Agricultural foreman,1,3,4,54,6,0,0,none,0,none,0,0,1,0
+ST1GAB0440,Retired Nurse,Engineer,1,2,2,0,0,0,1,"Thyroid and gall bladder removal, Arthritis in hands, Anxiety, Ventricular ectopic beats",0,"Thyroxine, Mitrazapine last 5 months (stopped last week)",0,0,1,0
+ST1GAB0441,Enforcement Officer,Street Orderley,2,1,2,4,0,0,1,Appendicitis,0,None,0,1,1,0
+ST1GAB0442,Retired Senior Lecturer (Accounting),Academic - researcher & lecturer (Science),2,3,1,10,0,0,1,Duodenal ulcer,0,"Omeprazole, Gaviscon",0,1,1,0
+ST1GAB0443,Tax Inspector,Joiner,1,3,2,0,0,0,1,"High BP, Allergic reaction - rash (urticaria)",1,Telfast (fexofenadine),1,0,1,1
+ST1GAB0445,Fire Fighter,Electrician - Retired,1,2,2,6,0,0,0,,0,None,0,0,1,1
+ST1GAB0446,Retired Purchasing Officer,Manager of Printing-Related Company,1,1,2,6,0,0,1,"Mild depression, prostate operation last year",0,"Omega 3, Cod liver oil, ibuprofen occasionally for hip problem.",0,0,1,0
+ST1GAB0447,Store Manager,Retired Joiner,1,2,2,1,0,0,1,Depression (20-25 yrs ago),0,None,0,0,1,0
+ST1GAB0448,Retired - secondary school teacher,Political Organizer (passed),1,3,2,26,1,0,1,"Hernia, Labyrinthitis, Asthma (low level)",0,Inhaler,0,0,1,0
+ST1GAB0449,Retired Print Manager,Type Writer Mechanic,1,1,2,2,0,0,1,"High Blood Pressure, Bursitis (inflammatory joints)",1,"Atenolol, Allopunirol",0,0,1,0
+ST1GAB0450,Home Maker,Joiner,1,2,2,0,0,0,0,None,0,None,1,0,1,1
+ST1GAB0451,Baker,Passed,2,2,2,12,0,0,0,,0,None,0,0,1,0
+ST1GAB0452,Retired BBC Admin and Reception,Taxation Assistant,1,2,2,10,0,0,1,"Irritable Bowel Syndrome, Vertigo, Sinusitis, reflux (occasional)",0,"Mebeverine, nurofen, omeprazole",0,1,2,0
+ST1GAB0453,Chef,Porter (Hospital),1,3,1,0,0,15,0,None,0,None,0,0,2,0
+ST1GAB0454,City Warden,Papermill Maker,1,1,4,12,13,6,1,"Depression, Irregular heart beat",0,Bisoprolol,0,0,2,1
+ST1GAB0455,Retired Director of Human Resources,Agricultural Engineer,1,3,2,0,0,0,1,"Depression and Anxiety, On investigation for possible irritable bowel syndrome",0,None,0,0,1,1
+ST1GAB0456,Retired Engineer,Rigger on Ships,1,2,2,4,0,0,0,None,1,Bendroflumethiazide,0,0,1,1
+ST1GAB0457,Retired Teacher,Civil Servant,1,3,2,14,2,0,1,"PTSD, Glucose intolerant, Prolapse",1,"Candersartan, Atorvastatin",0,0,1,0
+ST1GAB0458,Mechanical Engineer,Policeman - retired,1,3,2,8,2,0,1,"Dry, irritable skin",0,"Dermovate ointment, Antihistamine - as required",1,0,1,1
+ST1GAB0459,Customer Service Officer in Bank,Newspaper Dispatch Foreman,1,1,2,0,0,0,1,Breast cancer,0,Anastrozole,0,0,1,0
+ST1GAB0460,Retired - deputy Head Teacher,Joiner,1,3,2,30,0,0,1,"Had seizure 12 years ago - precipitated by incorrect medication, Vericose veins- surgery 2016, Eczema , glaucoma",0,latanaprost,0,0,1,0
+ST1GAB0461,Film Producer,Financial Adviser,1,2,1,1,0,0,0,None,0,None,0,0,1,0
+ST1GAB0462,Occupational therapist Support Worker,Engineer - Mechanical,1,2,2,8,0,0,1,Arthritis - knee,0,None,0,0,1,0
+ST1GAB0463,Retired Teacher,Director of Demolition Company,1,3,5,5,0,0,1,"High Blood cholesterol, Torn muscle left shoulder",0,None,0,0,1,0
+ST1GAB0464,Chemical Warehouse Worker,Joiner,1,2,2,1,0,0,1,"Work-related stress, 24years old had pneumonia, Jaundice as a child, damaged knee, ?Arthritis/joint pain on hip",0,"Tramadol Hydrochloride, Zydol Prolonged Release, Ibrupofen",0,0,1,0
+ST1GAB0465,Personal Shopper- ASDA,Labourer (railway) - passed,2,1,1,8,0,0,1,"Heart Burn, pain in joints (hands), menopause",0,"Vagifem, Omeprazole",0,0,1,0
+ST1GAB0467,Metering Technician,Technical Trainer,1,2,1,20,2,0,1,Gastric Problems,0,Omeprazole,0,0,1,0
+ST1GAB0468,Support Worker,Bus Driver (passed),1,1,4,15,2,26,1,COPD,0,Inhaler - daily,0,1,1,1
+ST1GAB0469,Retired Service Center Supervisor -Grampian Police,Corporation Transport,1,3,4,4,0,0,0,none,0,none,0,0,1,0
+ST1GAB0470,Retired Lab Technician - Oil Industry,Lorry Driver,1,1,4,0,0,0,1,"Helicobacter Pylori (12 yrs ago), High BP",1,"Simvastatin, Bendroflumethiazide, Amlodipine",0,0,1,0
+ST1GAB0471,Care Assistant,Fitter in mines,1,1,2,0,0,0,1,"Headaches since childhood, rods in back",0,"Omega 3, Celecoxib - inflammatory, solpadeine",0,0,1,0
+ST1GAB0472,Financial Advisor,Granite polisher,1,2,2,0,0,0,1,"Diabetes, Leukemia (7 yrs ago), Angina",0,"Glibepiride, Bisoprolol",0,0,1,0
+ST1GAB0473,Sales Representative,Civil Engineer (Deceased),1,1,2,0,0,0,0,None,0,None,0,0,1,0
+ST1GAB0476,Teacher -Primary School,"Plumber, building business",1,3,2,4,0,0,0,None,0,None,0,0,1,0
+ST1GAB0477,Accountant,Offshore staff,1,3,2,0,0,0,1,Heartburn,0,Omeprazole,0,0,1,1
+ST1GAB0479,Dance Teacher,Accountant,1,3,2,0,0,0,1,"Tonsillitus, Low iron, Breast and tissue cysts",0,None,0,0,1,0
+ST1GAB0480,Cell Salvage Technician,Foreman ACC,1,1,1,4,0,0,1,"Depression, Migrain, ISB, Non-essential tremor",0,"Lansoprazole, Atorvastatin, Sertraline, Propranolol, Mebeverine Hydrochloride",1,0,2,1
+ST1GAB0481,Kiosk Assistant,Transport Manager,3,2,4,0,0,0,1,"Heart murmur from childhood, Psoriasis, Psoriatic arthritis",0,"Methrotrexate, Alendronic acid, Folic acid",0,0,1,0
+ST1GAB0482,Admin Assistant,Joiner,1,2,2,6,0,0,0,None,0,None,0,0,1,0
+ST1GAB0483,Retired Assistant Rental Co-ordinator,Slater Trade,1,1,2,8,0,0,1,"Stress Epilepsy, Shingles, Coeliac Disease, Blocked Artery (stent in heart), Under Active Thyroid",0,"Atorvastatin, Bisoprolol Fumerate, Aspirin, Nicorandil, Levothyroxine, Carmil XL",0,1,1,0
+ST1GAB0484,Retired Photo Technician,Long Distance Lorry Driver,1,2,2,0,0,0,1,Had bones removed from feet due to hereditary problem. Cancer in Sebaceous Gland,0,"Gabapentin, Hylo tears",0,0,1,0
+ST1GAB0485,Retired Librarian,Engineer,1,3,1,1,1,0,1,"Bronchietasis, Lupus, Knee replacement - arthritis, Hysterectomy, Gestational Hypertension",1,"Hydroxychloroquine, Ibuprofen, Cocodamol, Cod liver oil",0,0,1,1
+ST1GAB0486,Senior Assistant Technical Officer,RAF,1,2,1,0,0,0,1,Sinus problems. Had polyps removed),0,Nasal spray,1,0,1,1
+ST1GAB0487,Engineer,Market Researcher,1,3,2,20,0,0,1,"Broken bones in past, Hernia operation, Tennis elbow",0,Naproxen,0,0,1,0
+ST1GAB0489,Self-Employed Tourism Consultant,Master Joiner,1,3,2,21,3,0,1,"Depression(counselling a few years ago), Allergic to Chlorine, Hip Replacement 2015, Arthritis Joints, Irregular Heart Beat (no medicines)",0,"Cetirizine, Glucosamine",0,0,1,1
+ST1GAB0490,Farmer,Farmer,1,2,2,4,0,0,0,None,0,None,0,0,1,0
+ST1GAB0491,Sales Manager,Retired Rigger,2,3,2,4,0,0,1,Depression,0,Citalopram,0,0,1,1
+ST1GAB0492,Staff Nurse,Joiner,1,3,2,0,0,0,0,None,0,None,0,0,1,0
+ST1GAB0493,Joiner - retired,Labourer/Farmer,1,2,2,6,0,0,1,"Slipped disc - R side, Asthma, High BP",1,"Ramipril, Inhaler, Zapain and Paracetamol (daily)",0,0,1,1
+ST1GAB0494,Well Engineer,Gas Board employee,1,3,2,45,6,0,1,Hypertension,1,Felodipine,0,0,1,0
+ST1GAB0495,Unemployed,Retired Army Officer and Warehouse Manager,1,1,2,0,0,0,1,"Diet controlled diabetic, Depression, Chronic back pain, Chronic pain on the right leg, Emotionally Unstable Personality disorder and recurrent depressive disorder",0,"Buprenorphine patch, Docusate, Propranolol, Tramadol, Ranitidine, Duloxetine, Zoplicone, Pregabalin",0,0,2,1
+ST1GAB0496,Transport Manager,Blacksmith,1,2,2,0,0,0,1,"Crohns Disease, High BP",1,Adminulab injection,0,0,1,0
+ST1GAB0497,Field Service Engineer,Barman/Steward,1,1,4,12,2,0,0,None,0,None,0,0,1,0
+ST1GAB0498,House Wife- Business Owner,Shop Assistant,1,1,2,0,0,0,1,"Angina, Slight Epilepsy, Osteoporosis",0,"Amlodipine, Bisoprolol, Apixaban Eliquis, Accrete Vitamin D, Alendronic Acid",0,0,1,0
+ST1GAB0499,Catering offshore,Distillery head cooper,1,1,2,5,0,0,1,"Migraines, trapped nerve on R shoulder/neck, Hernia, Asthma, Eczema, High Blood Pressure, Viral vertigo",1,"Ranitidine, Canderstartan, Rizatriptan, Epaderm ointment, Betamethasone lotion, Haelan Tape, Elocon Ointment, Dermol Lotion",0,0,1,0
+ST1GAB0500,Self-employed French Patisserie,Wholesale yeast merchant,1,1,2,8,0,0,1,"Arthroscopy, low BP - 24 monitoring (yesterday)",0,None,0,0,1,1
+ST1GAB0502,Physiotherapist,Architect,1,3,2,11,1,1,0,None,0,Contraceptive,0,0,1,0
+ST1GAB0503,Company Director,Retired Health and Safety Officer,1,3,2,0,0,0,1,"Hidradenitis Suppurativa, Preemclampsia",1,Metformin (for Hidradenitis),0,1,1,0
+ST1GAB0504,Health and Safety Advisor,Drilling Company Director,1,3,2,0,0,0,1,"Depression, Accelerated hearing loss",0,None,1,0,2,0
+ST1GAB0506,Classroom Assistant,Not known,1,1,2,2,0,0,1,"Depression (following mum's death), Fibromyalgia, Gall Bladder Removed (1982)",0,Nortiptyline,0,0,1,0
+ST1GAB0510,Pharmacist Lecturer,Retired Plumber,1,3,1,9,0,0,0,None,0,Avamis - nasal spray,0,0,1,0
+ST1GAB0512,Store Manager,Purchasing Manager,1,2,1,0,0,15,1,Depression,0,None,0,0,2,1
+ST1GAB0514,Retired Nurse and Health and Social Care Lecturer,Teacher - Technical Subjects,1,2,2,0,0,0,1,"Arthritis, Severe Acute Pancreatitis, Gall Bladder Removed, Back problems, High BP",1,"Amlodipine, Atorvastatin, Ezetrol, Omeprazole, Creon Pancreatic Enzymes, Latanoprost Eye Drops, Nefopam",0,0,1,1
+ST1GAB0515,Housewife,Banker,2,2,3,0,0,0,1,"COPD, Breast Cancer, Endometriosis, Sarcoidosis, gall bladder removal",0,inhaler- COPD,0,0,1,1
+ST1GAB0516,Social Worker,Minister (Religious),1,3,2,16,2,0,1,"Depression, Arthritis, HayFever, Rhinitis, Varicose Veins, Poor circulation, essential tremor",0,Occasional paracetomol,0,0,2,1
+ST1GAB0518,Retired Civil Servant,Railway Inspector,1,1,2,3,1,0,0,None,0,None,0,0,1,0
+ST1GAB0519,Student (Film Studies),Retired Secondary School Teacher,1,3,2,27,2,0,0,None,0,None,0,0,1,0
+ST1GAB0521,Retired Bank Officer,Joiner,1,1,2,18,0,0,1,Hypertension,1,"Amlodipine, Glucosamine chondroitin, garlic pill",0,0,1,0
+ST1GAB0522,Retired Property Director,Optician,1,3,2,9,2,0,0,None,0,None,0,0,1,0
+ST1GAB0523,Brand Manager and Marketing,Civil Servant,1,2,2,14,0,0,1,"Depression, Thyroid (UNDER ACTIVE)",0,Thyroxine,0,0,1,0
+ST1GAB0524,Retired Teacher,Doctor,1,2,4,0,0,0,0,none,0,None,0,0,1,0
+ST1GAB0525,Retired Ophthalmologist/senior lecturer,Farmer,1,3,2,9,0,0,1,"Osteoarthritis, borderline High Cholesterol",0,Hormone Replacement Therapy Pessaries,0,0,1,0
+ST1GAB0527,Probationary Teacher,Stillsman,1,3,2,0,0,0,0,None,0,Over the counter eyedrops,0,0,1,0
+ST1GAB0529,Housing Association Team Leader,Paint Factory Supervisor,1,3,4,18,0,0,1,"Celiac Disease, Depression, Panulcerative Collitus, Osteoperosis",0,"Calcium&VitD3, Alendronic Acid, Magnestium, Fish Oil Caps, Probiotics",0,0,2,1
+ST1GAB0530,Tax Manager,Ship Building Foreman,1,3,2,5,0,0,1,Type 1 diabetic,0,"Simvastatin, ?Insulin, Aspirin",0,0,1,0
+ST1GAB0532,Retired Staff Nurse,Butcher,1,3,1,0,0,0,1,"Chronic Depression, Arthritis, IBS, Sleep Apnoea, Asthma, UnderActive Thyroid, High BP, Fibromyalgia",1,"Coletac, Paracetamol, Levothyroxine, Lisonopril, Citalopram, Montilukast, Fexofenadine, Pantoprizole, Butranze Patches, Ventolin Inhaler, Dost Inhaler",0,0,2,0
+ST1GAB0533,Retired Maths Teacher,Fitter,1,3,2,14,0,0,0,none,0,none,0,1,1,0
+ST1GAB0534,Retired Manager at Scottish Enterprise,School Teacher,1,3,2,40,2,0,1,"High Blood Pressure, Enlarged Prostrate, congenital wolff parkinson white syndrome",1,"Simvastatin, Candesartan, Tamsulosin, Aspirin",0,0,1,0
+ST1GAB0535,Offshore Staff - Behavioural Safety Consultant,"Policeman, then off shore",1,1,1,0,0,0,1,"Peripheral Vascular Disease, High BP, Poor Kidney Function, TIA (3years ago), Arthritis in hands, Depression, Heavy Alcohol Use over the years (nil current), dupuytren's contracture",1,"Bisoprolol, Doxazosin, Clopidogrel, Simvastatin, Amlodipine",0,0,4,1
+ST1GAB0536,Supply Teacher,Military (Logistics) Belgium,1,3,2,15,0,0,1,"Post-natal Depression, Sore knees, Ectopic Heart Rhthm(now not present)",0,none,0,0,1,0
+ST1GAB0537,SVQ Assessor,Test Equipment Engineer,3,2,2,10,2,0,1,"Depression, Cold Sores",0,None,0,0,1,1
+ST1GAB0538,Guest House owner (Former Farmer),Farmer,1,2,2,8,1,0,0,None,0,None,0,0,1,0
+ST1GAB0539,Retired Company Director,Brick layer,1,1,2,0,2,0,1,"Clinical depression, Fibromyalgia",0,"Cipralex, Co Codamol",1,0,1,1
+ST1GAB0540,Stay at home mother,Retired banker,1,3,2,18,0,0,1,Depression,0,Sertraline,0,0,1,0
+ST1GAB0541,Retired Professor of Medicine and Research & Development,GP,1,3,4,4,1,0,1,"Eptopic Pregnancy, Emergency Section, Recurrent UTI's, Cysospocy",0,"Lutien Supplements, Omeprazole, Simvistatin, Nitrofurantoin, Aspirin, Cranberry Tablets",0,0,1,0
+ST1GAB0542,Data Analyst,Oil Operations,1,3,2,9,0,0,1,Inflamation -Hip Bursitis,0,None,0,0,1,0
+ST1GAB0543,Retired TV Engineer,Building Labourer,1,2,1,0,0,0,1,"Asthma, Rhinitus Allergy and Gall Bladder Removed",0,Ventolin inhaler and brown inhaler,0,0,1,0
+ST1GAB0544,Teacher,Salesman (retired),1,3,2,27,0,0,1,Labyrinthitis/BPPV,0,None,0,0,1,0
+ST1GAB0547,Police Officer,Civil Engineer,1,2,2,20,0,0,0,none,0,none,0,0,1,0
+ST1GAB0549,Principal Informarion Assistant,Maltings Manager,1,3,2,0,0,0,1,Post Natal Depression and Depression,0,Esomeprazole,0,0,1,1
+ST1GAB0550,Unemployed - husband's carer (secretary previously),Joiner,1,2,2,2,0,0,1,"Migraines, Restless leg syndrome, Cancer (ovarian 1986), (non-hodgkins lymphoma 1999), Tennis Elbow (operated),  Carpal Tunnel (operated), IBS",0,"Bedranol, Omeprazole, Hormone Replacement Therapy - Elleste Solo, Mebeverine (Colofac)",0,0,1,0
+ST1GAB0551,Petroleum Engineer,Bus Driver,1,3,2,8,5,0,0,None,0,None,0,0,1,1
+ST1GAB0552,Retired Social Worker,Teacher,1,3,1,0,0,0,0,None,0,None,0,1,1,0
+ST1GAB0557,Designer - architectural,Retired teacher,3,3,2,1,0,0,0,None,0,None,0,0,1,0
+ST1GAB0558,Civil Servant,Civil Servant,1,2,4,0,0,0,1,"Coeliac Disease, Bells Palsy",0,none,0,1,1,1
+ST1GAB0559,Logistics Coordinator,Labourer,1,2,1,0,0,0,0,None,0,None,0,0,1,0
+ST1GAB0560,Sales Director,Community Service Officer,1,1,2,10,2,0,0,None,0,None,0,0,1,0
+ST1GAB0561,Company Director,Baker,1,2,5,0,0,0,1,"Tachycardia, Appendectomy,oranay tube removed, Huitus Hernia Operation, Barratts Oesophagus, Car Accident (health issues as result) Depression, Pulmonary Embolism,Bunions removed on both feet",0,Anti-Depressant,0,0,2,1
+ST1GAB0562,Nurse,Ship Builder/Plater,1,3,1,9,0,0,1,Depression,0,HRT,0,0,1,1
+ST1GAB0564,Book Keeper,HGV Driver,1,1,4,4,1,7,1,Panic Attacks,0,HRT,0,0,1,0
+ST1GAB0566,Derrickman Offshore,Papermill worker/engineer,1,2,4,6,0,0,1,Sciatica,0,None,0,0,1,0
+ST1GAB0570,Retired Telecoms Engineer,Driver in council,1,1,3,12,0,0,0,None,0,Ibuprofen,0,0,2,1
+ST1GAB0571,Retired Finance manager,Trawlerman,1,2,4,10,4,20,1,Chronic Obstructive Pulmonary Disease,0,"Eklira, Brikanyl",0,0,1,0
+ST1GAB0573,Teacher (Science),Student (English lit),1,3,1,1,0,0,1,Arthritis in finger,0,None,0,0,1,0
+ST1GAB0574,Farmer,Greenmerchant then farmer,1,3,1,5,0,0,0,None,0,None,0,1,1,0
+ST1GAB0575,Offshore Captain,Military - Retired,1,3,2,10,2,0,1,"Wrist fracture, Shingles",0,None,0,0,1,1
+ST1GAB0576,Retired Nurse,Coal Miner,1,3,2,3,0,0,1,Depression,1,"Citalopram, Bendroflumathazide, Atenalol, Atorvastatin, Esomeprazol",0,0,1,1
+ST1GAB0577,IT Business Analyst,Civil Engineer,1,3,1,8,1,0,0,None,0,None,0,0,1,1
+ST1GAB0579,General Assistant,Fisherman,1,1,2,2,0,0,1,"High BP, Underactive Thyroid, Silent Reflux, Osteoarthritis",1,"Ramapril, Omeprazole, Levothyroxine, Amlopodine, Gaviscon Advance",0,0,1,0
+ST1GAB0580,Retired Senior Account Representative,Airforce,3,1,2,14,2,0,1,High Blood Pressure,1,"Amlodipine (5mg), Aspirin (75mg)",0,0,1,0
+ST1GAB0581,Engineer,Security Guard,1,2,2,8,0,0,1,"Lower back pain, problems with left ankle (physiotherapy)",0,None,0,0,1,0
+ST1GAB0582,Retired Company Director,Post Office Engineer,1,3,2,30,0,0,1,High cholesterol,0,Simvastatin,0,1,1,0
+ST1GAB0583,Offshore Contracts Manager,Plasterer,2,2,5,70,0,0,1,Gall bladder - removed 20 years ago; Acne,0,Oxytetracycline,0,0,1,0
+ST1GAB0584,Leisure Manager,Electrical Engineer,1,2,2,0,0,0,1,"Cleft palat since birth, ear operation (grommits)",0,None,0,1,1,0
+ST1GAB0586,Retired (coffee shop owner),Salesman,1,2,2,0,0,0,1,"Depression, Diabetes Type 2, Underactive Thyroid, High BP, waiting knee replacement, 2xTIAs",1,"Amlopodine, Bendroflumethiazide, Ibersartan, Rosuvastatin, Tramadol, Omeprazole, Metformin, Aspirin, Lactulose, Levothyroxine, Paracetamol",0,0,2,1
+ST1GAB0587,Farmer,Farmer,1,2,2,15,0,0,1,"Underactive thyroid, Depression, Sleep apnea, Broke pelvis, Broke kneecap (operations required)",0,"Venlafaxine, Carbamazepine, Omeprazole, Thyroxine",0,0,1,1
+ST1GAB0588,PE Teacher,Retired PE Teacher,1,3,1,1,1,0,1,Anxiety,0,None,0,0,1,0
+ST1GAB0589,"Mission Co-ordinator for the Church of Scotland, former Lecturer",Grocery Shop manager,1,3,2,7,0,0,1,Atrial Fibrillation,0,"Simvistatin, Aspirin",0,0,1,0
+ST1GAB0590,Retired research assistant,Farmer,1,3,2,14,0,0,1,"Hypothyroidism, Anxiety, Depression",0,Thyroxine,0,0,2,1
+ST1GAB0591,Health Visitor,Plumber/Welder,3,3,2,2,0,0,1,Anxiety,0,None,0,0,1,0
+ST1GAB0592,"Retired plumber, pipefitter & welder, currently works holiday relief as driver","Builder, plasterer",1,2,2,18,8,0,1,"High BP, High cholesterol",1,"Atovarstatin, Amlodipine, Esomeprazole",0,0,1,0
+ST1GAB0593,Offshore Worker,Retired Engineer,2,1,2,0,0,0,0,None,0,Co-codamol (as needed),0,0,1,0
+ST1GAB0595,Analytical Chemist (Retired),Financial Auditor,1,2,2,0,1,0,1,Fibrocystic disease in the breast,0,None,0,0,1,0
+ST1GAB0598,Tourist Book Office,Lorry Driver,3,2,1,1,0,0,1,"Depression, Rheumatoid Arthritis",0,"Sulfasalazine, Lansoprazole, Cetirizine, Paracetamol, Ibuprofen",0,0,2,1
+ST1GAB0599,Manager (waste industry); previous aircraft engineer,Careers officer,1,2,4,0,0,0,1,"Clinical depression, high BP, bladder problems (urgency), mild form of spinalbifida",1,"Preblacon XL, Lisinopril, Bendroflumethiazide, Mitrazapine, Priadel, Diazapam (prn)",0,0,2,1
+ST1GAB0600,Book Keeper,Process Worker - Chemical Factory,1,1,2,0,0,0,0,None,0,None,0,0,1,0
+ST1GAB0601,Construction Company Director,Financial Director,1,2,2,7,0,0,0,None,0,None,1,0,1,0
+ST1GAB0602,Bus Driver,Director of Finance for Local Authority,1,3,2,21,4,0,1,"Depression, previously Stress/Anxiety",0,"Citalopram, Simvastatin",0,0,1,1
+ST1GAB0604,Retired Telecoms Engineer,Head Master,3,3,2,0,0,15,1,"Type 2 Diabetes, Gout, Enlarged Prostate currently under investigation",0,"Ibuprofen, Alepunerol, Metformin, Gimipride, Atorvastatin, Omeprazole, Sitiglipta, Tamulosin",0,0,1,0
+ST1GAB0605,Farmer,Army Chaplain,1,2,2,0,0,0,1,Postnatal Depression (1985); Asthma and allergies,0,None,0,1,1,0
+ST1GAB0606,Farmer,Farmer,1,2,2,0,0,0,1,"TIA & MI (2003, 10 days apart)",1,Atenolol; Ramipril; Simvastatin; Warfarin,0,0,1,0
+ST1GAB0607,Police Officer,Police Officer (Stepfather),1,1,2,2,0,0,0,None,0,"Ibruprofen (Just at present for cold, not prescribed)",0,1,1,1
+ST1GAB0608,Retired Physics Teacher,Retired Woodworker,1,3,2,8,0,0,1,Prostate cancer,1,"Atorvastatin, Amlodipine, Tamsulosin",0,0,1,0
+ST1GAB0609,Retired Electrical Technician,Ships Captain/Joiner,1,2,4,2,0,0,1,Diabetes Type 2 (2002),0,Atorvastatin; Dapagliflozin; Gliclazide; Metformin,0,0,1,0
+ST1GAB0610,Retired Administrative Assistant (Finance),Master carpenter/joiner & Undertaker,1,3,2,20,4,0,1,Depression,0,None,0,0,1,0
+ST1GAB0612,Managing Director of Safety Consultancy,Materials and Equipment Checker for Car Company,2,2,2,20,0,0,1,"Depression, Anxiety",0,None,0,0,1,0
+ST1GAB0614,Retired Medical Receptionist,Distillary Worker,1,2,2,3,0,0,1,Underactive thyroid; COPD,0,Thyroxine,0,0,1,0
+ST1GAB0615,Postperson,Process Operator,1,2,2,6,0,0,0,None,0,Verapamil,0,0,1,0
+ST1GAB0616,Retired Shop Manager,Process Worker at Glaxo,1,1,2,1,0,4,1,?depression as a child; Fibromyalgia; Spondylosis,0,Paracetamol; Naramig (PRN),0,1,1,1
+ST1GAB0617,Retired Administation,Civil Engineer,1,3,2,0,0,0,1,mm,1,"Ramipril, Atorvastatin",0,0,1,0
+ST1GAB0618,Retired Vicar,Company Managing Director,1,3,2,7,1,0,0,None,1,Candersartin,0,0,1,1
+ST1GAB0621,Company Secretary,Welder,1,3,2,1,0,0,1,Breast cancer,1,None,0,0,1,0
+ST1GAB0622,Managing Director,Headmaster,1,3,2,1,0,0,1,Glandular fever,0,Cetirzine (Antihistamine); Antiacid tablet (PRN),0,1,1,1
+ST1GAB0623,Retired Master Baker,Master Baker,1,1,2,30,0,0,0,None,0,None,0,0,1,0
+ST1GAB0624,Retired Director of Hardware Company,Youth Club Leader,1,3,2,24,0,0,1,High cholesterol; Underactive thyroid; Diabetes; High blood pressure; Panic attacks; Anxiety; Depression,1,Levothyroxine; Amlodipine; Novorapid Flexpen; Sildenafil; Atorvastatin; Perindopril Erbumine; Fastclix Lancets; Clomipramine; Diprosalic; Lantus; Aviva Testing Strips; Omnican Insulin Needles,0,0,1,0
+ST1GAB0625,Care Assistant,Farmer,1,1,2,1,0,0,1,Postnatal depression; Arthritis; Underactive thyroid,0,Thyroxine; Glucosamine,0,0,1,0
+ST1GAB0626,Electrician,Antique Director,2,2,1,8,0,0,0,None,0,Ciailis,0,0,1,1
+ST1GAB0627,Mental Health Nurse,Farm Worker,1,3,2,8,0,0,1,Hiatus Hernia,0,Omeprazole,0,0,1,0
+ST1GAB0629,Retired Shop Assistant (Retail),Farm Hand,1,1,5,0,0,0,0,None,0,None,0,0,1,1
+ST1GAB0632,Retired Training Manager/Scheme Manager,Maintenance Worker,3,2,2,0,0,0,1,Fibromyalgia; ME (Chronic Fatigue Syndrome); Bronchietasis,1,Amlodipine; Carbocisteine; Ezetimibe; Paracetamol (PRN for Fibromyalgia),0,0,1,1
+ST1GAB0633,Company Secretary,Mechanic,1,1,2,15,2,0,0,None,0,Levothyroxine; Lansoprazole; Lymelycline; Quinine; Chlorphenamine; Cocodamol,0,1,1,0
+ST1GAB0634,Physiotherapist,Plasterer,1,3,2,11,0,0,1,Anxiety disorder,0,None,0,0,1,1
+ST1GAB0635,Subsea Engineer,Electrician,1,2,2,5,0,0,0,None,1,Bendroflumethiazide,0,0,1,0
+ST1GAB0636,Plumber,Plater,1,3,2,10,0,0,1,Anxiety; Tennis Elbow,0,Citalopram,0,0,1,0
+ST1GDU2061,Retired; Teacher (Modern Studies),Journalist,1,3,2,0,0,0,0,None,0,None,0,0,1,0
+ST1GDU2082,"Retired,Clerical Officer","Deceased,Salesman",1,1,2,9,4,0,0,None,0,None,0,0,1,0
+ST1GDU2112,Retired; Support Worker - Adults With Learning Disabilities,Deceased; Mill Worker,1,1,4,0,0,0,1,"Lung cancer, depression, underactive thyroid, mini stroke (detected on MRI), neuropathy",0,"Amitriptyline, paracetamol, cyclizine, nefopam, levothyroxine, longtec, omeprazole, pregabalin, lorazepam",0,0,1,1
+ST1GDU2113,Development Manager,Retired; Civil Engineer,1,3,1,9,0,0,1,"Endometriosis, Swine Flu, Depression, Hypotension",0,None,0,0,1,0
+ST1GDU2114,"Retired,Post Office Manager","Deceased,Executive Scottish Gas Board",1,1,2,60,14,0,1,"Anxiety,Muscular Pain (right hand upper body)",0,None,0,0,1,0
+ST1GDU2117,Retired; Police Officer,Deceased; Railway Linesman,1,2,2,5,0,0,0,None,0,Penicillin,0,0,1,0
+ST1GDU2118,Health Care Assistant & Admin,Retired; Parcel Officer,1,2,2,4,0,0,1,Depression,0,Citalopram,0,0,1,0
+ST1GDU2146,Retired Canine Beautician,Dairyman,1,1,2,3,1,0,1,"Hysterectomy,prolapse,osteoperosis,Hypercholesterolaemia",0,"Elandronic Acid,Nitrofurantonin",0,0,1,0
+ST1GDU2160,Retired; Account Manager at BT,Deceased; Sugar Boiler,2,2,2,10,0,0,0,None,0,None,0,0,1,0
+ST1GDU2184,Retired; Adult guidance advisor,Deceased; Railway electrician,2,3,2,15,0,0,1,"MS, Anxiety, Acid reflux",0,"Adcal-d3, Oxybutynin, Esomeprazole",0,0,1,1
+ST1GDU2190,Teacher,Retired; Estate Agent,1,3,2,2,0,0,1,Reactive arthritis,0,None,0,0,1,1
+ST1GDU2195,Teacher,Businessman,1,3,2,1,1,0,0,None,0,None,0,0,1,0
+ST1GDU2196,Retail Manager,Deceased;Joiner,1,2,2,4,2,0,1,Asthma,0,"salbutamol inhaler,seretide inhaler",0,1,1,0
+ST1GDU2200,Housing Support Officer,Retired; Engineer,1,2,2,15,0,6,1,"Anxiety, depression, OCD, chronic fatigue, partial deafness in left ear",0,Prozac,0,1,1,1
+ST1GDU2206,Business Development Director,Retired; Teacher,1,3,2,8,0,0,1,"Anxiety, acid reflux",0,"HRT, lansoprazole",0,0,1,0
+ST1GDU2224,Retired; Lecturer at University of Dundee,Deceased; Police,1,3,2,10,0,0,1,"Hypertension, Hypothyroidism, Gastric reflux",1,"Lisinopril, bendroflumethiazide, levothroxine, omeprazole",0,0,1,0
+ST1GDU2229,ITS Engineer,Deceased; Factory Worker,1,2,2,18,2,15,0,None,0,None,0,0,1,0
+ST1GDU2230,Picture Framer,Retired; Farmer,1,2,2,10,0,0,1,Depression,0,Paroxetine,0,0,1,0
+ST1GDU2232,Retired; Shorthand Typist,Building Inspector,1,1,5,1,0,0,1,"Blockage in vein in neck, mastectomy for lump in breast",0,"Simvastatin, clopidogrel, laxido, lansoprazole",0,0,1,0
+ST1GDU2233,Doctor,Retired; Chartered Accountant,2,3,2,28,4,0,1,"Bowel cancer (twice), secondary cancer - liver",0,"Duloxetine, pregabalin, loperamide, atorvastatin",0,1,1,1
+ST1GDU2234,Pharmacist,Retired; Mechanical Engineer,1,3,2,30,6,0,1,"Depression, asthma, raynaud's syndrome, nasal congestion",0,"Adalat, cetirizine, fostair, mometasone, montelukast, salbutamol",0,0,1,0
+ST1GDU2235,Aassociate Professor,Retired; Teacher,1,3,4,15,2,0,1,Depression,0,HRT patch,0,0,2,1
+ST1GDU2237,Staff Nurse,Deceased; Engineer,1,2,2,6,1,0,1,Hypertension,1,Losartan,0,0,1,0
+ST1GDU2244,Admin Support at Dundee Dental Hospital,Retired; Engineer,1,2,2,0,0,5,1,"Fibromyalgia, depression, crumbling joint in spine",0,"Baclofen, amitriptyline, methadone, omeprazole, circadin",1,0,1,1
+ST1GDU2246,Property Manager/Developer,Deceased; Mining Engineer,1,2,2,20,0,0,1,"Depression, asthma, high blood pressure, high blood cholesterol, acid reflux",1,"Atorvastatin, omeprazole",0,0,1,0
+ST1GDU2247,Retired; Social Research Interviewer,Deceased; Salesman,1,3,2,0,0,0,1,"Anxiety/depression, macular degeneration, achilles tendon problems, wheeze, chronic rhinitis, arthritis (back)",0,"Fexofenadine hydrochloride, omeprazole, co-codamol (PRN), finasteride, mometasone furoate nasal spray, preservision lutein, sertraline, sterimar nasal spray, fostair steroid inhaler, salbutamol inhaler",0,0,1,0
+ST1GDU2254,Retired; Mud Engineer,Deceased; Plumber,1,3,1,30,0,0,1,"Depression, hypercholesterolaemia, hypertension",1,"Atorvastatin, amlodipine",0,0,1,1
+ST1GDU2255,Retired; Nurse,Deceased; Shopkeeper,1,2,1,0,0,0,1,"Bladder stress incontinence, depression, cardiac disease, type 2 diabetes, breast cancer, gall bladder surgery, underactive thyroid, high blood pressure, angina",1,"lantus solostar, aromosin, levothyroxine, metformin hydrochloride, oxybutynin hydrochloride, sertraline hydrochloride, simvastatin, amlodipine, aspirin, bisoprolol, empaglifoxin, glyceryl trinitrate pump spray, isosorbide mononitrate",0,0,1,0
+ST1GDU2256,Retired; Occupational Therapist,Deceased; Teacher,1,3,2,5,0,0,1,"Depression, hypothyroidism, allergics to NSAIDs, low blood pressure, irregular heart rhythm",0,Levothyroxine,0,0,1,0
+ST1GDU2258,Retired; Accounts Assistant,Deceased; Self-employed - Fruit/Vegetable Business,1,2,2,1,0,0,1,"Hysterectomy for endometriosis, osteoarthritis",0,None,0,0,1,0
+ST1GDU2262,Kitchen Designer,Army Captain,1,2,1,0,0,0,1,"Depression-Bipolar, asthma, OCD, removal of part of cervix (CIN 3, pre-cancerous), heartburn",0,"Lamotrigine, sertraline, omeprazole, fostair",1,0,3,1
+ST1GDU2263,Driver,Deceased; Fireman,1,1,2,6,2,0,0,None,0,None,0,0,1,0
+ST1GDU2265,Retired; Royal Airforce Administrator,Deceased; Engineer,1,3,4,0,1,0,1,"Depression, fibromialgia",0,Amitriptyline,0,0,1,1
+ST1GDU2266,Senior Social Care Worker,Deceased; Factory Manager,1,2,2,0,0,0,1,"Depression, Hypothyroidism",0,Thyroxine,0,0,1,0
+ST1GDU2267,Retired; Midwife,Deceased; Labourer,1,3,2,2,1,0,0,None,0,None,0,0,1,0
+ST1GDU2268,Retired; Chartered Surveyor,Deceased; Distillery Manager,1,2,2,3,0,0,0,None,0,None,0,1,1,0
+ST1GDU2269,Retired; Teacher,Deceased; Teacher,2,3,2,7,1,8,1,Hypercholesterolaemia,0,None,0,0,1,0
+ST1GDU2270,Retired; Carer,Deceased; Colourist,1,2,2,6,0,0,1,"ME, COPD, depression, ischemic heart disease, arthritis (hand/feet), high blood pressure, high cholesterol, underactive thyroid",1,"Bisoprolol, aspirin, atorvastatin, levothyroxine, ventolin, atrovent",0,0,1,1
+ST1GDU2271,Retired; Mechanical Technician,Deceased; Sheet Metal Worker,1,1,2,9,2,0,1,"Depression, bronchiectasis, benign prostate problems",0,"Ventolin, tamsulosin, tiotropium, finasteride, fostair",0,0,1,1
+ST1GDU2276,Retired; Catering Supervisor,Retired; Motor Mechanic,1,2,2,8,0,0,1,"Depression, anxiety, stiff person syndrome, asthma",0,"Amitriptyline, diazepam",0,0,2,1
+ST1GDU2280,Early Year Practitioner,Retired; Drainage Contractor,1,2,2,6,0,0,1,"High blood pressure, hayfever",1,"Losartan, fexofenadine",0,0,1,0
+ST1GDU2281,Retired; Scientist,Deceased; British Rail Manager,1,3,2,2,0,0,0,None,0,None,0,0,1,0
+ST1GDU2282,Retired; Teacher,Deceased; Engineer,1,2,2,1,0,0,1,"Underactive thyroid, bladder problems",0,"Thyroxine, mirabegron",0,0,1,0
+ST1GDU2283,Retired; Office manager (walking charity),Deceased; Printer,1,3,2,8,0,0,1,Ankylosing spondylitis,0,Methotrexate,0,1,1,0
+ST1GDU2284,Retired; Caretaker at Dundee College,National Cash Register Assembler,1,2,2,13,0,0,0,None,0,None,0,0,1,0
+ST1GDU2285,Foster Carer,Deceased; Labourer,1,2,2,0,0,0,0,None,0,None,0,0,1,0
+ST1GDU2286,Retired; Customs Duty Specialist (NCR),Deceased; Line Type Operator (DC Thompson's),1,1,2,12,0,0,1,"Gall bladder removal, prostate operation, stomach ulcer, reflux",0,Lansoprazole,0,0,1,0
+ST1GDU2287,"Receptionist, Company Director, Optometrist",Retired; Electrical Engieer,1,2,2,2,0,0,0,None,0,None,0,0,1,0
+ST1GDU2288,Human Resources Advisor,Retired; Builder,3,3,1,0,0,0,1,"Depression, anxiety, stress",0,"Sertraline, propranalol",0,0,1,1
+ST1GDU2289,Retired; Teacher,Deceased; Chef,1,2,1,0,0,0,1,"Migraines, angina, stress, diverticulitis, bowel surgery (removal of small intestines), bowel adhesiolysis, peripheral neuropathy (feet)",1,"Simvastatin, aspirin, GTN spray (PRN), senna (PRN), laxido (PRN), bisoprolol, gabapentin (PRN)",0,0,1,0
+ST1GDU2290,Retired; Health Visitor,Deceased; Postman,1,2,2,36,4,0,1,"Cysts on hips, depression, hypertension, mild COPD, arthritis in joints",1,"Ranitidine, ramipril, seebri breezhaler, cetirizine, ibuprofen, demol lotion",0,0,1,0
+ST1GDU2291,Semi-retired; Sales person,Police Officer,1,3,2,0,0,0,1,"Hypothyroidism (Hashimoto's syndrome), hiatus hernia, gout",0,"Thyroxine, allopurinol",0,0,1,0
+ST1GDU2292,Retired; Checkout Assistant,Deceased; Pipefitter,1,1,2,0,0,0,1,"Stress, heart attack",0,"Ramipril, aspirin, atorvastatin, bisoprolol",0,0,1,0
+ST1GDU2293,Retired; Clinical Effectiveness Co-ordinator,Deceased; Postman,1,2,4,0,0,0,1,Depression,0,Venlafaxine,0,1,2,1
+ST1GDU2294,Retired; Health Care Assistant,Deceased; Cabinet Maker,1,1,2,0,0,0,1,"Depression, Ulcerative Colitis, Stoma, Perforated duodenal ulcer, enlarged adrenal gland",1,"Buscopan, Calceos, Cocodamol, Dosulepin, Elleste, Lansoprazole, Mintec, Naseptin, Peppermint oil, Simvastatin, Solifenacin, Spironolactone",0,0,1,1
+ST1GDU2295,Retired; Company Director,Deceased; Banker,1,1,2,3,1,0,1,"Hip replacements, Hypercholesterolaemia, Hypertension, Heart Attack",1,"Ramipril, Bisoprolol",0,0,1,0
+ST1GDU2296,Retired; Social Care Team Leader,Deceased; Roofer,1,1,2,8,1,20,1,"Depression, Cataracts, Hypothyroidism, Hypercholesterolaemia, Anaemia, Hypertension, Gastric reflux",1,"Thyroxine, Simvastatin, Folic acid, Bendroflumethiazide, losartan, Omeprazole",0,0,1,1
+ST1GDU2297,Architect,Deceased; Doctor,1,3,2,30,2,0,1,"Incarcerated umbilical hernia, hypertension, MS",1,"Candesartan, simvastatin, amitriptyline",0,0,1,1
+ST1GDU2299,General Assistant,Retired; Crane Operator,1,2,1,0,0,0,1,"Depression, epilepsy",0,"Lamotrigine, topiramate",0,0,1,0
+ST1GDU2300,Semi-retired currently-deliver catalogues; Formerly Dundee City Council Worker,Retired; Policeman,1,3,2,0,0,0,1,"Stress, high choleterol, prostate enlargement, slight irregular heart rhythm",1,"Simvastatin, alfusozin, finasteride",0,0,1,0
+ST1GDU2301,Retired; Head Teacher,Deceased; Cabinet Maker,1,3,2,18,2,0,1,"Hayfever, allergy related to asthma",0,Salbutamol inhaler (as required),0,0,1,0
+ST1GDU2302,Support Worker Mental Health,Retired; Office Clerk,1,2,2,5,0,0,1,Depression,0,None,0,0,1,0
+ST1GDU2305,Homemaker,Retired; Engineer,1,2,2,0,0,25,1,"Clinical depression, Grave's disease (overactive thyroid), fibromyalgia, anaemia, now underactive thyroid, high cholesterol, raised inflammatory markers",0,"Seroxat, folic acid, atorvastatin, amitriptyline, co-codamol",1,0,1,1
+ST1GDU2306,Retired; Lawyer,Deceased; Engineer at Royal Navy,1,3,2,50,5,0,1,Depression,0,None,0,1,1,0
+ST1GDU2307,Admin Officer (Housing),Retired; Project Manager,1,2,2,0,0,0,1,Trapped blood vessel in neck (misdiagnosis of a mini stroke),0,None,0,0,1,0
+ST1GDU2309,Retired; Family Mediator,Deceased; Chartered Surveyor,1,2,2,16,3,0,0,None,0,None,0,1,1,0
+ST1GDU2310,Catering Assistant,Deceased; Engineer,1,1,2,1,2,0,1,Carpal tunnel syndrome,0,None,0,0,1,0
+ST1GDU2311,Retired; PE Teacher,Deceased; Contractor,1,2,5,0,0,0,1,"Systemic lupas, arthritis, Crohn's disease, atrial fibrillation",0,"Hydroxychloroquine, asacol, omeprazole, nifedipine, amitriptyline, ferrous fumarate, bisoprolol fumarate, prednisolone",0,0,1,0
+ST1GDU2312,Retired; Midwife,Deceased; Charge Nurse,1,3,2,1,0,0,1,"Asthma, hypertension",1,"Candesartan, eklira, fostair",0,0,1,0
+ST1GDU2313,City Council Area Officer,Deceased; Lorry Driver,1,1,2,4,1,0,1,"Depression, irritable bladder, hypertension, gastric reflux",1,"Omeprazole, amitriptyline, ramipril, tolterodine",1,0,3,1
+ST1GDU2314,Farmer,Retired; Farmer,1,2,2,10,0,0,1,Back surgery,0,None,0,0,1,0
+ST1GDU2315,Retired; Secretary,Deceased; Labourer,1,1,5,0,0,0,1,Breast cancer,0,None,0,0,1,0
+ST1GDU2317,Retired; Community Psychiatric Nurse,Deceased; Estate Worker,2,3,2,22,1,0,0,None,0,None,0,0,1,0
+ST1GDU2318,Retired; School Auxiliary,Deceased; Delivery Man,1,2,2,0,0,0,1,"Bipolar, fibromyalgia, gout, high blood pressure, skin allergy, underactive thyroid, asthma, high cholesterol, gastric reflux",1,"Dermol lotion, lansoprazole, priadel, duloxetine, simvastatin, lamotrigine, levothyroxine, allopurinol, amlodipine, quetiapine, paracetamol, seretide, ventolin, latuda lurasidone, codeine phosphate, diazepam",0,0,2,1
+ST1GDU2319,Retired; Support For Learning Assistant - Special Needs,Deceased; Docker,1,1,2,0,0,0,1,"Hypertension, arthritis, postnatal depression, benign paroxysmal positional vertigo",1,"Lisinopril, bendroflumethiazide, co-codamol",0,0,1,0
+ST1GDU2320,"Driver/Van Sales Person, Bar Person, Photographer",Retired; Trade Union Official,1,3,1,1,0,0,0,None,0,None,0,0,1,0
+ST1GDU2321,Retired; Sales Assistant,Deceased; Structural Engineer,1,2,2,12,0,0,1,"Depression, gastric reflux",0,Esomeprazole,1,0,1,0
+ST1GDU2322,Retired; Hairdresser,Deceased; Drainage Contractor,1,1,2,0,0,0,1,"Abdominal cramps, high blood cholesterol, osteoporosis, asthma, leg cramps",0,"Amitriptyline, salbutamol inhaler, calceos, quinine sulfate (PRN), atorvastatin, esomeprazole, mebeverine, fluoxetine, fostair inhaler, zoledronic acid infusion (yearly)",0,0,1,0
+ST1GDU2323,Retired; Senior Warrant Officer/Warehouse Manager,Deceased; Army Private,1,1,2,40,5,0,1,"High blood pressure, back injury/surgery, high blood cholesterol, prostate cancer, rectal polyps, gastric reflux",1,Lansoprazole,0,0,1,0
+ST1GDU2324,Retired; Police Officer,Deceased; Security Guard,1,1,2,15,0,0,1,"Depression/anxiety, underactive thyroid",0,Levothyroxine,0,0,1,0
+ST1GDU2325,Retired; Bed & Breakfast Business,Plumbing & Heating Engineer,1,1,2,0,0,0,1,"Depression, underactive thyroid, osteopenia, high blood cholesterol, acid reflux, enlarged ventricles",0,"Sertraline, thyroxine, accrete D3, lansoprazole, rosuvastatin, aspirin",0,0,1,1
+ST1GDU2326,Retired; Merchant Navy Deck Officer,Deceased; Plumber,1,2,1,10,1,0,1,"Hypothyroidism, Ulcerativve Colitis, Ileostomy, Carpel Tummel, Tendonitis, Excision scalp lesion",0,Levothyroxine,0,0,1,0
+ST1GDU2327,Retired; Nursing Assistant,Deceased; Engineer,1,1,2,4,1,0,1,Hypertension,1,Ramipril,0,0,1,0
+ST1GDU2328,Retired; Electronics Engineer; Part-time club house assistant (seasonal),Deceased; TV Engineer,1,2,2,12,0,0,1,High blood cholesterol,0,None,0,1,1,0
+ST1GDU2330,Retired; Radiographer,Deceased; Toolmaker,1,2,2,2,0,0,1,"Leg (R) tumour, hysterectomy, osteoporosis",0,"Alendronic acid, vitamine O",0,0,1,0
+ST1GDU2331,Driver (Coach Company),Deceased; Farmer,1,2,5,0,0,0,1,"Type 2 diabetes, high blood pressure, sciatica, hip pain",1,"Simvastatin, paracetamol, losartan, bendroflumethiazide",0,0,1,0
+ST1GDU2332,Retired; Teacher,Deceased; Gardener/Traffic Warden,1,2,5,0,0,0,1,High blood pressure,1,Bendroflumethiazide,0,0,1,0
+ST1GDU2337,Childminder,Deceased; Policeman,1,2,2,0,0,0,1,"Underactive thyroid, hypertension",1,Thyroxine,0,0,1,0
+ST1GDU2338,Child Minder/Carer,Deceased; Systems Tester NCR,3,3,2,2,0,0,1,"Plantar fasciitis, hypertension",1,Bendroflumethiazide,0,0,1,0
+ST1GDU2339,Housewife,Deceased; Chargehand Gardener,1,1,2,0,0,0,1,"Osteoporosis, coeliac disease, eczema",0,"Accrete D3, cold liver oil",0,0,1,1
+ST1GDU2341,"Retired; Nurse, Midwife, Health Visitor, Lecturer Child and Health Care",Deceased; Church of England Vicar,1,3,2,25,3,0,1,"Hypertension, osteoporosis, refractory anaemia with ringed sideroblasts and thrombocytosis (RARST)",1,"Avamys nasal spray, alendronic acid, vitamin D, chemotherapy (since 2009), calcium supplement, mini aspirin, allopurinol, hydroxycarbamide tablet (daily)",0,0,1,0
+ST1GDU2342,Retired; College Lecturer,Retired; Transport & Distribution Manager,1,2,2,9,1,0,1,"Hip replacements (L/R), CABG",0,"Amlodipine, aspirin, atorvastatin",0,0,2,0
+ST1GDU2343,Digital Publisher,Deceased; Army Officer,1,3,2,20,2,0,1,Polymyalgia,0,None,0,0,1,0
+ST1GDU2344,Nursery Nurse,Deceased; Electrician,1,2,2,0,0,0,1,"Post-natal low mood, low mood, fissuring under kneecap",0,None,0,1,1,1
+ST1GDU2345,Retired; Charge Nurse (Murray Royal Infirmary),Deceased; Farmer,1,2,5,0,0,0,1,"Stroke, gastric reflux, aortic valve stenosis, hyperlipidaemia (not treated; intolerant)",1,"Losartan, amlodipine, lansoprazole, aspirin",0,0,1,0
+ST1GDU2346,Retired; Health Care Assistant,Deceased; Ironmonger,1,1,2,0,0,0,1,"Depression, hypothyroidism, gastric reflux, arthritis, shoulder injury (R), hernia repair, hysterectomy, knee operation (L)",1,"Indapamide, levothyroxine, omeprazole",0,0,1,0
+ST1GDU2347,Retired; Customer Service Officer - Bank,Deceased; Farmer,1,1,2,0,0,0,1,"Hyperparathyroidism, diabetes, high blood pressure, stroke",1,"Indapamide, losartan, aspirin, metformin, SGLT2 inhibitor, insulin injection, statin",0,0,1,0
+ST1GDU2348,Retired; Civil Engineering Technician,Deceased; Heating Engineer,1,2,2,0,0,0,1,Enlarged prostate,0,Tamsulosin hydrochloride,0,0,1,0
+ST1GDU2349,Retired; Primary School Teacher,Deceased; Accountant,1,2,2,0,0,0,1,Stress-related anxiety/depression; hypothyroidism,0,Levothyroxine,0,0,1,0
+ST1GDU2350,Retired; Pensions and Payroll Officer,Deceased; Bus Driver,1,1,2,10,1,0,1,"Overactive thyroid, dry eyes, arthritis",1,"Nadolol, carbomer eye gel",0,0,1,0
+ST1GDU2351,Retired; Cook,Deceased; Lorry Driver,1,1,2,0,0,0,1,"Depression, polymyalgia, osteoporosis, high cholesterol",0,"Atorvastatin, alendronic acid, fluozetine, calceos, apixaban, lansoprazole, gabapentin, morphgesic, paracetamol, senokot, lidocaine infusion (stopped Novemver 2017)",0,0,1,1
+ST1GDU2352,Lawyer,Unknown (stepfather: farmer),2,3,2,6,3,0,1,"hip replacement, childhood eczema/asthma, high blood cholesterol, high blood pressure, sinus problems",1,"Flixonase, Amplodine, Lipitor accrete",0,0,1,0
+ST1GDU2353,Retired; Biology Teacher,Deceased; Supervisor/Steel Works,1,3,2,8,0,0,1,Anxiety (2014),0,None,0,0,1,0
+ST1GDU2354,Retired; Head Teacher,Deceased; Fisherman,1,3,2,10,0,0,1,"Psoriatic arthritis, hypercholesterolaemia",0,"Co-codamol, simvastatin",0,0,1,0
+ST1GDU2355,Retired; Primary School Teacher,Fisherman,1,3,2,4,0,0,1,Silent reflux - cough,0,None,0,0,1,0
+ST1GDU2356,Retired teacher,controller on railway,1,2,2,3,0,0,1,Back nasal drip,1,"Dymista Nasal Spray, Atorvistatin, Amplodimine (BP)",0,0,1,0
+ST1GDU2357,Retired; Farmer,Deceased; Farmer,1,1,2,4,0,0,1,"Indigestion & heartburn, fluid retention, high blood pressure, osteoporosis, prostate problems, high cholesterol, TIA, sinus problems",1,"Lansoprazole, bendroflumethiazide, candesartan, accrete D3, combodart, aspirin, gaviscon, simvastatin",0,0,1,0
+ST1GDU2358,Retired; Bar work/hospitality,NA; didn't know father,1,1,5,9,0,0,1,"Mood problems (undiagnosed), nerve pain, hypertension, poor circulation",1,"Citalopram, Pregabalin, Perindopril, Omeprazole, Bendroflumethiazide, Nifedipine, Desloratadine, Celluvisc, Co-codamol",0,0,2,1
+ST1GDU2359,Retired; Manager NHS,Deceased; Doctor,1,3,2,6,0,0,0,None,0,None,0,0,1,0
+ST1GDU2360,Retired; Horticulturalist,Deceased; Iron Cast Moulder,1,3,2,10,6,0,1,"SVT (supraventricular tachycardia), enlarged prostate",0,"Aspirin, verapamil, finasteride, tamsulosin",0,0,2,0
+ST1GDU2361,Company Director,Deceased; Lawyer,1,2,4,30,0,0,1,"Diabetes, pleurisy",0,None,0,0,1,0
+ST1GDU2362,Housewife,Retired; Oil Industry Worker,1,2,2,0,0,0,1,"Low mood, hypertension, hypothyroidism, gastric reflux, B12 dificiency",1,"Thyroxine, lansoprazole, pyridoxine, multivitamin, iron",0,0,1,1
+ST1GDU2363,Retired; Sheltered housing manager,General farm worker,1,2,2,1,1,0,1,"Gallbladder removed, hysterectomy, atrial fibrillation, hypertension, angina",1,"Valsartan, Simvastatin, Sotalol, Aspirin",1,1,1,1
+ST1GDU2364,Retired;Head Teacher,Agriculture Worker,1,3,5,3,0,0,1,"Arthritis, Overactive thyroid, High BP, High blood cholesterol",1,"Thyroxine, Bendrofluazide, Lercanidipine, simvastatin",0,0,1,1
+ST1GDU2365,Retired; Teacher,Minister,1,3,4,2,0,0,1,"Hypertension, high blood cholesterol",1,"Lisinopril, simvastatin",0,0,1,0
+ST1GDU2366,Retired; PA Allied Health Professionals,Deceased; Chief Petty Officer Royal Navy,2,2,2,2,2,0,1,"Anxiety (current+previous), sinusitis, arthritis/clicking in jaw, hiatus hernia, high blood pressure",1,"Beconase, gabapentin, lansoprazole, mirtazapine",0,0,1,0
+ST1GDU2367,Retired; GP (Palliative Medicine),Cashier,1,3,2,6,0,0,1,"Hypertension, hyperlipidemia, atrial fibrillation, BPH (benign prostatic hyperplasia ), acid reflux, arthritic knees, high blood cholesterol",1,"Esomeprazole, Co-codamol, tamsulosin, rivaroxaban, bisoprolol, perindopril, amlodipine, rosuvastatin, flecainide",0,0,1,0
+ST1GDU2368,Retired; Civil Engineer,Deceased; Consultant Neuroradiologist (Edinburgh),1,3,2,7,1,20,1,"Type 2 diabetes, high blood cholesterol, high blood pressure",1,"Atorvastatin, amplodipine, bendroflumethiazide",0,0,1,0
+ST1GDU2369,Registered Nurse,Retired; Mechanic,1,3,2,1,1,0,1,Disc rupture,0,Naproxen,0,0,1,0
+ST1GDU2370,Home Economic Technician in School,Retired; Farmer,1,2,2,10,2,0,1,Shoulder operation,0,None,0,0,1,0
+ST1GDU2372,Retired;School Teacher,Farmer,1,3,2,18,1,0,1,"PTSD, Arthritis(neck),narrowing of disks in neck, Hypertension, IBS, Cholesterol raised (but not dx as high)",1,"Perindopril, Mebeverine",0,0,1,0
+ST1GDU2373,Housewife,Clerk,1,3,2,0,0,0,1,"Borderline high blood pressure, measles as a child",0,None,0,0,1,0
+ST1GDU2374,Retired; Social Worker,Deceased; Minister,1,2,2,1,0,0,1,"Depression, appendectomy, hypothyroidism",0,Thyroxine,0,0,1,0
+ST1GDU2375,Retired; Newsagent,Deceased; Boilerman,1,2,4,0,0,0,1,"Cataracts, bladder cancer, inguinal hernia, hiatus hernia, osteoarthritis (knees), atrial fibrillation, hypertension, impaired left ventricle function, erectile dysfuction, ulcer",1,"Bisoprolol, rivaroxaban, paracetamol, esomeprazole",0,0,1,0
+ST1GDU2376,Home Care Worker,Deceased; Farmer,1,3,3,18,4,0,1,"Clinical depression, osteopenia, gall bladder removal",0,Citalopram,0,0,1,0
+ST1GDU2377,Leisure Attendant,Bus Driver,1,1,2,9,2,0,1,Arthritis in hip,0,"Co-codamol, Ibuprofen as needed",0,0,1,0
+ST1GDU2378,Contract Surveyor in Construction,Director of Construction Company,3,3,2,0,0,0,1,Depression,0,"Amitriptyline, pramipexole, Unknown name (bladder control)",0,0,1,0
+ST1GDU2379,Cleaner,Marine-Armed Forces,1,2,2,2,0,0,1,Depression,0,None,0,0,1,0
+ST1GDU2380,Retired; Administrator,Farmer,1,2,1,2,0,0,1,"Insomnia, Rash on leg",0,"Mirtazapine, Chlorphenamine",0,0,1,0
+ST1GDU2381,Nurse,Retired; Union Official,3,3,2,1,0,0,1,"Underactive thyroid, ulcerative colitis",0,"Asacol, Thyroxine",0,0,1,1
+ST1GDU2382,"Mechanic, Driver","Retired; Mechanic, Driver",2,2,2,0,0,0,0,None,0,None,0,1,1,0
+ST1GDU2383,Retired; Plumber,Deceased; Fisherman,1,2,2,1,0,0,1,"Hypercholesterolaemia, diabetes mellitus, aortic valve replacement, hypertension, gastric reflux, shingles",1,"Simvastatin, omeprazole, aspirin, saxagliptin, bendroflumethiazide, gliclazide",0,0,1,1
+ST1GDU2384,Gardening; Former police officer,Head cashier,1,2,2,14,1,0,1,Hypertension; eye disease,1,Carbomer eye drops; Dermol 500 lotion; Lisinopril; Amlodipine; Timolol eye gel; Latanoprost eye drops; Maxidex eye drops,0,0,1,0
+ST1GDU2385,Sickness benefit due to ill health; Previously Taylor,Deceased; Engineer,1,3,4,4,0,0,1,Biploar,0,None,0,0,1,0
+ST1GDU2388,Retired; Hotelier,Deceased; Hotelier,1,2,5,25,2,0,1,"Cancerous growth on tongue (3 years ago), recent flu like illness/heart arrhythmia",0,None,0,0,1,0
+ST1GDU2389,Retired; Primary School Assistant,Publican,1,3,2,0,0,0,1,"Slight depression in past, panic attacks, hypertension, high blood cholesterol",1,"Prochlorperazine (PRN), Paracetamol (PRN), Avamys nasal spray, Omeprazole, Rosuvastatin, Indapamide, Valsartan",0,1,1,1
+ST1GDU2390,Property Manager,Deceased;Police Officer,1,1,5,10,0,0,0,None,0,None,0,0,2,0
+ST1GDU2391,Clinical Scientist,Retired; Architect,1,3,1,2,0,0,1,"Depression/anxiety, hayfever, asthma, stomach bloating",0,"Sertraline, ventolin (as required), ranitidine (as required)",1,0,3,0
+ST1GDU2392,Retired;University Lecturer,Deceased; Marine Engineer,1,3,2,0,0,0,1,"Cateract (r) Lens Replacement, Diabetes Mellitus, Hypercholesterolemia",0,"Metformin, Simvastatin, Gliclazide",0,0,1,0
+ST1GDU2393,Retired; Forester,Deceased; Actuary,1,3,4,4,1,0,1,"Type 2 diabetes, bladder cancer",0,Metformin,0,0,2,1
+ST1GDU2395,Accountant,Deceased;Civil Engineer,1,3,2,20,0,0,0,None,0,None,0,0,1,0
+ST1GDU2396,Retired; Medical Secretary,Deceased; Miner,1,2,2,0,0,0,1,"Mild angina, High Blood Pressure, High Blood Cholesterol, Underactive Thyroid",1,"Candesartan, Levothyroxine, Aspirin, Bisoprolol, Pravastatin, Nitrolingual Spray",0,0,1,0
+ST1GDU2397,NHS Data Analyst,Deceased; Musician,1,3,2,2,1,0,1,"Low mood, trapped tendon in shoulder",0,Citalopram,0,0,1,0
+ST1GDU2398,Engineer,Joiner,1,2,2,30,0,0,0,None,0,None,0,0,1,0
+ST1GDU2399,Not Working - Registered Disabled,Deceased; Carpenter,1,2,2,0,0,0,1,"Flashbacks, fibromyalgia, plantar fasciitis, farmer's lung, type 2 diabetes, high blood cholesterol",0,"Amitriptyline, prazosin, pregabalin, paracetamol, Lipotrol, lansoprazole",0,0,1,1
+ST1GDU2400,Business Owner - Windows,Builder,1,1,4,4,0,0,1,Prostate problems (undiagnosed),0,Contra-flow,0,0,1,1
+ST1GDU2401,Training Instructor,Crane Driver,1,1,2,0,0,0,0,None,0,None,0,0,1,0
+ST1GDU2402,ICT Technician,Civil Servant,2,2,2,14,0,0,1,"Eczema, Asthma",0,Inhaler,0,0,1,0
+ST1GDU2403,Retired/Not working,Supplies officer,1,3,2,2,1,0,1,"Angina, heart operation (stents), hypertension, high cholesterol",1,"Aspirin, Ramipril, Statin",0,0,1,0
+ST1GDU2404,Retired; Teacher,Deceased; Teacher,1,3,2,3,2,0,1,"Overactive thyroid, high blood cholesterol",0,"Simvastatin, levothyroxine",0,0,1,0
+ST1GDU2405,HR Manager,Deceased; Opera Singer,1,1,2,10,0,0,1,Arthritis in back/left foot,0,None,0,0,1,0
+ST1GDU2406,Retired; Electrical Engineer,Engineer,1,2,2,0,0,0,1,Ulcers (20 years ago); Heart burn/reflux; Sleep problems (undiagnosed),0,Laxido; Piroxicam; Amitriptyline; Omeprazole; Fluticasone furoate,0,0,1,0
+ST1GDU2407,Community Assistant,Deceased; Painter & Decorator,1,2,2,11,0,0,1,"Clinical depression (2006), trapped back nerve",0,"Gabapentin, Co-codamol, amitriptyline",0,0,1,0
+ST1GDU2408,Environmental Protection Officer,Retired; Metal Fabriction Worker,1,2,4,4,0,0,1,"Sciatica, carpal tunnel syndrome, gestational diabetes",0,None,0,0,1,0
+ST1GDU2409,Retired; Accountant,Deceased; Clerk,1,3,2,0,0,0,1,"Depression, hypertension",1,Lisinopril,0,0,1,0
+ST1GDU2410,Retired; Teacher,Deceased; Civil Servant,1,2,2,0,0,0,1,Hypercholesterolaemia,0,Simvastatin,0,0,1,0
+ST1GDU2411,IT Technology Architect,Retired; Quality Control Officer,1,3,1,0,0,0,1,Anxiety,0,None,0,0,1,0
+ST1GDU2412,Mental Health Nurse,Aircraft technical supervisor,1,2,2,8,1,0,1,"Low mood (menopausal), hives",0,"HRT, antihistamine",0,0,2,0
+ST1GDU2414,Financial Advisor,Retired; Insurance Worker,1,1,2,10,0,0,1,"Ankylosing spondylitis, depression",0,Arthrotec,0,0,1,0
+ST1GDU2415,Retired; Mechanical Engineer,Deceased; Butcher,1,2,5,28,0,0,1,High blood cholesterol,0,Simvastatin,0,0,1,0
+ST1GDU2416,Accountant,Retired; Antique Dealer,1,3,2,0,1,0,0,None,0,None,0,0,1,0
+ST1GDU2417,Retired mechanical engineer,Plumber,1,2,2,6,6,0,1,"Low B12; Depression; Panic attacks; Hernia, cancerous nodule - surgery; Nerve deafness - R ear; Migraines; Reflux; High cholesterol",0,B12 injections; Lansoprazole,0,0,1,0
+ST1GDU2419,Pupil Support Assistant,Deceased; Joiner,1,1,2,0,0,0,1,"Depression, anxiety",0,None,0,0,1,1
+ST1GDU2420,Primary School Teacher,Deceased; Policeman/Primary School Teacher,3,3,4,0,0,0,1,"Asthma, hypothyroidism, developing frozen shoulder (L), previous frozen shoulder (R )",0,"Ventolin, seretide, prednisolone, thyroxine, Co-codamol",0,0,1,0
+ST1GDU2421,Offshore Surveyor,Retired; Chartered Engineer,1,3,2,0,0,0,0,None,0,None,0,1,1,0
+ST1GDU2422,Retired teacher,Deceased; Shop manager,1,2,2,13,1,0,1,Hypertension,1,Amlodipine; Losartan,0,0,1,0
+ST1GDU2423,Retired; Teacher (Religious & Moral Education),Deceased; Postman,1,3,4,20,1,0,1,"Depression, mild stroke - TIA, high cholesterol",0,"Clopidogrel, Ranitiodine, Simvastatin",0,0,1,0
+ST1GDU2424,Semi-retired; Presentation & communications consultant,Deceased; Van driver,1,2,4,21,2,0,1,Polymyalgia rheumatica,0,None,0,0,1,0
+ST1GDU2425,Retired; Psychiatric Nurse,Fisherman,2,3,2,8,0,0,1,Postnatal depression,0,"Amitriptyline, sumatriptan injection (PRN)",0,0,1,1
+ST1GDU2426,Retired; Police Officer,No Information Available,1,1,4,2,2,0,1,"Gastric bypass, PTSD, depression",0,None,0,0,1,0
+ST1GDU2427,Visitor Service Assistant in Museum,Deceased; Clerk of Works,1,1,2,1,0,0,0,None,0,None,0,0,1,0
+ST1GDU2428,Marine Consultant,Teacher,1,3,2,0,0,0,1,"Depression, Type 2 diabetes, High blood cholesterol",0,"Metformin, statin",0,0,1,0
+ST1GDU2429,Communities Assistant,Tanker Driver,1,3,4,0,0,0,1,"Depression, anxiety, panic attacks, migraines, chronic headaches",0,"Propranolol, zopiclone, naproxen, Co-codamol",0,0,2,1
+ST1GDU2430,Farmer (self-employed); Previously a Lecturer,Bank Manager,3,3,2,100,14,0,1,"Heart attack, narrowed arteries (genetic) - quadruple bypass heart surgery, TIAs (most recent 3 weeks ago), high BP, poor circulation in legs, high blood cholesterol",1,"Clopidogrel, Bisoprolol, Atorvastatin, Lisinopril",0,0,1,1
+ST1GDU2431,Dentist,Deceased; Teacher,1,3,2,20,0,0,1,Asthma,0,"Becotide BD, salbutamol (PRN)",0,0,1,0
+ST1GDU2432,Proposition Analyst,Retired; Chartered Accountant,1,3,2,21,2,0,0,None,0,None,0,0,1,0
+ST1GDU2433,Business Partner,Teacher,1,2,2,0,0,0,1,Underactive thyroid; Heart murmur (mitral regurgitation),0,Thyroxine; Cetirizine,0,0,1,0
+ST1GDU2435,HR Manager,Retired; Postman,1,2,4,10,2,0,1,Hypertension,1,"Ramipril, indapamide",0,0,1,1
+ST1GDU2436,Labourer/Manual Work; Previously Policeman (16 years),Stockman,1,2,2,6,0,0,0,None,0,None,0,0,1,0
+ST1GDU2440,Retired; Police Officer,Information Not Available,1,2,1,1,0,0,1,Hypercholesterolaemia,0,None,0,0,1,0
+ST1GDU2445,Retired; Lecturer,Deceased; Postman,1,2,2,18,0,0,1,"Stroke, hypercholesterolaemia, hypertension",1,"Latanoprost eye drop, warfarin, perindopril, simvastatin",0,0,1,0
+ST1GDU2448,University Professor,Deceased; Brewery Manager,1,3,2,14,2,0,1,Childhood asthma,0,None,0,0,1,0
+ST1GDU2449,Nurse,Deceased; Postman,1,3,2,14,4,0,0,None,0,None,0,0,1,0
+ST1GDU2450,Retired; Business Manager,Deceased; Newspaper Journalist,1,3,2,35,5,0,1,"Rheumatoid arthritis, enlarged prostate, psoriasis (mild)",0,"Sulfasalazine, tamsulosin, atorvastatin, nitrolingual (PRN)",0,0,1,0
+ST1GDU2452,Retired; Teacher,Deceased; Agricultural Estate Manager,1,2,5,4,1,0,1,"COPD, bowel cancer (surgery to remove bowel in January 2018), high blood cholesterol",0,Beclomethasone steroid inhaler,0,0,1,0
+ST1GDU2453,Support Worker,Retired; Sheperd & Groundsman,1,2,2,1,0,0,1,"Underactive thyroid, reflux",0,"Levothyroxine, omeprazole",0,0,1,0
+ST1GDU2454,Retired; Social Worker,Deceased; Teacher,1,3,2,9,2,0,1,"Acute anxiety, overactive bladder",0,Mirabegron,0,0,1,0
+ST1GDU2455,Retired; Psychiatric Nurse Manager (Nursing Officer),Deceased; Riveter in Boatyard,1,1,5,0,0,0,1,"Depression, gallstones, osteopenia, knee replacement (left), mastectomy (right)",0,"Citalopram, calcium, probiotic, glucosamine & chondroitin",0,0,1,1
+ST1GDU2456,Retired; Company Director (Computer/Office Supplies),Deceased; Process Worker (Glaxo),1,1,5,7,1,15,1,"High blood choleterol, Bowen's disease",0,Atorvastatin,0,0,2,0
+ST1GDU2457,Retired; Taxi Driver,Deceased; Smallholder on Farm,3,1,2,30,5,0,1,"Enlarged prostate, calcification of shoulder tendon (L), high blood cholestrol",0,"Tamsulosin, finasteride",0,1,1,0
+ST1GDU2459,Retired; Clerical Assistant,Deceased; Engineer,1,2,2,0,0,0,1,"Depression/anxiety/stress, underactive thyroid, breast cancer",0,"Levothyroxine, tamoxifen",0,0,1,1
+ST1GDU2460,Optometrist,Retired; Engineer,1,3,2,1,0,0,1,"Epilepsy, mild anxiety, migraines, HRT, dust allergy, hayfever, IBS, hip pain, high blood cholesterol",0,"Domperidone (PRN), femoston, migraleve (PRN), levetiracetam, olopatadine (PRN), beclometasone (PRN)",0,0,1,0
+ST1GDU2461,Retired; Lecturer,Deceased; Barman,1,2,1,4,0,0,1,"ME (post-viral fatigue syndrome), arthritis L knee",0,Cod liver oil,0,0,2,1
+ST1GDU2462,Retired; Farmer,Deceased; Farmer,1,3,1,14,2,0,1,"Asthma, eczema, COPD, recruitment/deafness, underactive thyroid, stroke (minor), tinnitus",0,"Clopidogrel, levothyroxine, pregabalin",0,0,1,0
+ST1GDU2463,Retired; Electronics Engineer,Deceased; Farmer,3,2,3,72,8,0,1,"Spondylitis, right knee cartilage operation",0,None,0,0,1,0
+ST1GDU2464,Retired; Nurse,Deceased; Chartered Surveyor,1,2,5,4,0,0,1,"Cholecystectomy, Crohn's disease",0,Nytol (not prescribed),0,0,1,0
+ST1GDU2465,Delivery Driver (tree felling/log splitting/grass cutting contract),Deceased; Farmer,3,1,2,1,0,0,1,"Hypertension, left hip replacement, fractured humerus (no surgery), osteoporosis",1,"Ranitidine, lisinopril, bendroflumethiazide, aspirin, Calceos, alendronic acid",0,1,1,0
+ST1GDU2466,Nurse Manager,Deceased; Nurse Tutor,1,3,2,1,0,0,1,"Lupus like symptoms, tachycardia, joint inflammation",0,"Propranolol, amitriptyline, ibuprofen",0,0,1,0
+ST1GDU2467,Retired; Teacher,Deceased; Pub Landlord,1,2,4,14,3,0,1,"Stress, allergies, digestive problems, arthritis, reconstructive knee surgery",0,"Ranitidine, fexofenadine, acidophilus, milk thistle, digestive enzymes, paracetamol (PRN), ibuprofen (PRN), calcium, relax herb, evening primrose oil, multivitamines, cod liver oil, glucosamine, starflower oil, L-lysine (PRN), magnesium",0,0,2,0
+ST1GDU2470,Retired; B&B Owner,Deceased; Army Officer,1,1,5,15,0,0,1,"Carpal tunnel syndrome, high blood pressure",1,"Candesartan, amlodipine",0,0,1,0
+ST1GDU2473,Retired; Police Officer,Retired; Joiner,1,3,2,10,1,0,1,Diabetes,0,"Gliclazide, metformin",0,0,1,0
+ST1GDU2474,Retired; Museum Curator,Deceased; Shares Registrar,1,3,2,1,0,0,1,"Depression, hysterectomy, hepatitis (unspecified), arthritis",0,"Ibuprofen, omeprazole",0,0,1,0
+ST1GDU2475,Retired; Crofter,Deceased; Architect,1,2,5,0,0,15,0,None,0,None,0,0,2,0
+ST1GDU2476,Retired; Cook,Deceased; Electrician,1,2,4,1,0,0,1,"Dry eyes, gastric reflux, anxiety attacks, irregular heart beat (has pacemaker), pulmonary eosinophilia, underactive & overactive thyroid, vitamin B deficiency, adrenal gland suppression, pernicious anaemia",0,"Calceos, fluoxetine, peptac, adizem, fostair, loperamide, prednisolone, levothyroxine, hydrocortisone, vitamin B injections, digoxin, carbomer eye drops, Tylex (PRN), Seebri Breezhaler",0,0,1,1
+ST1GDU2477,Dentist - not clinical,Deceased; General Medical Practitioner,1,3,2,14,2,0,1,"Hypertension, acute hyperplastic prostatitis, high blood cholesterol",1,"Lisinopril, finasteride, tamsulosin",0,0,1,0
+ST1GDU2478,Retired; High School Teacher (Business Study),Deceased; Toy & Cycle Shop Owner,1,2,4,7,1,20,1,"Postnatal depression, high blood pressure, high blood cholesterol, extreme nausea",1,"Losartan, amlodipine, omeprazole, simvastatin",0,0,1,0
+ST1GDU2479,Parking Operations Manager,Retired; Building Foreman,1,2,2,0,0,0,1,"High pressure in eyes (cusp of glaucoma), anxiety, asthma, high blood pressure, bulging of discs (L3, L4, L5), reflux, nasal polyps, dry skin",1,"Losartan, latanoprost, tramadol, lidocaine 5 ointment, relvar ellipta inhaler, isomol gel, montelukast, nefopam, paracetamol (PRN), amitriptyline, cyclizine, emollin aerosol spray, salbutamol inhaler, hydromol emollient, esomeprazole, buscopan, rhinocort",0,0,1,1
+ST1GDU2480,Civil Servant - British Sea Fishery Officer,Deceased; Offshore Worker,3,3,4,18,3,0,1,"Depression, anxiety, nerve damage (head)",0,None,0,0,1,0
+ST1GDU2482,Retired; Maintenance Electrician in Airforce,Deceased; Cable Jointer,1,1,2,12,1,0,1,"Angina, stress (in past), reflux, enlarged prostate, high blood cholesterol",0,"Bisoprolol, lansoprazole, tamsulosin, rosuvastatin, aspirin",0,0,1,0
+ST1GDU2483,Retired; Clerical Officer,Deceased; Foreman (Engineering Firm),1,2,4,3,0,0,1,"Anxiety, headaches, migraines",0,Amitriptyline,0,0,1,1
+ST1GDU2484,Retired; Quality Control Inspector,Deceased; Jute Mill Foreman,1,1,2,0,0,0,1,"Diabetes, high blood pressure, underactive thyroid, angina (has heart stent for narrowing of artery), psoriasis",1,"Levothyroxine, simvastatin, ramipril, bisoprolol, aspirin, glyceryl trinitrate (PRN)",0,0,1,0
+ST1GDU2485,Chauffeur,Deceased; Taxi Driver,3,2,4,0,0,0,1,"IgA nephropathy, Barrett's oesophagus, gender reassignment",1,"Valsartan, omeprazole, oestrogen patches",0,0,1,1
+ST1GDU2486,Retired; Barmaid,Deceased; RAF,1,1,4,0,0,18,1,"Depression, underactive thyroid, emphysema, chronic fatigue, irregular heart beat (3rd heart beat), high blood cholesterol",0,"Fybogel (PRN), senna, trazodone, anoro ellipta inhaler, lactulose, salbutamol inhaler, lansoprazole, peptac, levothyroxine, melatonin",0,1,3,1
+ST1GDU2487,Teacher - Visual Impairment Additional Needs,Offshore Electrical Engineer,1,3,1,3,1,0,1,"Anxiety, MS",0,"Copaxone injections, propranolol (PRN)",0,0,1,1
+ST1GDU2489,Retired; Telephonist BT,Deceased; Telephonist - Police Control,2,1,2,14,2,18,1,"Past depression, hysterectomy due to cancer",0,None,0,0,1,0
+ST1GDU2490,Retired; Orthotist,Deceased; Lorry Driver,1,2,2,7,1,0,1,"Anxiety/depression, enlarged prostate, diverticulum, IBS, eczema",0,"Tamsulosin, finasteride, citalopram, mebeverine (PRN), Eumovate cream",0,0,1,0
+ST1GDU2491,Retired; Stroke Liaison Team Leader,Deceased; Publican,1,3,2,2,0,0,1,"Past depressive episode after menopause, osteoporosis, high blood cholesterol, irritable bladder",0,"Atorvastatin, alendronic acid, calciferol, megabron, cephalexin",0,0,1,1
+ST1GDU2492,Retired; Hairdresser,Deceased; Weighing Scales Mechanic,1,1,5,2,0,0,1,Mumps,0,None,0,0,1,0
+ST1GDU2493,Self-Employed; Potter,Deceased; Farmer,2,3,2,10,4,0,1,"Low mood, anaemia, high blood pressure during pregnancy",0,None,0,0,1,0
+ST1GDU2494,Retired; Store Detective,Not Known,1,1,2,0,0,0,1,"Arthritis, fibromyalgia, cervical spondylosis, thickening of heart muscle, high blood pressure, angina (genetic variation for cardiomyopathy)",1,"Candesartan, adizem, moxonidine, aspirin",0,0,1,0
+ST1GDU2495,Administrator,Deceased; Slater,1,1,1,0,0,0,1,"Type 2 diabetes, asthma, fibromyalgia/chronic fatigue, IBS, osteoarthritis, past diverticulitis",0,"Fostair, salbutamol, paracetamol",0,1,1,1
+ST1GDU2496,Carer,Deceased; NCR Employee,1,1,1,2,0,0,1,Past stress related episode,0,None,0,0,1,0
+ST1GDU2497,Retired; Dental Laboratory Owner,Deceased; Telephone Engineer,1,1,2,15,2,0,1,"Enlarged prostate, chronic bladder outflow obstruction",0,"Doxazosin, finasteride",0,0,1,0
+ST1GDU2499,Retired; Painter,Deceased; Copywriter,1,1,2,0,0,0,1,"Gastric reflux, diabetes mellitus, neuropathic pain, urinary frequency, high blood pressure, carpal tunnel syndrome, high blood cholesterol, knee surgey (3 times), hernia",1,"Senna, duloxetine, humulin, tramadol, gabapentin, omeprazole, gliclazide, oxybutynin, ramipril, amlodipine, metformin, atorvastatin",0,1,1,0
+ST1GDU2500,Retired; Bank Officer,Deceased; Van Driver,2,1,2,0,0,0,1,Bunion,0,None,0,0,1,0
+ST1GDU2501,Retired; Engineer,Deceased; Brick Layer,1,2,2,27,2,0,1,"Anxiety, Depression, Hypertension, High Blood Cholesterol, Acid Reflux",1,"Ranitadine, Losartan, Amlodipine, Rosuvastatin, Flixonase",0,0,1,0
+ST1GDU2502,Retired; IT Service Desk Employee,Deceased; Tool Maker,1,3,2,10,0,0,1,Acid reflux,0,Omeprazole,0,0,1,0
+ST1GDU2503,Part-Time Tour Guide; Previously Postman,Deceased; Builder,1,2,2,6,0,0,1,"Depression, high blood cholesterol",0,None,0,0,1,0
+ST1GDU2504,Retired; Social Work Manager,Deceased; Rubber Factory Manager,1,2,2,0,0,0,1,"Depression, acid reflux, knee replacement, rheumatoid arthritis, Type 2 diabetes, angina, high blood cholesterol",0,"Roactemra, victoza, humulin, metformin, aspirin, atorvastatin, adalat retard, omeprazole, sertraline",0,0,1,1
+ST1GDU2505,"Retired; Navy Engineer, Taxi Driver Business Owner",Deceased; Butcher,1,2,2,0,0,0,1,"Stroke, high blood pressure, hernia, appendix removal, arthritis, leaking aortic valve",1,"Levothyroxine, omeprazole, losartan",0,0,1,0
+ST1GDU2506,Retired; Office Administrator & Carer,Deceased; Joiner,1,1,3,0,0,0,1,"Stress, acid reflux",0,Omeprazole,0,0,1,1
+ST1GDU2507,Retired; Office Manager,Deceased; Clerk,1,2,4,2,0,0,1,"Narrow ear canals - surgery, uterus prolapse - surgery, cataracts - surgery/laser",0,Iron tablets,0,0,1,1
+ST1GDU2508,Retired;nurse,Deceased;post office worker,1,2,2,0,0,0,1,"Depression, gastric reflux, hypertension, cervical spondylosis",1,"Omeprazole, methocarbamol, co-codamol, valsartan, laxido",0,0,1,0
+ST1GDU2509,Retired; Training Officer for general building/woodworker,Deceased; Railway Driver,1,2,5,2,0,0,1,High Blood Cholesterol,0,Simvastatin,0,0,1,0
+ST1GDU2510,Retired; Supermarket Deli Assistant,Deceased; Fish Restaurateur,1,1,2,0,0,0,1,"High blood pressure, breast cancer, arthritis",1,"Amlodipine, tamoxifen, codeine, paracetamol, glucosamine, evening primrose oil, omega 3 fish oil",0,0,1,0
+ST1GDU2511,Retired; Clerical Officer,Deceased; Water Operative,1,2,4,0,0,0,1,"Hypothyroidism,Breakdown",0,Levothyroxine,0,0,1,0
+ST1GDU2513,Retired; Milkman,Deceased; Telephone Lineman,1,1,2,20,10,0,1,"Anxiety, enlarged prostate, gastric reflux, haemochromatosis",1,"Finasteride, omeprazole, mirtazapine, amlodipine",0,0,1,0
+ST1GDU2514,Retired; Nurse,Deceased; Joiner/Farmer,1,3,2,3,0,0,1,"Postnatal depression, depression, chronic back pain, restless legs, high blood cholesterol",0,"Co-codamol, pregabalin, etoricoxib, ropinirole",0,1,1,0
+ST1GDU2515,Retired; Social Care Worker,Deceased; Lorry Driver,1,1,4,1,0,0,1,Back Injury Nerve Damage; Chronic Pain; Acid Reflux; Hiatus Hernia; IBS; Hypertention; Labyrinthitis,1,Co-codamol; Cinnarizine; Bendroflumethiazide; amitriptyline,0,0,1,1
+ST1GDU2516,Oil Company Co-ordinator,Retired; Off Shore,1,3,1,18,0,0,1,"Anxiety, Depression",0,None,0,0,1,0
+ST1GDU2517,Retired; Museum Curator,Deceased; Accountant,1,3,2,0,0,0,1,"Depression/stress, tuberculosis, epilepsy",0,Lamotrigine,0,0,1,0
+ST1GDU2518,Retired;Lecturer,Deceased; Teacher,1,3,2,25,6,0,1,"Hodgkins Lymphoma, Hypertension, High Blood Cholesterol, Psoriasis",1,"Lisinopril, rosuvastatin",0,0,1,0
+ST1GDU2519,Retired; Accountant,Deceased: Caretaker,1,1,5,4,0,0,1,"Shoulder replacement, COPD, hypercholesterolaemia",0,"Simvastatin, ventolin inhaler, anoro ellipta",0,0,1,0
+ST1GDU2520,"Part-Time Shop Assistant currently, Retired Lab Assistant",Deceased; Electrical Engineer,1,3,4,27,0,0,1,"Endometriosis, hysterectomy, appendectomy, pleurisy, chronic chest infections, pernicious anemia",0,Vitamin B12 injections (every 2 months),0,0,1,1
+ST1GDU2521,Retired; Nurse,Deceased; Train Driver,1,2,2,14,0,0,1,Low mood,0,None,0,0,1,0
+ST1GDU2522,Ambulance Driver,Retired; Maintenance Engineer (DC Thomson),1,1,2,0,0,0,1,"IBS, gastrix reflux, hayfever",0,"Esomeprazole, alverine, fluticasone propionate nasal spray (PRN)",0,0,1,0
+ST1GDU2523,Retired; General Practitioner,Deceased; Joiner,1,3,2,20,8,0,1,"Triple coronary bypass graft (2016), coronary atherosclerosis, oesophageal pouch( marsupialisation operation procedure 10yrs ago)",0,"Aspirin, bisoprolol, rosuvastatin",0,0,1,0
+ST1GDU2524,Administrator,Deceased; Steel Worker,1,1,2,0,0,0,1,"Pre-Eclampsia, Menopause",0,None,0,1,1,0
+ST1GDU2526,Police Constable,Retired; Metal Foundry Worker,1,3,2,13,1,0,1,"Anxiety, Post Natal Depression",0,"Citalopram, Beta Blocker",0,1,1,0
+ST1GDU2527,Retired; Machinist,Deceased; Unknown Occupation,1,1,4,0,0,0,1,"Reflux,angina,cardiomyotomy,depression,giant cell arteritis,keratosis,high cholestrol,TB,OA,deaf,spondylolisthesis,IBS,IHD,Bowen's,diplopia,blepharitis,hiatus hernia,colon polyp,spinal stenosis,rectal prolapse,gall stones,Raynauld's,catracts",0,"Chloramphenicol eye drop, prednisolone acetate eye drop, pregabalin, esomeprazole, calcichew",0,0,1,0
+ST1GDU2528,Installation/Sales Worker,Janitor,1,2,1,20,0,0,0,None,0,None,0,0,1,0
+ST1GDU2529,Retail Manager,School Caretaker,1,3,1,1,0,0,0,None,0,None,0,1,1,0
+ST1GDU2530,Self Employed-Tarot Card Reader,Deceased;Butcher,1,2,1,6,1,0,1,"Anxiety, depression, stress, Behcet's syndrome, fractured foot",0,"Meloxicam, citalopram, omeprazole, colchicine, co-codamol (PRN), difflam mouthwash, amitriptyline, clonidine, nifedipine, Quinoric (hydroxychiquine)",0,0,2,0
+ST1GDU2532,Senior Paraplanner,Retired; Financial Advisor,1,2,2,9,0,0,1,Underactive thyroid,0,Levothyroxine,0,1,1,0
+ST1GDU2533,Retired; Financial Advisor,Deceased; Laboratory Technician,1,2,2,0,0,0,1,"Depression, heart attacks (twice), Perthes disease, leukemia, acid reflux, high blood cholesterol, TIAs",0,"Bisoprolol, simvastatin, lansoprazole, clopidogrel, ramipril, glyceryl trinitrate spray (PRN)",0,0,2,1
+ST1GDU2534,Unemployed,Deceased; Priest,1,2,4,0,0,0,1,"Hayfever, gastric reflux, chronic fatigue, anxiety, fluid retention in legs, eczema, schizoaffective disorder",0,"Priadel, lansoprazole, mirtazapine, furosemide, fexofenadine, Venlalic XL, Dermatonics dry skin balm, Dermol, Avamys nasal spray, quetiapine",0,0,3,1
+ST1GDU2535,Lead Student Counsellor,Deceased; Commercial Director,1,3,2,10,0,0,1,"Mild dyslexia, postnatal depression",0,None,0,0,1,0
+ST1GDU2536,Retired; BT Manager,Deceased; Marine Engineer,1,2,2,4,0,0,1,"Diabetes, stroke, hypertrophic cardiomyopathy, hypercholesterolaemia, arthritis, thyroid removal, basal cell carcinoma",1,"Alfacalcidol, furosemide, bisoprolol, levothyroxine, novomix insulin, losartan, felodipine, simvastatin, clopidogrel, allopurinol, ferrous fumarate",0,0,1,0
+ST1GDU2538,Team Leader - Tesco,Retired; Slater,2,2,2,18,0,0,1,Back pain,0,None,0,0,1,0
+ST1GDU2539,Retired; Typist Secretary,Deceased; Farmer,1,1,5,9,0,0,1,Breast cancer,0,None,0,0,1,0
+ST1GDU2540,Retired; Nurse,Deceased; Machine Operator,1,3,2,5,0,0,1,"High blood cholesterol, high blood pressure, Raynaud's disease, ischaemic colitis, osteoarthritis",1,"Atorvastatin, amitriptyline, adipine XL",0,0,1,0
+ST1GDU2542,Retired; Primary School Teacher,Deceased; Shop Manager,1,2,5,0,0,0,1,"Low mood, osteoporosis, dry eyes",0,"Lumigan eye drops, optive eye drops, citalopram, calceos, rosuvastatin",0,1,2,0
+ST1GDU2543,Gardener,Deceased; Engineer,1,3,1,7,0,10,1,Past depression/anxiety,0,Fluoxetine (low dose for menopause symptoms),0,0,1,0
+ST1GDU2544,Early Retired; Healthcare Domestic,Deceased; Labourer,1,1,4,12,0,0,1,"Osteoporosis, hypertension, bilateral wrist fractures, sciatica",1,"Lisinopril, alendronic acid, Accrete D3",1,0,1,0
+ST1GDU2545,Retired; Landlady Guesthouse Owner,Deceased; Publican,1,2,2,10,0,0,1,"Helicobacter pylori, labrynthitis, dyslexia, leg cramps, reflux, high blood cholesterol, constant recurrent UTIs, bacterial vaginosis, upper spinal surgery 6+7 due to pain in discs, x2 Caesarean sections, hysterotomy",0,Esomeprazole,0,0,1,1
+ST1GDU2546,Retired; Farm Worker,Deceased; Gardener,1,1,4,0,0,0,1,"Depression, Sjogren's syndrome, rheumatoid arthritis, hypothyroidism, 2x DVTs, epigastric hernia, osteoporosis, high blood cholesterol, Coeliac disease",0,"Rivaroxaban, levothyroxine, esomeprazole, prednisolone, methotrexate, Saliveze mouth spray, golic acid, Gel Tears, hydroxychloroquine, Lacri-lube, Valupak multivitamins, Accrete D3, quinine sulphate, Peptac, amitriptyline, Co-codamol, Salivix pastilles",0,0,2,0
+ST1GDU2547,IT Consultant,Deceased; Industrial Chemist,1,3,2,20,0,0,0,None,0,None,0,0,1,0
+ST1GDU2548,Retired; Social Worker,Deceased; Antique Dealer,1,3,4,0,0,0,1,Arthritis,0,"Naproxen, Co-codamol",0,0,1,0
+ST1GDU2549,Retired; Shift Supervisor for Royal Mail,Retired; Telephone Exchange for British Rail,1,2,4,15,0,0,0,None,0,None,0,0,1,0
+ST1GDU2550,Retired; Security Worker,Retired; Steel Erector,1,1,2,30,5,0,1,"AF, MI and Stent, Hypertension, High Blood Cholesterol, Gastric Reflux, Post Nasal Drip",1,"Bisoprolol, Asprin, Atorvastatin, Edoxaban, Beconase, GTN Spray, Lansoprazole, Perindopril",0,0,1,0
+ST1GDU2551,Retired; NHS Manager,Deceased; Borders Council Purchasing Manager,1,3,2,0,0,0,1,"Hypothyroidism, Hypertension, Rosacea",1,"Lisinopril, Bendrofluazide, levothyroxine, oxytetracycline",0,0,1,0
+ST1GDU2552,Psychiatric Nurse,Deceased; Landscape Gardener,1,3,2,0,0,0,1,Psoriasis,1,Dovobet Cream,0,0,1,0
+ST1GDU2553,Retired; Nursery Nurse,Deceased; Boiler Fireman,1,3,2,0,0,0,1,"High Blood Pressure, Lichensclerosis, Sinus Problems, Gastric Reflux",1,"Lisonopril, Esomeprazole, Bendroflumethiazide, Emulsifying Ointment, Mometasone, Dermovate Cream",0,0,1,0
+ST1GDU2554,Retired; Principal Primary School Teacher,Deceased; Telecommunications Engineer,1,3,2,10,1,0,1,"Thyroid tumours, hypothyroidism",0,Levothyroxine,0,1,1,0
+ST1GDU2555,Retired; Special Needs Teacher,Deceased; Farm Worker,2,2,5,4,1,0,1,"Anxiety, depression, hypertension, hypocalcemia, hypoparathyroidism",1,"Doxazosin, alfacalcidol, losartan",0,0,2,1
+ST1GDU2556,Management Consultant,Deceased; Engineer,1,3,4,0,0,0,1,"Depression, PTSD, gall bladder removal, asthma (mild), past nerve damage (nerve compression at neck)",0,Salbutamol inhaler (PRN),0,0,1,0
+ST1GDU2557,Retired; Social Care Worker,Deceased; Builder,1,1,1,10,0,0,1,Gastric reflux,0,Lansoprazole,0,0,1,0
+ST1GDU2559,Retired; Primary School Teacher,Deceased; Teacher,1,2,0,1,0,0,1,"Stress, Labrynthitis, Underactive Thyroid, High Blood Cholesterol",0,Levohyroxine,0,0,1,1
+ST1GDU2560,Retired; Chemistry Teacher,Deceased; Bank Manager,3,3,4,10,1,0,1,"Irritable bowel syndrome, diverticulosis, stress, anxiety, depression, asthma, gastric reflux, peri-osteoporosis, allergies",0,"Calceos tablets, omeprazole, fexofenadine, buscopan, gaviscon, fostair inhaler, Co-codamol (PRN), salbutamol inhaler, epipen, sodium cromoglicate eye drops",0,0,1,0
+ST1GDU2561,OT Assistant,Deceased; GP,1,3,2,1,0,0,0,None,0,None,0,0,1,0
+ST1GDU2562,ASDA Shop Worker,Deceased; Bricklayer,1,1,5,0,0,8,1,Absent Pituatary Gland,0,"Hydrocortisone, Levohyroxine, Genotropin Injection",0,0,1,0
+ST1GDU2563,Retired; Primary School Teacher,Deceased; Secondary School Teacher/Lecturer,1,2,1,0,0,0,1,Past depression,0,None,0,0,1,0
+ST1GDU2564,Retired; Secondary Math Teacher,Deceased; Plumber,1,3,5,0,0,0,0,None,0,"Glucosamine, cod liver oil",0,0,1,0
+ST1GDU2565,Retired; Nurse,Deceased; General Labourer,1,2,2,12,0,0,1,"Hypothyroidism, Bladder disfunction, Bowel Problems, Rhinitis, Depression, Plantar Fasciitis",0,"Mirabegron, Amitriptyline, Loperamide, Solifenacin, Fluticasone Furoate, Levothyroxine",0,1,1,0
+ST1GDU2566,Retired; Angus Council Manager,Deceased; Ship Builder,1,2,2,12,0,0,1,"Gout like symptoms following bone displacement in spine, enlarged prostate",0,Tamsulosin,0,1,1,0
+ST1GDU2568,Early Years Practitioner,Retired; Bus Driver,1,2,2,9,0,0,1,"SVTs - stress related? X2, cyst in wrist, acid reflux",0,"Propranolol, ranitidine, naproxen",0,0,1,0
+ST1GDU2569,Radiographer,Deceased; Police Man,1,2,4,0,0,0,1,Depression,0,Fluoxetine,0,1,2,0
+ST1GDU2570,Retired; Warehouse Assistant,Deceased; Driver,1,2,4,0,0,8,1,"APMPPE, depression, anxiety, overactive thyroid, underactive thyroid, Graves' disease, hiatus hernia, interstitial cystitis, double cataracts, macular degeneration",0,"Detrusitol, amitriptyline, sertraline, quetiapine, propranolol, lansoprazole, zopiclone",1,0,3,1
+ST1GDU2571,Retired; Teacher,Deceased; Pharmacist,1,3,2,6,0,0,1,"Arthritis (Post Knee Injury - Knee Surgery 1999), Prosthetic Knee, High Blood Cholesterol, High Blood Pressure",1,"Atrovastatin, Ramopril",0,0,1,0
+ST1GDU2572,Retired; Factory Worker,Deceased; Civil Servant,1,1,2,0,0,0,1,"Ganglion Cyst Left Knee, Osteoarthritis",0,None,0,0,1,0
+ST1GDU2573,Specialist Fieldwork Manager (Social/Health Research),Retired; Shepherd,3,2,3,0,0,0,0,None,0,Glucosamine Chondroitin,0,0,1,0
+ST1GDU2574,Classroom Assistant,Deceased; Car Mechanic,1,2,2,4,0,0,1,"High blood cholesterol, left fractured wrist 8-10 years ago-plate",0,"Calcium tablets, accrete",0,0,1,0
+ST1GDU2575,Retired; Physiotherapy Lecturer,Deceased; Accountant,1,3,2,7,0,0,1,"Osteoarthritis, bilateral hip replacement",0,None,0,1,1,0
+ST1GDU2576,Retired; Shift Charge Engineer in Power Station,Deceased; Church of England Clergyman (Priest),1,3,2,3,0,0,1,Enlarged Prostate,0,Tamsulosin,0,1,1,0
+ST1GDU2577,Retired; Senior Social Care Officer,Deceased; Manager (Agricultural Supplies Cooperative),1,2,2,3,1,0,1,"Anxiety + depression, acid reflux, high blood cholesterol, arthritis in hands",0,"Simvastatin, omeprazole, gaviscon, citalopram, ibuprofen gel",0,1,1,0
+ST1GDU2578,Retired; Secretary,Deceased; Barber,1,1,2,25,3,0,1,"Shingles, depression (past)",0,None,0,0,1,0
+ST1GDU2579,Retired; Production Supervisor,Deceased; HGV Driver,1,2,2,1,0,0,1,"Fibromyalgia, Joint Pain, Tinnitus, Hypertention, Acid Reflux, Stress",1,"Tamsulosin, Perindopril, Amlodipine, Co-Codamol, Esomeprazole, Prednisolone, Atorvastatin",0,0,1,0
+ST1GDU2580,Retired; IT Systems Programmer,Deceased; University Lecturer,1,3,2,0,0,0,1,High Blood Cholesterol,0,None,0,0,1,0
+ST1GDU2581,Retired; Finance Accountant,Deceased; Engineer,1,1,2,0,0,0,1,"High Blood Pressure, Restless Leg",1,"Pramipexole, Bisoprolol Fumarate, Ramipril",0,0,1,0
+ST1GDU2582,Retired; Teacher,Deceased; Technical Teacher,2,3,2,1,0,0,1,"UTI, arthritis, ear infection, bunions, stroke, hypertension, high blood cholesterol, meningitis, mumps, measles, muscles rupture ankle, depression",1,"Indapamide, candesartan, rosuvastatin, paracetamol",0,1,1,0
+ST1GDU2583,Admistrative Officer,Retired; Supervisor,3,2,2,0,0,0,1,Anxiety,0,None,1,0,1,0
+ST1GDU2584,Security Officer,Maths Teacher,1,3,2,4,0,0,0,None,0,None,0,0,1,1
+ST1GDU2585,Self Employed; Ironing Business & Humanist Celebrant,Retired; IT Manager,1,2,2,0,0,0,1,"Arthritis, Eczema, Osteoarthritis, Heart Murmur",0,None,1,0,1,0
+ST1GDU2586,Retired; Nurse,Deceased; Tropical Agriculturalist (Rubber Tree Planter),1,2,2,12,0,0,1,"Lichens sclerosus, Perthes disease (childhood)",0,"HRT patches, dermovate cream (PRN)",0,0,1,0
+ST1GDU2587,Part-time Administrator,Deceased; Garage Proprietor,1,3,2,15,3,0,1,"Asthma, bi-polar, acid reflux, gallbladder removal, IBS, cataracts, macular degeneration (dry)",0,"Quetiapine, lansoprazole, bricanyl inhaler (terbutaline), steroid inhaler, macushield supplement",0,0,1,0
+ST1GDU2588,Driving Instructor,Deceased; Baker,1,3,2,15,1,0,1,Past Acid Reflux,0,None,0,0,1,0
+ST1GDU2589,National Trust For Scotland Visitor Services Assistant,Deceased; Lloyd's Underwriter,1,2,2,1,0,0,1,"Familial lymphoedema, osteoporosis",0,"Alendronic acid, accrete d3",0,0,1,0
+ST1GDU2590,Retired; Teacher,Deceased; Teacher,1,3,2,1,0,0,1,"Hysterectomy, tonsillectomy, depression & anxiety",0,"Paroxetine, prochlorperazine, lamotrigine",0,0,2,1
+ST1GDU2591,B+B Owner; Retired Teacher,Deceased; Chartered Accountant,1,3,2,6,0,0,1,"High blood pressure, peripheral arterial disease",1,"Perindopril, bendroflumethiazide, clopidogrel, atorvastatin, omeprazole",0,0,1,0
+ST1GDU2592,Architect,Retired; University Lecturer,1,3,1,4,1,0,1,Past depression + anxiety,0,Cilique (contraceptive pill),0,0,1,0
+ST1GDU2593,Retired; Independent Financial Advisor,Unknown,1,2,2,20,3,0,1,Asthma,0,"Beclometasone Inhaler, Salbutamol Inhaler",0,0,1,1
+ST1GDU2594,Retired; Builder,Deceased; Blacksmith,1,1,2,0,0,0,1,"Back pain, diabetic type 2, hypertension, heart attack - stent, enlarged prostate, x2 hernia",1,"Amlodipine, doxazosin, novorapid flex pen, humulin I, simvastatin, glyceryl trinitrate, bisoprolol, aspirin, tamsulosin",0,1,1,0
+ST1GDU2595,Housewife,Deceased; Joiner,1,1,2,0,0,0,1,"Epileptic seizures, psoriasis, nasal polyps, antibody K red cell components, postpartum hemorrhage, chest wheeze - possible asthma, vitamin D deficiency, controlled OCD",0,"Ventolin inhaler, becotide inhaler, desunin 800 (vitamin D)",0,0,1,0
+ST1GDU2596,Retired; Plumber,Deceased; Station Master on Railways,1,1,2,14,0,0,1,"High Blood Pressure, High Blood Cholesterol",1,"Atorvastatin, Amlodipine",0,0,1,0
+ST1GDU2597,Housing Adviser With Shelter,Deceased; Oil Rig Worker - National Controller,2,3,3,0,0,0,1,Anxiety,0,None,0,0,2,0
+ST1GDU2598,Retired; Registrar,Deceased; Chief Executive-Local Authority,1,1,2,4,0,0,1,"Past stress incontinence-TVT operation, frozen shoulders, knee joint problem-ridged patella, high blood cholesterol",0,None,0,0,1,0
+ST1GDU2599,Retired; Civil Servant,Deceased; Labourer,1,1,2,9,0,0,1,"Trapped nerve in spine, osteoarthritis",0,"Glucosamine, cod liver oil",0,0,1,0
+ST1GDU2600,Retired; Nurse,Deceased; Cabinet Maker,1,3,2,5,1,0,1,"Hysterectomy, ankylosing spondylitis, iritis",0,"Latanoprost eye drops, dorzolamide/timolol eye drops",0,0,1,0
+ST1GDU2601,Secretary,Deceased; Steel Fixer,1,1,2,0,0,0,1,"Anxiety, scoliosis, hypermobile, past glandular fever, ME",0,Mirtazapine,0,0,1,1
+ST1GDU2602,Manager Public Sector,Deceased; Quality Assurance Manager,2,3,2,9,1,0,1,"Chronic urine infections, tracheitis",0,None,0,1,1,1
+ST1GDU2603,Managing Director Crematorium,Deceased; Furniture Porter,1,1,4,,,0,1,"Heart attack, gastric reflux",0,"Lansoprazole, atenolol, aspirin, ramipril",0,1,1,0
+ST1GDU2604,Health and Social Care Planner,Retired; Social Worker,1,3,2,0,0,0,1,Asthma,0,Bricanyl,0,0,1,0
+ST1GDU2605,Warehouse Man,Deceased; Barman,1,1,1,28,16,20,1,"Bereavement counselling, heart attack 6 years ago, broken right arm (plate in situ), high blood cholesterol due to defective gene",0,"Aspirin, ramipril, bisoprolol, atorvastatin, lansoprazole",0,0,3,1
+ST1GDU2606,Development Officer,Photographer,1,3,2,6,1,0,1,"Fibromyalgia, hypothyroidism, hypertension",1,"Amitriptyline, levothyroxine, lisinopril",0,0,1,0
+ST1GDU2607,Housing Officer,Deceased; Grave Digger,1,1,2,2,0,0,1,"Depression, chronic knee pain, sinus problems, adrenal gland tumour, hysterectomy, frozen shoulder, hypertension, IBS, weak bladder",1,"Atorvastatin, lercanidipine, tolterodine, hyoscine butylbromide, bendroflumethiazide, citalopram, omeprazole, perindopril",1,0,3,1
+ST1GDU2609,"Self-Employed, Office Admin, Holiday Rental Business",Deceased; Electrician,2,2,2,18,0,0,1,Underactive thyroid,0,Levothyroxine,0,1,1,1
+ST1GDU2610,Admin Assistant,Deceased; Porter,1,2,4,1,0,0,1,"Depression, anxiety, stress, underactive thyroid",0,Levothyroxine,0,0,1,0
+ST1GDU2611,Administrator,Retired; Telex Operator,1,1,2,27,0,0,1,"High blood pressure, arthritis, high blood cholesterol",1,"Amlodipine, naproxen",0,0,1,0
+ST1GDU2612,Carer,Deceased; Teacher,1,3,5,8,0,0,1,"Stress/grief, allergies (grass/pollen)-hayfever, bladder urgency",0,"Tolterodine, loratadine, simvastatin, omeprazole, fluticasone nasal spray, loperamide (PRN)",0,0,1,0
+ST1GDU2613,Student Records Assistant,Deceased; Storeman,1,1,4,0,0,0,1,"Rheumatoid arthritis (stress related), asthma, gestational diabetes",0,"Etoricoxib (PRN), metoclopramide (PRN), etanercept injection, methotrexate, codeine (PRN), paracetamol (PRN), salbutamol inhaler, Qvar inhaler, folic acid",0,0,1,1
+ST1GDU2614,Farmer,Deceased; Farmer,1,3,2,7,0,0,1,"Asthma, high blood cholesterol",0,Qvar inhaler,0,0,1,0
+ST1GDU2615,Grain Trader,Farmer,1,3,4,2,0,0,1,Bronchitis,0,"Fostair inhaler, azithromycin, cetirizine",0,0,1,0
+ST1GDU2616,Wireless Operator,Painter & Decorater,1,2,1,2,0,0,1,"Asthma, fractured tibia & fibula, tonsilitis",0,"Penicillin, Salbutamol Inhaler, Steroid inhaler",0,1,1,0
+ST1GDU2617,Full-time Student - Accounting,Deceased; Telephone Engineer,3,2,2,1,0,0,1,"Depression, recurrent UTIs + kidney infections, sciatica, glandular fever",0,None,0,1,1,0
+ST1GDU2618,Welder,Deceased; Stonemason,3,2,2,0,0,0,0,None,0,None,0,0,1,0
+ST1GDU2619,Driver,Retired; Chemical Process Operator + Butcher,1,2,4,2,0,0,1,"Depression, anxiety, disc replacement - neck, carpal tunnel, arthritis in right hand",0,None,0,0,1,1
+ST1GDU2620,Senior Clerical Officer,Storeman,1,1,2,1,0,0,1,"Acute sinsitis, orbital abcess, status epilepticus - 2008, double vision",0,Cerazette (contraceptive pill),0,1,1,0
+ST1GDU2621,Retired; Primary School Head Teacher,Deceased; Demolition Contractor,2,2,2,0,0,0,1,"Stress, anxiety, depression, ?issue with heart valve",0,0,0,0,1,0
+ST1GDU2622,Building Contractor Director,Joiner,1,3,1,5,0,25,1,Childhood eczema,0,None,0,0,1,0
+ST1GDU2623,"Property Rental Manager, Tour Guide, Consultant for Bakery",Deceased; Self-Employed Businessman,1,1,2,18,0,0,1,"Cancer (testicular) removal of 1 testicle, x2 knee replacements, Coflex in back (metal plate)",0,None,0,0,1,0
+ST1GDU2625,Staff Nurse,Timber Specialist,1,3,2,5,0,0,1,Hay fever,0,None,0,0,1,0
+ST1GDU2626,Contract Specialist for Economic Agency,Deceased; Bakery Worker,1,2,5,38,6,0,1,Thinning bones? Osteoporosis - awaiting bone density test,0,Calcium supplement,0,0,1,0
+ST1GDU2627,Housewife,Deceased; Lorry Driver,1,2,2,0,0,5,1,"Hypertension, Soft Connective Tissue Disorder, MS, Meniere's Disease, Bladder Issue so Self Catheririsation, Allergic Rhinitis",1,"Avamys Nasal Spray, Diazepam, Bendroflumethiazide, Tramadol, Ramipril, Mirtazepine, Cetrizine, Pregablin, Amlodipine",0,0,2,1
+ST1GDU2628,Area Manager,Deceased; School Teacher,1,1,4,12,0,0,1,Hypertension,1,Losartan,0,0,1,0
+ST1GDU2629,Personal Assistant,Retired; Teatre Orderly,1,3,2,0,0,0,1,"Recurrent UTIs, recurrent thrush",0,"Trimethoprim, fluconazole",0,0,2,0
+ST1GDU2630,Legal Accountant,Retired; Area Manager,1,3,1,4,0,0,1,"Past depression and anxiety, IBS",0,Laxido,0,1,1,0
+ST1GDU2631,Care Assistant,Deceased; Brush Maker,1,1,1,0,0,0,1,"Depression, diabetes type 2, high blood pressure, underactive thyroid, high blood cholesterol, hole in heart, heart attack 2002, acid reflux, migraines, arthritis",1,"Bisoprolol, levothyroxine, ramipril, furosemide, lansoprazole, empagliflozin, oxybutynin, metformin, quetiapine, mebeverine, warfarin, simvastatin, mirtazapine",0,0,2,0
+ST1GDU2632,Engineer,Engineer,1,3,2,1,0,0,1,"Diabetes mellitus, coeliac disease, hypothyroidism",0,"NovoRapid insulin, levothyroxine, lymecycline",0,0,1,0
+ST1GDU2634,Retired (Nursery Cook); Unemployed,Production Worker,1,2,2,4,0,0,1,"Varicose veins,blocked saliva ducts,chronic pain,depression,arthritis,vertigo,IBS,migraines,gluten intorelance,plantar fasciitis,Morton's neuroma,hidradenitis suppurativa,pulsatile tinnitus,otosclerosis,tendon calcification,Dupuytren’s, hypermobility",0,"Naproxen, cerelle, fluoxetine, Co-codamol, lymecycline, omeprazole, paracetamol, prochlorperazine",0,0,2,1
+ST1GDU2636,Carer,Retired; Roof Tiler,1,1,1,14,0,2,1,Postnatal depression,0,Fluoxetine,0,0,1,1
+ST1GDU2637,Health Care Assistant,Electrician,1,2,2,1,0,0,1,"Depression, anxiety, eczema, asthma, IBS",0,"Fexofenadine, venlafaxine, mometasone cream",0,0,1,1
+ST1GDU2638,Nurse,Retired; Insurance Man,1,3,2,15,0,0,1,Hayfever,0,None,0,0,1,0
+ST1GDU2639,Benefits Processor(Angus council),Deceased; Factory Worker,1,2,2,2,0,0,1,"Past depression, tennis elbow 3 yrs ago, constipation, prolapse",0,"HRT, laxido",0,0,1,0
+ST1GDU2640,Self-employed (Face Painting),Self-employed (Fireplace Installer),1,3,2,8,2,0,1,"UTIs, Lichen planus",0,Antibiotics (for UTI),0,1,1,0
+ST1GDU2641,Company Director,Deceased; Company Director,1,1,2,12,3,0,1,"High blood pressure, reflux, underactive thyroid, ?depression (felt low)",1,"Omeprazole, levothyroxine, zopiclone (PRN), valsartan",0,0,1,1
+ST1GDU2642,Unemployed; Retired,Deceased; Water Purification Systems Worker,1,2,2,9,0,0,1,"Hypertension, Hypercholsteraemia, Angina, Fractured Skull 1979",1,"Simvastatin, Amlodpine, Lisinopril, Aspirin, Isosorbide Mononitrate, Bisporolol Fumerate, Nicornadil",0,0,1,0
+ST1GDU2643,Fee Administrator,Retired; Plumber,1,1,4,2,2,0,1,"Acid reflux, underactive thyroid",0,"Lansoprazole, levothyroxine",0,0,1,0
+ST1GDU2644,Occupational Therapist,Sculpture Lecturer,1,3,2,16,1,0,0,None,0,None,0,0,1,0
+ST1GDU2645,Driving Instructor,Retired; Teacher,1,1,1,10,1,0,1,"Gastric reflux, depression",0,Lansoprazole,0,0,1,0
+ST1GDU2646,Retired; Legal Secretary,Deceased; Council Worker,2,1,2,8,0,0,1,"Osteoporosis, breast cancer - lampectomy, gallstone removal, broken knee, benign follicular adenoma - thyroid lobectomy",0,"Alendronic acid, rosuvastatin",0,0,1,0
+ST1GDU2647,Retired; Home Care Assesor,Deceased; Farmer,1,1,2,0,2,0,1,"Hypertension, T2 diabetic, Arthritis, Reflux, Hypercholesteraemia",1,"Metformin, Amlodipine, Simvastatin, Omeprazole",0,0,1,0
+ST1GDU2648,Health & Safety Manager,Clerk of Works,1,3,2,8,0,0,1,"Psoriasis, depression, inguinal hernia operation",0,None,0,0,2,1
+ST1GDU2650,Firefighter & Teacher,Businessman - Owns Crematorium,1,3,2,15,0,4,1,"Stress, depression",0,Fluoxetine,0,0,1,0
+ST1GDU2651,Sales Co-ordinator,Deceased; Insurance Executive,1,2,4,1,0,0,0,None,0,None,0,0,1,0
+ST1GDU2652,Retired; Teacher,Retired; Jute Mill Yarn Dresser,1,3,2,2,0,0,1,"Asthma, Mild Bronchiectasis, Arthritis, Hypertension, Reflux, Osteopenia",1,"Methotrexate, Azithromycin, Adizem XL, Allopurinol, Uniphyllin, Losartan, Folic Acid, Desunin, Indapamide, Omeprazole, Montelukast, Incruse Ellipta, Sulfisalazine, Peptac, Salbutamol Inhaler, Flutiform, Dymista (PRN)",0,0,1,1
+ST1GDU2654,Electrician,Deceased; Chip Shop Owner,1,2,2,1,0,0,0,None,0,None,0,0,1,0
+ST1GDU2655,Retired; Royal Navy 20 years then Process Operator in Food Industry,Deceased; Tins Melter in Industrial Factory,1,2,2,10,0,0,1,"Back pain, knee pain",0,Co-codamol,0,0,1,0
+ST1GDU2656,Social Care Worker,Electrician,1,3,1,0,0,1,1,"Depression, anxiety, attention deficit disorder, dyslexia, past helicobacter infection, IBS, allergies (hayfever, cats, black peppers)",0,"Cerazette, cetirizine, strattera",0,1,1,0
+ST1GDU2657,Unemployed; Previously Nurse,Deceased; IT Manager,1,3,1,5,1,0,1,"POTS, Erythromelalgia, asthma, migraines, EDS, hayfever, IBS, TMJ",0,"Ivabradine, propranolol, fludrocortisone, modafinil, citalopram, cyclizine, mebeverine, loperamide, pregabalin, cetirizine, acrivastine, brimonidine gel, salbutamol, Qvar, B12 injections, folic acid, sayana press, Co-codamol, Brufen gel, Vitamin D",0,0,1,0
+ST1GDU2661,Manager - Gowrie Care,Deceased; Factory Worker,1,3,2,6,2,0,1,"Depression, high blood pressure, migraine associated vertigo",1,"Felodipine, nortriptyline",0,0,1,0
+ST1GDU2663,Retired; Farmer's Wife,Deceased; Farmer,1,3,2,1,0,0,1,"Mild depression, osteoarthritis",0,None,0,0,1,1
+ST1GDU2664,Workshop Supervisor,Retired; Welder,1,1,2,1,0,0,1,Back injury,0,None,0,0,1,0
+ST1GDU2665,Full-Time Carer For Daughter,Deceased; Brush Maker,1,3,4,0,0,0,1,"Depression, anxiety, underactive thyroid, coloboma, heartburn & indigestion, ptosis - 3 surgeries on eyes, ophthalmoplegia",0,"Levothyroxine, propranolol, nexium, gaviscon, sertraline",1,1,4,0
+ST1GDU2666,Graphic Designer,Deceased; Lecturer,1,1,2,0,0,0,1,"Depression, stress",0,Contraceptive pill,0,0,1,0
+ST1WAB0555,Chief Engineer (retired),Blacksmith,1,1,4,5,0,0,1,Diabetes type II,0,Atrovastatin,0,0,1,0
+ST1WAB0556,Retired Psychiatric Nurse,Tele-communications,1,1,2,30,2,0,1,"Hypertension, High Blood Cholesterol",1,"Perindipol, Amlodipine, Bendroflumethiazide, Ezetimbe",0,0,1,1
+ST1WDU2001,"Housewife, Tailoress",Deceased; Power Station Worker,1,2,2,0,0,0,1,"Breast Cancer, Heart Murmur",1,"Bendroflumethazide, Lercaripine, Simvastatin, Tamoxafen",0,0,1,0
+ST1WDU2002,Retired; Manager in Arcade,"Deceased; Ash Plant Attendant/Electricity, Power Station",1,1,1,0,0,8,1,"Hypertension, Recurrent Urinary Tract Infectons, Hyperthyrodism, Acid Reflux, Nausea, Anxiety, Cardiac Prevention, Chronic Obstructive Airwarys Disease, Hypercholesterolemia",1,"Levothroxine, Esomeprazole, Atorvastatin, Bendroflumethiazide, Amlodipine, Carbocisteine, Oxybutynin, Domperidone, Sertraline, Aspirin, Solpadol, Salbutamol Inhaler",0,0,1,1
+ST1WDU2004,IT Consultant,Deceased; Director of NCR,2,3,2,16,0,0,1,"Hypertension, Hypercholesterolemia",1,"Lisinopril, Simvastatin",0,0,1,0
+ST1WDU2006,Semi-Retired; Part-Time Cleaner; Training Manager For National Health Lab,Deceased; Machine Turner,3,3,3,4,0,0,1,"Ovarian cysts, One Ovary Removed, Appendicitis, Tonsilitis, High Cholesterol",0,None,0,0,1,0
+ST1WDU2007,Nurse,Deceased; Forester,1,3,2,0,0,0,0,None,0,None,0,0,1,1
+ST1WDU2008,Retired; Army Communication Officer,Store Manager,1,2,4,16,0,15,1,"Damaged spinal discs, Mastoidectomy, Piles, Gall bladder removal, Enlarged prostate",0,"Omeprazole, Petyme, Finasteride, Arcoxia",0,0,1,0
+ST1WDU2009,Retired; Machine Operator,Deceased; Jute Mill Worker,2,2,2,20,0,0,1,"Angina, Hypercholesterolaemia, Type 2 Diabetes, Depression, Varicose Veins",0,"Lansoprazole, GTN Spray, Bisoprolol, Simvastatin, Aspirin, Nicorandil",0,0,1,1
+ST1WDU2010,Council Worker Admin,Deceased; Farmer,1,3,2,0,0,0,0,None,0,None,0,1,1,0
+ST1WDU2011,Retired; Project Manager,Deceased; Train Driver,1,3,2,0,0,0,1,"Diabetes, High Blood Pressure",1,"Irbesartan, Doxazosin, Bendroflumethiazide",0,0,1,0
+ST1WDU2012,Retired; Nurse,Deceased; Slater,2,3,2,2,1,0,1,Hypertension,1,"Amlodipine, Bendrofluazide",0,0,0,0
+ST1WDU2013,Retired; Company Director,Deceased; Engineer,1,3,2,5,0,0,0,None,0,None,0,0,2,0
+ST1WDU2014,Merchant Seaman,Deceased; Scrap Metal Merchant,1,2,2,12,0,0,1,"Diabetes, Hypercholesterolaemia",0,"Atorvastatin, Insulin",0,0,1,0
+ST1WDU2015,Teacher,Retired; Inventory Controller At Car Manufacturer,1,3,2,2,2,0,1,Idiopathic Thrombocytopenia,0,None,0,0,1,1
+ST1WDU2016,Retired; Manager At Michelin Tyre Company,Deceased; Farm Manager,1,2,2,5,1,0,1,"Hypertension, Tennis Elbow",1,"Atorvastatin, Ramipril, Asasantin",0,0,1,0
+ST1WDU2017,Retired; Accountant,Deceased; Salesman,2,3,4,14,2,0,1,"Hypertension, TIA, Malignant Melanoma, Hypercholesterolaemia, Hypothyroidism",1,"Perindopril, Amlodipine, Simvastatin, Rivaroxaban, Levothyroxine",0,1,1,1
+ST1WDU2018,Retired; Lab Technician,Deceased; Painter/Decorator,3,2,2,18,2,0,1,"Epilepsy, Osteoporosis, Mastectomy, Appendicetomy",0,"Lamotrigine, Calceos, Aspirin, Alendronic Acid, Co-Codamol, Piroxicam Gel, Viscotears",0,0,1,0
+ST1WDU2019,Garage Proprietor,Retired;Farmer,1,3,2,3,0,0,0,None,0,None,0,0,1,0
+ST1WDU2020,"Locum Pharmacist, Hypnotherapist, Voluntary Organisation Chairman",Deceased; Jute Mill Office Manager,1,3,2,2,0,0,1,"Hypertension, Work Stress",1,"Citalopram, Valsartan",0,0,1,1
+ST1WDU2021,Police Scotland Investigator,Deceased; NHS Engineer,1,3,2,0,0,0,1,Diabetes Mellitus,1,"Metformin, Gliclazide, Amlodipine, Atorvastatin, Dapagliflozin",0,0,1,0
+ST1WDU2022,Retired; Home Helper,Deceased; Geology Department Janitor,1,2,2,0,0,0,1,"Underactive Thyroid, High Blood Cholesterol",0,"Levothyroxine, Atorvastatin",0,0,2,1
+ST1WDU2023,Retired; DC Thomson Process Worker,Deceased; Grocer,1,2,2,0,0,0,1,"Inguinal Hernia, Gastro Reflux, Nasal Polyp, Intranasal Ethmoidectomy, Blepharitis, Benign Prostatic Hyperplasia",0,"Lansoprazole, Tamsulosin, Budesonide Nasal Spray, Lacrilube Ointment",0,0,1,0
+ST1WDU2024,Retired; Medical Secretary,Deceased; Security Guard,1,3,2,9,0,0,1,"Mycosis Fungoides, Herpes Zoster, Asthma",0,"Ventolin Inhaler, Cranberry Capsules",0,0,1,1
+ST1WDU2025,Retired;NHS Manager,Deceased;Postman,1,2,2,9,6,0,1,"Epilepsy, Coeliac disease, raynauds, fibromyalgia, osteopenia",0,"Carbamazapine, calcium supplements",0,1,1,0
+ST1WDU2026,Class Room Assistant,Retired; Plumber,1,3,5,12,0,0,1,Anxiety,0,Sertraline,0,0,2,0
+ST1WDU2027,Retired; Painter/Decorator Firm Owner,Deceased; Painter/Decorator Firm Owner,1,2,2,0,0,0,1,"Hypertension, Knee Replacement, Ablation AV Node for SVT",1,"Tamsulosin, Valsartan, Amlodipine, Co-Amilozide",0,0,1,0
+ST1WDU2028,Retired; Customer Service Manager,Deceased; Train Driver,1,2,2,0,0,0,1,"Hypothyroidism, injured knee ligament",0,Thyroxine,0,0,1,0
+ST1WDU2029,Retired; IT Manager,Deceased; TV Engineer,2,3,2,45,2,0,1,"Gout, Fungal Infections, Cholecystectomy, Appendectomy, Gastric Reflux",0,"Naproxen, Omeprazole, Clotrimazole Cream",0,0,1,0
+ST1WDU2030,Housewife; Nursery Nurse,Deceased; Jute Tenter,1,3,2,0,0,0,1,"Anaemia, Neutropaenia",0,None,0,0,1,1
+ST1WDU2031,Scientist,Retired; lorry driver,1,3,2,2,0,0,1,"Gall stones, asthma, hysterectomy, hypertension",1,"Fexofenadine, Montelukast, Losartan, Ventolin",0,0,2,1
+ST1WDU2032,Retired; Fire Service,Retired; Machine Builder/Assembler,1,3,2,10,0,0,1,"Hernia, Cataracts, Detached retina, Broken nose",0,None,0,0,1,0
+ST1WDU2033,Retired; Nurse,"Deceased; Bakery Worker, Bus Driver",1,3,2,0,0,0,1,"High Blood Pressure, Asthma, High Cholesterol, Underactive Thyroid, Osteoarthritis, Osteopenia, LVF, Duodenal Ulcers",1,"Metformin, Lipijor, Fostair Inhaler, Sitagliptin, Amitriptyline, Uniphyllin, Thyroxine, Salbutamol, Furosemide, Ramipril, Co-Codamol, Calcium, Metronidazole, Amoxicillin, Omeprazole",0,1,1,1
+ST1WDU2034,Retired; Bank Cashier,Deceased; Postman,1,2,4,3,0,0,1,"Hypertension, Osteoporosis, Hypercholesterolaemia",1,"Amlodipine, Accrete D3, Atorvastatin, Alendronic Acid",0,0,1,0
+ST1WDU2035,Retired; Nurse,Deceased; Joiner,3,2,2,0,0,0,1,"COPD, Osteoarthritis, Lichen sclerosus, High blood pressure, Irritable bladder, Flat feet, Depression, Arthritis",1,"Salbutamol, Gabapentin, Balneum Plus Cream, Lansoprazole, Paracetamol, Seretide 250 Evohaler, Azithromycin, Tolterodine, Losartan, Bendroflumethiazide, Spiriva Respimat, Dermol 500 Lotion, Dermovate Steroid Cream",0,0,2,1
+ST1WDU2036,Retired; Journalist,Deceased; Policeman,2,2,2,8,0,0,1,"Hypertension,Arthritis,Hayfever",1,Losinipril,0,0,1,0
+ST1WDU2037,Relief Caretaker NHS,Deceased; Mill Foreman,1,2,2,7,1,0,1,"Diabetes, IBS",0,None,0,0,1,0
+ST1WDU2038,Support Worker,Deceased; Butcher,1,3,4,0,0,0,1,"Heart virus, two slightly leaky heart valves, enlarged right atrium,  Asthma, Macular degeneration, Allergy( Nickel, trees, pollen, metal sulphates)",0,"Duorespir inhaler, viscotears eye gel, sodium cromoglicate eye drops, cetirizine, salbutamol (inhaler), furosemide, dermol lotion, emulsifying ointment",0,0,1,0
+ST1WDU2039,Non-employed,Retired; Jute Mill Worker,1,3,1,0,0,0,1,"Rheumatoid arthritis, Low blood pressure, Postual hypotension, Fibromyalgia, Hypothyroidism, Depression, Diverticulosis, Sleep aponea",0,"Methotrexate, Thyroxine, Paracetamol, Folic acid, Vitamin D, Tranylcypromine,  Sulfadiazine",0,0,2,1
+ST1WDU2042,Retired;Teacher,Deceased;Fitter(engineer),1,3,2,18,4,0,0,None,0,None,0,0,1,0
+ST1WDU2043,Health Care Support Worker,Deceased; Factory Worker,1,3,4,0,0,10,1,"Depression, Diabetes,Stroke,Hernia,Low in iron",0,"Fluoxetine, Metformin,Omeprazole,Empagliflozin,Ferrous Fumerate,Simvastatin,Aspirin,Victoza",0,0,1,1
+ST1WDU2044,Sickness Benefit(Gardener),Deceased; Stireman,1,3,4,4,2,2,1,"Stenosis of Spine,Bulging discs,depression",0,"Gabapentin, Codydramol",0,0,1,0
+ST1WDU2045,G.P. Locum,Retired; Engineer,1,3,4,9,0,0,1,"High Blood Pressure, Ulcerative Colitis, Fracture Wrist, Adenoma-Breast/Neck",1,"Valsartan, Desloratadine, Accrette",0,0,1,0
+ST1WDU2046,Retired; Physiotherapist,Deceased; Supervisor at Carpet Factory,1,3,2,27,0,0,1,Anaemia,0,Vitamin B injections every 2 months,0,0,1,0
+ST1WDU2047,Care assistant,Deceased; Labourer,1,2,2,0,0,0,1,Knee Arthritis,0,None,0,0,1,0
+ST1WDU2048,Retired; Paralegal,Deceased; Postal Worker,1,3,2,0,0,0,1,"Migraine,Hypertension,Depression,Stress,Transient Global Amnesia",1,"Amlodipine, Amitriptyline, Rizatripan",0,0,1,0
+ST1WDU2049,Housewife,Deceased; Clerk,1,2,2,10,0,0,1,"Hypertension, Cancer growth in right ear, Esophagitis",1,"Lansoprazole, Amlodipine, Bisoprolol, Gaviscon",0,1,1,0
+ST1WDU2050,Head Cashier,Retired; Technician,1,2,2,0,0,0,1,"Anxiety, Hypertension, Acid reflux, Overactive bladder, IBS, Depression",1,"Fluticasone furoate, Amlodipine, Gaviscon, Solifenacin, Venlafaxine, Prochlorperazine, Esomeprazole",1,0,2,1
+ST1WDU2051,Retired; Machine Operator (Michelin Tyre Company),Deceased; Blacksmith,3,2,2,9,0,0,1,"Plantar fasciitis, depression",0,None,0,0,1,0
+ST1WDU2052,Reception admin,Retired; Electronic engineer,1,3,4,8,0,0,1,"Depression, anxiety, panic attacks, bulimia, hepatitis B carrier",0,None,0,1,3,1
+ST1WDU2053,Retired; Social Worker,Deceased; Bus Driver,1,3,2,6,2,0,1,Osteoporosis; Glaucoma,0,None,0,0,1,0
+ST1WDU2054,Retired; Registered Nurse,Deceased; Clerk,1,3,2,6,0,0,1,Stroke,0,"Atorvastatin, Clopidogrel, Perindopril",0,0,1,0
+ST1WDU2055,Retired; Solicitor,Deceased; Company Director,1,3,2,24,2,0,1,Hypothyroidism,0,Thyroxine,0,1,1,0
+ST1WDU2056,Retired; Clerical Officer,Deceased; Sheet Metal Worker,1,2,5,2,0,0,0,None,0,None,0,0,1,0
+ST1WDU2057,Retired;Physical Education Teacher,Deceased;Engineer,1,3,2,5,0,0,0,,0,none,0,0,1,0
+ST1WDU2058,"Retired; Clerical Officer, Craft Worker",Deceased; Office Manager,3,2,2,4,0,0,1,"Depression, Hypertension",1,Propranolol,0,0,1,0
+ST1WDU2059,Retired; Service Design Consultant,Deceased; Sheet Metal Worker,1,3,2,45,9,0,1,"High Choleterol, Diabetes",0,Simvastatin,0,0,1,0
+ST1WDU2060,Social Care Officer,Retired; Baker,1,1,2,2,0,0,1,"Gastric reflux, Gallstones, Dyslexia",0,Lansoprazole,0,0,1,0
+ST1WDU2062,Retired; Lecturer,Deceased; Railway Man,1,3,4,0,0,6,1,Depression,0,Citalopram,0,0,2,0
+ST1WDU2064,Machine Operator,Salesman,1,1,2,40,10,0,0,None,0,Niseptin Cream,0,1,1,1
+ST1WDU2065,Retired; Admin team leader at council,Deceased; Seaman,3,3,5,3,0,0,1,"Anxiety & depression,high Blood pressure,diabetes,reflux,urge incontinence,hypercholesterolemia",1,"Ditropan,Gabapentin,Ranitadine,Metformin,Asprin,Lisinopril,Starlix,Lansoprazole,Accrete D3,Simvastatin,Citalopram,Cetirizine",0,0,2,1
+ST1WDU2066,PT time shop ass istant,Deceased; Bricklayer,1,2,2,0,0,0,1,Anxiety,0,Citalopram,0,0,1,0
+ST1WDU2067,Photographer,Deceased; Mill Worker,1,3,2,0,0,0,1,"High Blood pressure, recent diagnosis of basal C carcinoma, bicuspid aortic valve-congenital",1,Losartan,0,0,1,0
+ST1WDU2068,Retired; Sales assistant(kitchens & bathrooms),Deceased; Train driver,1,2,2,0,0,0,1,"Silent reflux, adult foveomacular vitelliform (not best) Dystrophy",0,None,0,0,1,0
+ST1WDU2069,Clerical - Dundee Council,Deceased; Staff Nurse,2,3,2,0,0,0,1,Underactive Thyroid,0,Thyroxine,0,0,1,0
+ST1WDU2070,Group after sales manager,Deceased; Fatory Manager,1,3,2,1,0,0,1,"Type 2 diabetes, Hypertension, High Cholesterol",1,"Doxazosin, Clucophage, Finasteride, Furosemide, Atorvastatin, Amlodipine, Irbesartan, Allopurinol",0,0,1,1
+ST1WDU2071,"Retired; Children's Social Worker, current sessional worker",Labourer,1,3,2,20,0,0,1,"Weak Bladder-Hammock fitted, depression & anxiety, tinitus",0,"Omeprazole 20mg, was on citalopram till last month",0,0,1,0
+ST1WDU2072,Research Scientist,Retired;Engineer (previous) Retired,1,3,2,14,4,0,1,"Frozen Shoulder, Dyslexia",0,Ibuprofen,0,0,1,0
+ST1WDU2074,Retired; Night Sister(nurse),Deceased;Postman,1,1,5,0,0,0,1,"Work related Stress,got councelling/medication(1994)",0,none,0,0,1,0
+ST1WDU2075,Quality Improvement Officer,"Deceased,Telephone Operator",1,3,4,0,0,0,1,Meniscus repair,0,None,0,0,1,0
+ST1WDU2076,Retired; Nurse,Deceased; Teacher,1,3,2,14,4,0,1,Acid reflux,0,Esomeprazole,0,0,1,0
+ST1WDU2077,Retired; Hotelier,Labourer,1,1,2,14,0,0,1,Arthritis in knees,0,None,0,0,1,0
+ST1WDU2078,Joiner,Labourer,1,1,1,0,0,10,1,"Depression, bladder cancer, sciatica, drug addiction, alcohol addiction",0,none,0,0,2,0
+ST1WDU2079,Retired; Health Care Assistant,Deceased; Tyre Fitter,1,2,1,0,0,0,1,"Diabetes Type 2, High Blood Pressure, High Blood Cholesterol, Hot Flushes",1,"Dapagliflozin, Ciliclazide, Lisinopril, Clonidine, Rosuvastatin, Metformin",0,0,1,0
+ST1WDU2080,Retired; Teacher,Deceased; Sawer,1,3,2,9,1,0,1,M.S,0,"Copaxone, Vitamin D",0,0,1,1
+ST1WDU2081,Domestic Supervisor (NHS),Security Guard,1,1,2,0,0,0,1,"Underactive thyroid, Tendonitis (hip), Stomach problems (stress)",0,"Esomeprazole, Levothyroxine",0,0,1,0
+ST1WDU2083,Retired; Leisure Attendant,Deceased; Mill Worker,1,2,2,1,0,0,1,"Asthma, Diabetes Mellitus, Heartburn, Diverticulitis, Depression, Hypercholesterolaemia",0,"Salbutamol, Empaglifozin, Metformin, Fostair Inhaler, Mebeverine, Omeprazole, Gaviscon, Simvastatin, Sertraline",0,0,1,0
+ST1WDU2084,Admin Assistant,Retired; Sheet Metal Worker,1,1,1,4,0,0,1,"Depression,Stomach Ulcer,Arthritis,Left bundle branch block",0,"Lansoprazole,Naproxen",0,0,1,0
+ST1WDU2085,Beauty Therapist,Retired; Drainage Contractor,1,2,2,24,0,0,1,"Epilepsy,Sarcoidosis",1,Flixonase,0,0,1,0
+ST1WDU2086,Retired Health Care Assistant,Deceased; Farm Worker,1,2,2,1,0,0,1,Colitis,0,"Cod liver Oil,Zinc,Folic Acid",0,1,1,0
+ST1WDU2087,Accountant,Retired; Company Director,1,3,2,0,0,0,1,Left bundle branch block,0,None,0,0,1,0
+ST1WDU2089,Non-employed;Disabled,Deceased; Butcher,1,1,1,0,0,20,1,"Fibromyalgia, Primary Biliary Cirrhosis, Peripheral Neuropathy, Type 2 Diabetes, Depression, menieres disease",0,"Alogliptin, Beclometasone, Ursodeoxychloric acid, Duloxetine, Atenolol, Esomeprazole, Paracetamol, Amitriptyline, Metformin, Betahistine, Atorvastatin, Pregabalin, Tramadol",0,0,1,1
+ST1WDU2090,Lawyer,"Deceased,Manager",1,3,1,25,0,0,0,None,0,None,0,0,1,0
+ST1WDU2091,Retired; Nurse,Retired; Seedsman,1,3,2,0,0,0,1,"Bladder irritation and weakness,Bilateral Mastectomy,Hysterectomy,Bunion Surgery",0,Solfenacen,0,0,1,0
+ST1WDU2092,Retired; Chef,Deceased; Bus Driver,1,2,2,0,0,10,1,"Depression, Under Neurology investigation for undiagnosed symptoms of pain in back of head (poopr balance, weakness on left side)",0,"Optive eye drops PRN, Ropinirole, Co-codemol, Propranolol, Ventolin Evohaler, Lansoprazole, Mirtazapine, Simvastatin",0,0,2,1
+ST1WDU2093,Department Administrator,Deceased; Joiner,1,1,2,4,0,0,1,"Stress, Asthma",0,Inhaler,0,0,1,0
+ST1WDU2094,Full time Foster Carer,Deceased; Motor Mechanic,1,2,2,4,0,0,1,"Chronic Demyelinating Polyneuropathy, Anxiety",0,HRT(Eleste),0,0,1,0
+ST1WDU2095,Retired; Nurse,Deceased; Artist,1,3,2,21,3,0,1,"Nasal Polyps, Anxiety, Depression",1,"Losartan, Dymista nasal spray",0,0,1,0
+ST1WDU2096,Hairdresser,Retired; Key Account Manager,1,2,2,9,0,0,0,,0,None,0,0,1,0
+ST1WDU2097,Psyhiatric Staff Nurse,Deceased; Electrician,1,2,2,0,0,0,1,Hypothyroidism,1,"Thyroxine, Candistatin",0,0,1,1
+ST1WDU2098,Cleaner,Retired; Company Director,1,1,2,0,0,0,1,"Depression, Anxiety",0,None,0,0,1,0
+ST1WDU2099,Retired; Tutor,Deceased; Lorry Driver,1,2,2,0,0,15,1,"Stomach Ulcer, Heart attack, Hypercholesterolaemia",0,"Atorvastatin, Aspirin, Bisoprolol, Ranitidine, Lansoproazole",0,0,1,0
+ST1WDU2100,Early Childhood Practitioner,Deceased; Dentist,1,2,2,2,0,0,0,None,0,None,0,0,1,0
+ST1WDU2101,Accountant,Deceased; Doctor,1,3,2,28,4,0,1,"Asthma, Gastric reflux, Rhinoplasty, Spinal degeneration",0,"Symbicort inhaler, Omeprazole, Montelukast, Piriton",0,0,1,0
+ST1WDU2102,Retired; Senior Software Engineer,Deceased; Police Officer,1,2,2,16,0,0,1,Heartburn,0,Omeprazole,0,0,1,0
+ST1WDU2103,Beauty Therapist,Retired; Painter/Decorator,1,2,2,16,2,0,1,"Arthritis, Palpitations",0,Propranolol,0,0,1,1
+ST1WDU2104,Nurse,Retired;taxi driver,1,2,2,2,0,0,0,None,0,"multivitamin,evening primrose oil",0,0,1,0
+ST1WDU2105,Retired; Admin Officer HM Prison Service,Deceased; Builder,1,1,2,10,1,5,0,None,0,None,0,0,1,1
+ST1WDU2106,Capital Project Officer,Deceased; Tractorman,1,2,2,0,0,0,0,None,0,None,0,0,1,0
+ST1WDU2107,Administration (Dentist),Deceased; Taxi Driver,1,2,3,6,0,0,1,"Coeliacs, Hypertension, Migraines",1,"Bendrofluazide, HRT, Imigran injections PRN for migraines",0,0,1,0
+ST1WDU2108,Retired; Dental Practice Manager,Deceased; Foreman Tarpauline Factory,3,2,2,0,0,0,1,"Grandular fever, Weight loss",0,None,0,0,1,0
+ST1WDU2109,"Housekeeper ,Retired social worker","Retired,Chief Engineer Royal Fleet Auxillary",1,3,2,6,0,0,1,"Work related Stress,Asthma",0,"Duloxetine,Serevent and Ventolin Evohaler, Hylo tear eye drops, Qvar inhaler",0,0,1,0
+ST1WDU2110,Social Worker,Retired; Blacksmith,1,3,2,0,0,0,1,"Asthma, Migraine",0,"Ventolin, Adizem",0,0,1,0
+ST1WDU2111,Financial Assessor,retired;farmer/lorry driver,1,1,4,12,1,17,1,"Stress/Depression,Heartburn",0,"fluoxitene,omeprazole",0,0,1,1
+ST1WDU2119,Social Care Worker,Deceased; Jute Mill Worker,2,2,2,20,0,6,1,Wear/tear of cervical discs (operation 2010),1,Co-codamol PRN,0,0,1,0
+ST1WDU2120,Retired; Firefighter,"Deceased; Firefighter, Art Technician",1,2,2,9,0,0,1,"Hernia, Knee ligament injury",0,None,0,0,1,0
+ST1WDU2121,Domestic,Deceased; Lorry Driver,1,1,2,0,0,5,1,Mild arthritis,0,Co-codamol,0,0,1,0
+ST1WDU2122,Civil Servant,Deceased; Plumber,2,1,4,0,0,0,1,Heart arrhythmia,0,"Ventolin, Trimethoprim, Amoxicillin",0,1,1,0
+ST1WDU2123,Retired Nurse,Deceased post Office Executive,1,2,2,0,0,0,1,"Depression,Bowel Cancer",0,"Cod liver Oil,Zinc,Evening Primrose Oil",0,1,1,1
+ST1WDU2124,Secretary,Musician,1,2,2,21,3,12,1,"Hypertension, Varicose veins",1,"Losartan, Amlodipine, Fluoxetine",0,0,1,1
+ST1WDU2125,School Cleaner,Deceased Bookmakers Accountant,1,1,2,2,0,0,0,None,0,None,0,0,1,0
+ST1WDU2126,Unemployed,Unemployed; Previous Bridge Construction,1,1,2,0,0,0,1,"Acute panic discorder and anxiety, Fibromyalgia, Chronic fatigue, Acid reflux, Asthma, Spondylosis",0,"Ventolin inhaler, Seretide inhaler",1,1,2,1
+ST1WDU2127,Postwoman,"Deceased,Jute Mill Foreman",1,1,2,4,2,0,1,Hypothyroidism,0,Thyroxine,0,1,1,0
+ST1WDU2128,"Retired,Local Officer with Scottish Health Council","Deceased,Machinist",1,3,5,3,0,0,0,None,0,Cetrizine,0,1,1,0
+ST1WDU2129,Primary School assistant,"Retired,Electrician",1,2,4,2,0,7,1,anxiety Depression,0,None,0,0,2,0
+ST1WDU2130,Lecturer,"Deceased,Retail Business",1,3,2,2,1,0,0,None,0,None,0,0,1,0
+ST1WDU2131,Health improvement practitioner; unemployed currently due to ill health,"Deceased,Company Director",1,3,2,4,0,0,1,"Myalgic Encephalomyelitis,Depression",0,Mirtazapine,0,0,1,1
+ST1WDU2132,Medical Secretary,Deceased; Foreman Engineer,1,2,2,6,0,0,1,"Postnatal depression, Low mood, High blood pressure, High blood cholesterol",1,"Simvastatin, Losartan",0,0,1,0
+ST1WDU2133,"Domestic supervisor,Cook/support worker",Deceased Factory Worker,1,2,2,14,6,10,1,Neuroma on Foot,0,None,0,1,1,0
+ST1WDU2134,Grave Digger,Retired; Bus Driver,2,1,2,2,0,0,1,"Cyst removal, Compressed nerves in both elbows",0,None,0,0,1,0
+ST1WDU2136,Retired; Mill Worker,Deceased; Joiner,1,1,5,1,1,0,1,"Depression, Dyslexia, Gastric reflux, Thyrodism, Hypercholesterolemia",1,"Bendroflumethiazide, Candesartan, Lansoprazole, Levothyroxine, Lipitor, Sertraline",0,0,3,1
+ST1WDU2137,"Retired,Service Manager","Deceased,Office Manager",1,2,2,14,1,0,1,Gastric reflux,1,"Indapamide,Lercaridipine,Telmisartin,Lansoprazole,Asprin",0,0,1,0
+ST1WDU2138,Hairdresser,"Deceased,Engineer",1,2,2,30,5,0,1,"Anxiety,Phobia,Breast Cancer,Hysterectomy,Osteopaenia,Rosacea",0,"Omeprazole,Escitalopram,Lymecycline,accrete D3",0,0,1,0
+ST1WDU2139,Care Home Team Manager,Retired; Electrician,1,3,4,0,0,0,1,"Postpartum depression, Situaltional clinical depression, Hormone imbalance, Raynaud's syndrome, Gastric reflux, Allergic rhinitis",0,Omeprazole,1,0,1,1
+ST1WDU2141,Unemployed (Previously Joiner),Deceased; Taxi Driver,2,2,2,0,0,0,1,"Sleep apnea, Depression, Anxiety, Asthma, Dropped foot, Nerve pain, IBS, Urinary problems, Loop in bowel",1,"Balneum bath oil, Laxido orange oral powder, Senna, Co-codamol, Lansoprazole, Fostair, Clonazepam, Aero chamber, Uniphyllin, Tiotropium bromide, Ventolin, Clomipramine, Pregabalin, Mebeverine, Furosemide",0,0,2,1
+ST1WDU2142,Retired; Economic Development Officer,Deceased; Wood Machinist,1,2,2,17,2,0,1,"High blood pressure, High blood cholesterol",1,"Amlodipine, Valsartan, Atorvastatin",0,0,1,0
+ST1WDU2143,Practice Manager,Deceased; Printer,2,2,4,9,0,0,1,Hypothyroidism,0,Thyroxine,0,0,2,1
+ST1WDU2148,Playwork Supervisor,Deceased; Labourer,1,1,2,15,0,0,1,"Menopause, High blood cholesterol, High blood pressure, Depression",1,"Amitriptyline, Simvastatin, Fexofenadine hydrochloride, Fluoxetine, Omeprazole, Accrete D3, Multivitamines & minerals, Avamys nasal spray",0,0,1,1
+ST1WDU2149,Retired; Journalist,Deceased; Shop Keeper,1,3,2,14,0,0,1,"Depression, Hypothyroidism, Hypercholesterolemia, M.I. + stent",1,"Aspirin, Atorvastatin, Levothyroxine, Ramipril",0,0,1,0
+ST1WDU2150,Nurse,Deceased; Mechanical Engineer,1,2,3,0,0,0,1,"Reactive depression, L3-L5 disc compression",0,Citalopram,0,0,2,0
+ST1WDU2151,A.T.O (Assistant Technical Officer) at Tayside Pharmaceuticals NHS Tayside,Deceased; Lorry Driver,1,1,1,20,8,0,1,Epilepsy,0,None,0,0,1,0
+ST1WDU2152,"Retired,Insurance underwriter","Deceased,Farm Worker",1,3,2,2,0,0,1,"Hypercholersterolaemia, Hypertension",1,"Lisinopril,Amlopine,atorvastatin",0,0,1,0
+ST1WDU2153,Control Room Operator,Deceased Machine Operator,1,1,1,25,0,0,1,"Asthma,Hypertension,Hypothyroidism,Hypercholesterolaemia",1,"Lisinopril,Levothyroxine,Simvastatin",0,0,2,0
+ST1WDU2154,Railway Signaler,Factory Worker,2,1,4,14,0,0,1,Depression,0,None,0,0,2,0
+ST1WDU2155,Lab Technician,Deceased; Orthopaedic Surgeon,2,3,4,6,1,0,1,"Coeliac disease, Depression",0,None,0,0,1,0
+ST1WDU2156,Home Care Worker,Labourer,1,2,5,0,0,0,1,"Depression,Benign Heart Murmur",0,None,0,0,2,0
+ST1WDU2157,Classroom Assistant,Shepherd,1,2,2,6,0,0,1,"Hormone replacement therapy, meniere's disease",0,"Premique, betahistine",0,0,1,0
+ST1WDU2158,Social Worker,Deceased;clerk of works,1,3,3,0,0,0,0,none,0,none,0,0,1,0
+ST1WDU2159,Market Researcher,Game Keeper,2,2,2,0,0,0,1,"Hypertension,Enlarged Prostate,Hypothyroidism,Chronic back problems",1,"Finasteride,Diffluclox,Amlopine,Lisinopril,Thyroxine",0,0,1,1
+ST1WDU2161,"Disabled,currently not working, worked in oil rig before",Deceased;engineer,1,1,3,2,0,0,1,"Depression,high blood pressure,head/neck cancer",1,"morphine,perinodril,amalodipine",0,0,1,0
+ST1WDU2162,Secondary Teacher,Deceased; Clerical Officer,1,3,2,0,0,0,1,"Stress, underactive thyroid, hayfever",0,Thyroxine,0,0,1,0
+ST1WDU2163,Jewellery Designer,Deceased; Motor Mechanic,1,3,2,3,0,0,1,"Depression, Anxiety, Pelvic floor problems/prolapse",0,Vagifem pessary as required,0,0,1,1
+ST1WDU2164,Unemployed,Deceased; Architect,1,2,4,0,0,20,1,"Depression, Reynaulds, Ectopic heart beat, Under investigation for stomach & bowel problems",0,"Mebeverine, Ellqsduet hormone",0,1,3,1
+ST1WDU2165,Retired; Project Manager,Deceased; Chef,1,3,2,0,0,0,1,"Anxiety, High blood pressure, Childhood asthma, Irregular heart beat (30 years ago), Allergic to cats, Depression",1,"Lisinopril, Lansoprazole, Gabapentin, Tramadol",0,0,1,0
+ST1WDU2166,School Teacher,Retired; School Teacher,2,3,2,3,0,0,0,None,0,None,0,0,1,0
+ST1WDU2167,Retired; Principal Teacher of Music,Deceased; Electrician,1,3,2,0,0,0,1,"Arthritis, hypercholesterolaemia, type 2 diabetes",0,Simvastatin,0,0,1,0
+ST1WDU2168,,,,,,,,,,,,,,,,
+ST1WDU2169,Home Help,Deceased; Labourer,1,2,2,1,0,0,1,"Hypothyroidism, neck pain, depression",0,"Thyroxine, Amitriptyline",0,0,1,1
+ST1WDU2170,Retired; Bank Clerkess,Deceased; Painter/Decorator,1,2,4,0,0,0,1,"Anxiety & Depression, Macular degeneration (R eye)",0,Macushield,0,0,1,1
+ST1WDU2171,Maintenance Technician,Labourer,1,1,2,8,0,0,0,None,0,None,0,0,1,0
+ST1WDU2172,Social Care Worker,Deceased;plant work operator,1,1,2,0,0,0,1,clinical depression,0,prozac,1,0,2,1
+ST1WDU2173,Engineer,Deceased; Maintenance Fitter,1,3,2,3,1,0,0,None,0,None,0,0,1,0
+ST1WDU2174,Lift engineer,Deceased;driver,1,2,3,10,6,0,1,"asthma, backache",0,None,0,0,1,0
+ST1WDU2175,Firefighter Control,Deceased; Process Engraver at DC Thomson,1,2,2,3,0,0,1,"Diabetes, Depression, Underactive thyroid, SVT",0,"Citalopram, Propranolol, Levothyroxine, Metformin, Insulin, Atorvastatin",0,0,1,1
+ST1WDU2176,Plumber (semi-retired),Deceased; Plumber,1,2,2,40,0,0,1,"High cholesterol, Acid reflux",0,"Rivaroxaban, Lansoprazole, Atorvastatin, Gaviscon",0,0,1,0
+ST1WDU2177,Personal Assistant,Deceased; Manual labourer,1,3,4,9,0,0,1,"Nervous exhaustion, Depression, Post traumatic stress, Sciatica, Recent RTA (whiplash injury 08/05/2017)",0,None,0,0,1,0
+ST1WDU2178,Property Manager,Policeman,1,3,2,20,0,0,1,Sciatica,0,"Amitriptyline,Etoricoxib",0,0,1,0
+ST1WDU2179,Teacher,Deceased; Colonial Railway Superintendent,1,3,2,8,0,0,1,"Cellutitis,Hypothyroidism,hiatus hernia",0,"Levothyroxine,Furosemide,Omeprazole",0,0,1,0
+ST1WDU2180,Corporate Debt Supervisor,Retired; Newspaper Worker,1,1,2,10,0,0,0,None,0,None,0,0,1,0
+ST1WDU2181,Psychologist,Deceased;Medical Practitioner,1,3,2,9,0,0,1,"mild asthma,allergies",0,steroid inhaler(QVAR) as required; beconase nasal spray as required,1,0,1,0
+ST1WDU2182,Dressmaker,Deceased; Pharmacist & optician,1,2,4,10,0,0,0,None,0,None,0,0,1,0
+ST1WDU2183,Paramedic,Deceased; Fisherman,1,2,2,5,0,0,0,None,0,None,0,0,1,0
+ST1WDU2185,Funeral Director,Deceased; Soldier,2,1,2,2,0,0,0,"High blood pressure, High blood cholesterol",0,Amitriptyline,0,0,1,1
+ST1WDU2186,Store Manager,Estimating Engineer,2,2,2,15,2,0,1,"Stomach Ulcer,Heart palpitations,painful back and knees",0,None,0,0,1,0
+ST1WDU2187,Franchise Bar,Tool Maker,1,1,3,21,4,7,1,"High BP,Polymyalgia rheumatica, arthritic knees",1,Amlodipine,0,1,2,1
+ST1WDU2188,Joiner,Deceased; Warehouse Storeman,1,2,2,6,0,10,1,"Depression, high blood pressure, high blood cholesterol",0,Fluoxetine,0,0,2,0
+ST1WDU2189,Bricklayer,Deceased;Jute mill machine operator,1,1,1,10,1,20,0,none,0,none,0,0,1,0
+ST1WDU2191,Artists model @ dundee university,Marine engineer,1,2,1,20,0,0,1,Gastrointestinal problems; duodenal ulcer,0,none,0,0,1,0
+ST1WDU2192,Unemployed; Formerly Delivery Driver,Deceased; Bricklayer,1,1,4,0,0,25,1,"Recovering alchoholic (1 year), depression & anxiety, COPD",0,"Citalopram, salbutamol inhaler",0,0,1,1
+ST1WDU2193,Early Years Practitioner,Deceased; Van Salesman,1,1,2,2,1,0,0,None,0,None,0,0,1,0
+ST1WDU2194,Support Services - NHS,Deceased (Not sure of occupation),1,1,1,0,0,0,1,Depression,0,None,0,0,1,0
+ST1WDU2197,Retired; Social Care Officer,Deceased; Process Worker (Galaxo),1,2,2,4,0,0,1,Underactive thyroid,0,"Paracetamol, Levaxin, Omeprazole, Statin, Amitriptyline",0,0,2,0
+ST1WDU2198,Retired; Farm Manager,Deceased; Policeman,1,3,2,8,0,0,1,Osteoarthritis,0,None,0,0,1,0
+ST1WDU2201,Secretary,Deceased; Police officer,1,2,2,0,0,0,1,"Stress related illness in past, Breast cancer",0,"Accrette, Citalopram, Tamoxifen",0,0,2,0
+ST1WDU2202,Checkout operator,Deceased; Machine operator,1,2,2,9,0,0,0,None,0,None,0,0,1,0
+ST1WDU2203,Retired; Fire Fighter,Deceased; Works Foreman,1,3,2,30,0,0,1,"Hypertension, gout, knee arthritis",1,"Amlodipine, ramipril, allopurinol, naproxen",0,0,1,0
+ST1WDU2204,Mortgage Advisor,brick layer,1,1,2,8,0,0,1,"high blood cholesterol,high blood pressure,sleep apnoea(uses CPAP machine),Hip replacement Dec'16",1,"Atorvastatin,Perindopril,Eye drops(pressure behind eyes?name",0,0,1,0
+ST1WDU2208,Retired; Primary Teacher,Traffic Warden/Gardener,1,2,2,1,0,0,1,High blood pressure,1,Ramipril,0,1,1,0
+ST1WDU2209,Property Developer; Retired History & English Teacher,General Labourer/Soldier,2,3,2,0,0,0,1,"Mastoid ear as child, frequent urination",0,"Finasteride, tamsulosin",0,0,1,0
+ST1WDU2210,Assistant Project Manager at Dundee Council,Deceased; Production Manager,2,1,2,9,2,0,1,"High blood pressure, Meniere's disease, reactive anxiety (about Meniere's disease)",1,"Lisinopril, betahistine, multivitamines for menopause, evening primrose oil, cod liver oil",0,0,1,0
+ST1WDU2211,Offshore Operations Technician,Engineer,1,2,2,5,0,0,1,"Back operation, hayfever",0,"Simvastatin, antihistamines",0,0,1,0
+ST1WDU2212,Contracts Director,Retired; Building Surveyor,1,2,2,25,0,0,1,"Anxiety, high blood pressure, sleep apnoea",0,None,0,0,1,0
+ST1WDU2213,Driver,Deceased; Toolmaker,1,2,2,8,0,0,1,"High blood pressure, high cholesterol, refulx",1,"Perindopril, bendroflumethiazide, omeprazole",0,1,1,0
+ST1WDU2214,Managing Director,Retired; Factory Manager,1,1,3,15,0,0,1,"High blood pressure, acid reflux",1,"Lansoprazole, perindopril",0,0,1,0
+ST1WDU2215,Logistics team leader,Deceased; Electrician,1,1,2,0,2,0,1,Type 2 diabetes,1,"Candesartan, Metformin, Empagliflozin, Omeprazole",0,0,1,0
+ST1WDU2216,Health Care assistant,Lorry driver,2,3,1,18,0,0,1,"self referral-counselling-emotional?depression-turned out to be underactive thyroid, diabetes type 2; high cholesterol",0,"synjardy, thyroxin, atorvastatin, lactulose",0,0,1,0
+ST1WDU2217,Retired; Clerical officer,Deceased; Forester & Gamekeeper,3,2,2,0,0,0,1,"Polymyalgia, Fibromyalgia, IBS, Jaw arthritis",0,"Co-Q10 multivitamin, Serranol",0,0,1,0
+ST1WDU2218,Motor mechanic,"Deceased;upholsterer,carpet fitter",1,1,1,1,0,0,0,none,0,none,0,0,1,0
+ST1WDU2219,Police officer,Retired; Council HR Director,1,2,2,0,0,0,1,Mild depression,0,None,0,0,1,0
+ST1WDU2220,Retired; Gardener,Deceased; Bus Conductor,1,2,2,14,0,0,0,None,0,None,0,0,1,0
+ST1WDU2221,Bricklayer,Deceased; Engineer,2,2,4,0,0,0,1,Tonsils removed,0,None,0,0,1,0
+ST1WDU2222,Legal Manager- Solicitor,Deceased; Engineer,1,3,2,20,0,0,1,"Asthma, psoriasis",0,"Aqueous cream, dovonex",0,1,1,0
+ST1WDU2223,Retired; Clerical Officer,Deceased; Bricklayer,1,1,2,5,2,0,1,"Depression, hypothyroidism, angina, gastric reflux, syndrome X",0,"Fluoxetine, tildiem, omeprazole, thyroxine, valsartan, organic turmeric, asprin, co-codamol, royal jelly",1,0,2,1
+ST1WDU2225,Retired; Primary School Teacher,Deceased; Labourer,1,2,2,16,2,0,1,"Polyps in intestinal tracts, anxiety, high cholesterol, underactive thyroid, dry eyes, back issues, digestive problems",0,"Thyroxine, simvastatin",0,0,1,0
+ST1WDU2226,Administrator,Deceased; TV Engineer,1,2,2,2,0,0,1,"Gastric hernia, hypertension",1,"Amlodipine, omeprazole",0,0,1,0
+ST1WDU2227,Nurse,Deceased; Tool maker,1,3,2,10,2,0,1,High blood pressure,1,Valsartan,0,0,1,0
+ST1WDU2228,Retired; Bank Manager,Deceased; Nurse,3,2,2,2,0,0,1,"Transient ischaemic attack, hypercholesterolaemia, shingles, enlarged prostate, nasal allergy",0,"Simvastatin, finasteride, clopidogrel",0,0,1,0
+ST1WDU2231,Civil Servant,Deceased; Seaman,3,2,4,0,0,0,1,"Autoimmune hepatitis, hypothyroidism, migraine",0,"Levothyroxine, azathioprine",0,0,1,1
+ST1WDU2236,Occupational Therapist,Deceased; Electrical Shop Manager,1,3,4,5,1,0,1,Breast cancer,0,None,0,0,1,0
+ST1WDU2238,Railway Conductor,Deceased; Engineering Turner,1,1,2,14,0,0,1,"Fractured mandible, fractured wrist, fractured ankle, sciatica, pneumothorax, type 2 diabetes, work related stress, tennis elbow, basal cell carcinoma, high blood cholesterol",0,"Atorvastatin, metformin",0,0,1,0
+ST1WDU2239,Retired; HGV Driver,Deceased; Storeman,1,1,2,2,0,0,1,"Hypertension, rheumatoid arthritis, diabetes mellitus, CABG, gastric reflux, hypercholesterolaemia, carpal tunnel syndrome",1,"Aspirin, remedeine, gabapentin, simvastatin, ramipril, atenolol, hydroxychloroquine, metformin, omeprazole, gliclazide, liraglitide injection",1,0,1,0
+ST1WDU2240,Car Paint Supplier,Clerk,1,1,1,0,0,0,1,High blood cholesterol,0,"Simvastatin, aspirin",0,0,1,1
+ST1WDU2243,Disabled; Jute Mill Worker 40 Years Ago,Deceased; Clerk,1,3,1,42,6,0,1,"Depression, schizophrenia, gastric reflux",1,"Venlafaxine, lansoprazole, modafinil, trazodone, valsartan, procyclidine, pyridoxine, bendrofluazide, thiamine, clozapine",0,0,3,1
+ST1WDU2245,Research Scientist,Factory Worker NCR,1,3,2,2,0,0,1,Mild depression,0,None,0,0,1,0
+ST1WDU2248,Business Partner (Workshop Consumables),"Retired,Motor Mechanic",1,2,2,3,0,0,1,"Breast cancer, Arthritis",0,None,0,0,1,0
+ST1WDU2249,Community Firefighter,Deceased; Road Labourer,1,1,2,4,1,0,0,None,0,None,0,0,1,0
+ST1WDU2250,Senior Charge Nurse,Retired; Financial Consultant,1,3,4,2,1,0,1,"Stress-related anxiety (post-traumatic), asthma, underactive thyroid, hayfever, atrial fibrillation",0,"Bisoprolol, desloratadine, levothyroxine, seretide, salbutamol",0,0,1,0
+ST1WDU2251,Receptionist,Deceased; Policeman/Detective,1,2,2,0,0,0,0,None,0,None,0,0,1,0
+ST1WDU2252,Housewife,Deceased; Fisherman,1,1,2,0,0,0,1,"Chronic back pain, eczema, diverticulitis",0,"Amitriptyline, mebeverine, synalar, co-codamol",0,0,1,0
+ST1WDU2253,Primary School Teacher,Deceased; Chef,1,2,2,9,0,0,1,"Postnatal depression, asthma, endometriosis, TIA, atrial fibrillation, current infections boils, cataracts",1,"Atorvastatin, cetirizine dihydrochloride, omeprazole, perindopril, montelukast, apixaban, fostair inhaler, fluticasone nasal spray, oxytetracycline",0,1,1,0
+ST1WDU2257,Retired; Psychiatric Nurse,Retired; Motor Mechanic,2,3,1,0,0,0,1,"Hypothyroidism, heart burn, depression, fibromyalgia, osteoarthritis, stiff person syndrome (under investigation)",0,"Co-codamol (PRN), levothyroxine, omeprazole, pregabalin, amitriptyline (PRN), sodium alginate (PRN)",0,0,1,1
+ST1WDU2259,Local Government Officer,Deceased; Mill Worker,1,1,2,0,0,0,0,None,0,None,0,0,1,0
+ST1WDU2260,Vet,Deceased; Farmer,3,3,2,27,0,0,1,"Asthma, appendectomy, cheek bone fracture",0,Pulmicort,0,0,1,0
+ST1WDU2261,Profit Centre Manager,Deceased; Emergency Planning Officer,1,1,2,4,0,0,1,Stomach ulcer,0,Lansoprazole,0,0,1,0
+ST1WDU2264,Sales Manager,Deceased; Factory Manager,1,2,2,10,4,0,0,None,0,None,0,0,1,0
+ST1WDU2273,Porter Supervisor,Deceased; Lorry Driver,1,1,2,0,0,0,1,"COPD, asthma",0,"Ventolin, fostair",0,0,1,0
+ST1WDU2274,Sales Administrator,Deceased; Electrical Engineer,1,1,2,18,3,0,0,None,0,None,0,0,1,0
+ST1WDU2275,Retired; Criminal Justice Assistant,Deceased; Factory Worker,1,3,2,1,0,0,1,"Hypothyroidism, hypercholesterolaemia, gastric bypass, Lichen sclerosus, anaemia, diabetes mellitus, depression",0,"Aspirin, rosuvastatin, zopiclone, levothyroxine, lansoprazole, sertraline, amitriptyline, forceval, gabapentin, ketovite, accrete D3, hydroxocobalamin",0,1,1,1
+ST1WDU2277,Administrator,Unknown,1,1,4,2,0,0,1,"Hysterectomy, bunion removal, polio, ectopic pregnancy",0,None,0,0,1,0
+ST1WDU2278,Semi-retired; Physiotherapist,Retired; Mattress Maker,1,3,2,0,0,0,1,"Hypothyroidism, Osteoarthritis, Pernicious anaemia, Tunnel Vision, Depression",0,"Thyroxine, tramadol, paracetamol, Pregablin, Amitriptyline, B12 injections",0,0,1,1
+ST1WDU2279,Retired; Dental Technician,Retired; Pasterer,1,2,2,0,0,0,1,Acid reflux,0,Lansoprazole,0,0,1,0
+ST1WDU2298,Sales Engineer,Deceased; Lorry Driver,1,1,2,20,0,0,0,None,0,None,0,0,1,0
+ST1WDU2303,Electrician,Deceased; Weighing Machine Mechanic,1,1,2,2,0,0,0,None,0,None,0,0,1,0
+ST1WDU2437,Garage proprietor (self-employed),Deceased; Jute Mill Weaver,1,2,2,21,5,0,1,"Depression, asthma, hypertension, high blood cholesterol",1,"Atenolol, losartan, Rhinocort, montelukast, Slo-Phyllin",0,0,1,0
+ST1WDU2438,Retired; Plumber,Deceased; Scaffolder,2,2,5,24,8,6,1,"Depression, COPD, ABPA (Allergic Bronchopulmonary Aspergillosis ), perthes disease, osteoarthritis (advanced), mini strokes (twice), hypertension",1,"Clopidogrel, Co-dydramol, lansoprazole, isosorbide mononitrate, dosulepin, tiotropium bromide, clarithromycin, bisoprolol, perindopril erbumine",0,1,3,1
+ST1WDU2439,Retired; Neonatal Nursery Nurse,Deceased; Sepcial Needs Teacher,1,2,4,0,0,0,1,"Anxiety, asthma, osteoporosis, hypertension, melanoma, extramammary Paget's disease (EMPD)",1,"Ventolin (PRN), fostair, amlodipine, Adcal D3, alendronic acid",0,0,1,0
+ST1WDU2441,Mental Health Support Worker,Deceased; Labourer/Bricklayer,1,1,2,40,0,0,0,None,0,None,0,0,1,0
+ST1WDU2444,Architect,Tour Operator/Cocach Business,1,3,2,14,0,0,1,"High blood cholesterol, hypertension",1,"Lisinopril, simvastatin",0,0,1,0
+ST1WDU2447,Retired; Firefighter,Builder,1,2,2,12,0,0,1,"Hypothyroidism, gastric reflux",0,"Levothyroxine, omeprazole",0,0,1,0
+ST1WDU2451,Retired; Primary Teacher,Deceased; Weaver,1,2,2,4,1,0,1,High blood pressure,1,None,0,0,1,0
+ST1WDU2525,Housing Officer,Retired; Production Foreman,1,3,2,0,0,0,1,"Depression, Underactive Thyroid, Gastroparesis",0,"Fluoxetine, Thyroxine",0,0,1,0
+ST1WDU2649,Retired; Executory Manager Legal Office,Deceased; Stonemason,1,3,2,9,0,0,1,"Diverticulitis, gout",0,None,0,0,1,0
+ST1WDU2658,Retired; Slater,Deceased; Grocer,1,1,2,30,0,0,1,"Hypertension, urinary frequency, gout, AF, left foot dislocation, alcohol liver cirrhosis, right tibial plateau fracture",1,"Febuxostat, bisoprolol, amlodipine, tamsulosin",0,0,1,0
